@@ -1,0 +1,136 @@
+{
+        "1-A-1": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hi there! We’re going to help you solve some math problems!",
+                "boyPhrase": "In this part we are going to solve easy motion problems involving traveling in one direction.",
+                "board": "Traveling in one direction",
+                "exampleImages": [
+                    "scheme_1-A-1-Ex1.png",
+                    "scheme_1-A-1-Ex2.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "We know the distance that the ant ran from the ant hill to the flower and the distance that the ant ran from the flower to the mashroom! But how much did the ant run IN TOTAL?",
+                "boyPhrase": "To find out the TOTAL distance that the ant ran we need to add: 7+12. Now you do the math!",
+                "board": "example 1",
+                "animation": "1_a1_11_N.swf"
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "We know how much a snail has crawled to get to the mushroom and how much it needs to crawl IN TOTAL. But what distance does the snail have to cover in order to get from the mushroom to the flower?",
+                "boyPhrase": "In order to find out how much the snail has left to crawl we need to subtract how much the snail covered from the TOTAL distance: 16-9. Now you do the math!",
+                "board": "example 2",
+                "animation": "1_a1_13_N.swf"
+            }
+        ],
+        "1-A-2": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hello! Let’s continue with the simple one direction motion problems!",
+                "boyPhrase": "But this time we’re going to make it a bit harder!",
+                "board": "Traveling in one direction",
+                "exampleImages": [
+                    "scheme_1-A-2-Ex1.png",
+                    "scheme_1-A-2-Ex2.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "We know Katie’s average speed and we know that David is faster than Katie by 2 km per hour. What is David’s average speed?",
+                "boyPhrase": "In order to find out David’s speed we need to take Katie’s speed and add by how much David is faster than her: 7 + 2. Now you do the math!",
+                "board": "example 1",
+                "animation": "1_a2_11_N.swf"
+            },
+             {
+                "pageType": "static",
+                "girlPhrase": "We know that it took 12 hours to hunt down a rabbit and 3 hours less to hunt down a fox. How long did it take to hunt down the fox?",
+                "boyPhrase": "In order to find out how long it took to hunt down the fox we need to subtract 3 from 12 : 12-3. Now you do the math!",
+                "board": "example 2",
+                "exampleImages": [
+                    "scheme_1-A-2-Ex2_INT.png"
+                ]
+            }
+        ],
+        "1-A-3": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hello! This time we’re going to try to confuse you!",
+                "boyPhrase": "It’s the same kind of motion problems as before, but be careful! This might be a bit trickier!",
+                "board": "Traveling in one direction",
+                "exampleImages": [
+                    "scheme_1-A-2-Ex1.png",
+                    "scheme_1-A-3-Ex2.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "We know Katie’s average speed. We know that she is 2 km per hour slower than David. What is David’s average speed?",
+                "boyPhrase": "If Katie’s average speed is less than David’s that means that we have to add the difference between the two to Katie’s speed: 6 + 2. Now you do the math!",
+                "board": "example 1",
+                "exampleImages": [
+                    "scheme_1-A-3-Ex1_ENG.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "We know that a group of tourists walked for 8 hours and then traveled on a boat for 2 hours longer than on foot. First we have to find the time they spent traveling by boat: 8+2",
+                "boyPhrase": "Now we can find the total time the tourists spent on their journey. Lets add up the time they spent traveling on foot and by boat: 8 + 8 + 2. Now you do the math!",
+                "board": "example 2",
+                "exampleImages": [
+                    "scheme_1-A-3-Ex2_INT.png"
+                ]
+            }
+        ],
+        "1-A-4": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hello! You’re doing great!",
+                "boyPhrase": "Before we looked at problems which involved a certain distance divided into two parts. Now we’re going to make it a bit more difficult by having three different parts!",
+                "board": "Traveling in one direction",
+                "exampleImages": [
+                    "scheme_1-A-4-Ex1.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "We know the total distance that a group of tourists has to walk. We also know how much they covered in two days: on the first day and on the second day. How do we find out how much they have left to walk?",
+                "boyPhrase": "There are two ways of solving this problem!",
+                "board": "example 1",
+                "exampleImages": [
+                    "scheme_1-A-4-Ex1_INT.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "The first solution: We can add the distance that the tourists covered on the first two days: 7+5, and then subtract this sum from the TOTAL distance: 20 -( 7 + 5 ).",
+                "boyPhrase": "The second solution: We can subtract how much the tourists walked on the first day and on the second day from the TOTAL distance that they have to walk: 20 - 7- 5.",
+                "board": "example 1",
+                "exampleImages": [
+                    "scheme_1-A-4-Ex1_INT_2.png"
+                ]
+            }
+        ],
+        "1-A-5": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hello! It’s time for you to test yourself!",
+                "boyPhrase": "When completing the test problems you will see how well you understand the material!",
+                "board": "Traveling in one direction",
+                "exampleImages": [
+                    "scheme_1-A-1-Ex1.png",
+                    "scheme_1-A-1-Ex2.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "We have used letters instead of numbers! You won’t need to count and you will be able to see how well you understand the problems and how to solve them!",
+                "boyPhrase": "Good luck!",
+                "board": "Traveling in one direction",
+                "exampleImages": [
+                    "scheme_1-A-4-Ex1.png"
+                ]
+            }
+        ]
+}

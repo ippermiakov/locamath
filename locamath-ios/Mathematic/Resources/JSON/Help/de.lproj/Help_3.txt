@@ -1,0 +1,121 @@
+{
+        "1-C-1": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Wir helfen dir in Lösung der Aufgaben auszukennen!",
+                "boyPhrase": "In diesem Abschnitt sind die Aufgaben zu Annäherung zwei Objekten!",
+                "board": "Aufgaben zu Annäherung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-C-1-Ex1_GER.png",
+                    "scheme_1-C-1-Ex2_GER.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Erste Ameise läuft 6 Meter in einer Stunde, das heißt, dass sie in eine Stunde 6 Meter läuft. Zweite Ameise läuft 8 Meter in der Stunde!",
+                "boyPhrase": "Wenn wir die zwei Entfernungen, die beide Ameisen für 1 Stunde laufen, addieren, können wir erfahren, wie schnell sie einander in einer Stunde näherkommen: 6+8. Zähl mal selbst!",
+                "board": "Beispiel 1",
+                "exampleImages": [
+                    "scheme_1-C-1-Ex1_GER-1.png"
+                ]
+            }
+        ],
+        "1-C-2": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Setzen wir die Aufgaben in Annäherung zwei Objekten fort!",
+                "boyPhrase": "In diesem Abschnitt wird es ein bisschen schwerer!",
+                "board": "Aufgaben zu Annäherung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-C-2-Ex1_GER.png",
+                    "scheme_1-C-2-Ex2_GER.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Wir wissen, dass Ferkel 8 Meter in einer Minute läuft, und Winnie 2 Meter mehr als Ferkel. Welche Entfernung läuft Winnie in eine Minute: 8+2.",
+                "boyPhrase": "Dafür müssen wir die beiden Entfernungen addieren: 8+(8+2). Zähl mal selbst!",
+                "board": "Beispiel 1",
+                "exampleImages": [
+                    "scheme_1-C-2-Ex1_GER-1.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Wir wissen, dass zwei Freunde entgegen einander gehen. der erste Freund hat 9 Kilometer zurückgelegt, und der zweite 2 Kilometer weniger. Um wie viel mehr Kilometer haben sie sich genähert?",
+                "boyPhrase": "Zuerst finden wir die Entfernung, die der zweite Freund zurükgelegt hat: 9-2. Dann addieren wir die Entfernung, die sie insgesannt zurückgekegt haben: 9+(9-2). Zähl mal selbst!",
+                "board": "Beispiel 2",
+                "exampleImages": [
+                    "scheme_1-C-2-Ex2_GER-1.png"
+                ]
+            }
+        ],
+        "1-C-3": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! In diesem Abschnitt werden die Aufgaben schwerer!",
+                "boyPhrase": "Lies aufmerksam vor, weil Aufgabenstellung einen Hacken haben kann!",
+                "board": "Aufgaben zu Annäherung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-C-3-Ex1_GER.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "Wir wissen, dass Kleine 5 Kilometer und Karlsson 7 gelaufen sind. Die gesamte Entfernung zwischen ihnen umfasst 18 Kilometer.",
+                "boyPhrase": "Um zu finden, wie viel sie noch zu einander gehen müssen, muss man von der gesamten Entfernung das subtrahieren, was sie schon gelaufen sind: 18-(5+7). Zähl mal selbst!",
+                "board": "Beispiel 1",
+                "animation": "1_c3_12_N.swf"
+            }
+        ],
+        "1-C-4": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Du machst alles sehr gut! Und Aufgaben werden noch schwerer!",
+                "boyPhrase": "Man muss die Entfernung in einigen Streckenabschnitten finden, und nur dann die gesamte Entfernung!",
+                "board": "Aufgaben zu Annäherung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-C-4-Ex1_GER.png",
+                    "scheme_1-C-4-Ex2_GER.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Wir wissen, dass Kristopher 4 Kilometer zurückgelegt hat, und Ru 5 Kilometer mehr. Die gesamte Entfernung zwischen ihnen ist 15 Kilometer.",
+                "boyPhrase": "Um zu finden, wie viel sie noch zu einander gehen müssen, muss man von der gesamten Entfernung das subtrahieren, was sie schon gelaufen sind: 15-(4+(4+5)) Zähl mal selbst!",
+                "board": "Beispiel 1",
+                "exampleImages": [
+                    "scheme_1-C-4-Ex1_GER-1.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "Wir wissen, dass Steffen 3 und Emil 2 Kilometer in einer Stunde gelaufen sind. Wir müssen finden, wie viele Kilometer sie zusammen zurückgelegt haben.",
+                "boyPhrase": "Zählen wir, wie viel sie zusammen in einer Stunde, und dann wie viel in zwei Stunden zurückgelegt haben. Addieren wir die beiden Entfernungen: (3+2)+(3+2). Zähl mal selbst!",
+                "board": "Beispiel 2",
+                "animation":"1_c4_12_N.swf"
+            }
+        ],
+        "1-C-5": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Jetzt ist es Zeit, sich zu prüfen!",
+                "boyPhrase": "Bei der Lösung der Testaufgaben kannst du dich prüfen, wie gut du dich in Aufgaben auskennst!",
+                "board": "Aufgaben zu Annäherung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-C-1-Ex1_GER.png",
+                    "scheme_1-C-2-Ex2_GER.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Wir haben Zahlen durch Buchstaben ersetzt! Du musst nichts zählen, aber du prüfst, wie gut du die Aufgabenstellung verstehst!",
+                "boyPhrase": "Viel Glück!",
+                "board": "Aufgaben zu Annäherung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-C-3-Ex1_GER.png",
+                    "scheme_1-C-4-Ex2_GER.png"
+                ]
+            }
+        ]
+}

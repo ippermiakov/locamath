@@ -1,0 +1,121 @@
+{
+        "1-C-1": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hi there! We’re going to help you learn how to solve problems!",
+                "boyPhrase": "In this part we are going to solve problems involving traveling towards each other.",
+                "board": "Problems involving traveling towards each other",
+                "exampleImages": [
+                    "scheme_1-C-1-Ex1_ENG.png",
+                    "scheme_1-C-1-Ex2_ENG.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "An ant is crawling at a speed of 6 meters per hour. This means that the ant will crawl 6 meters in an hour. Another ant is crawling at a speed of 8 meters per hour!",
+                "boyPhrase": "If we add up the amount of meters each ant crawls in an hour we will find out how much closer they get to each other every hour.: 6+8. Now you do the math!",
+                "board": "example 1",
+                "exampleImages": [
+                    "scheme_1-C-1-Ex1_ENG-1.png"
+                ]
+            }
+        ],
+        "1-C-2": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hello! Let’s continue solving!",
+                "boyPhrase": "In this part we are going to make it a bit more difficult!",
+                "board": "Problems involving traveling towards each other",
+                "exampleImages": [
+                    "scheme_1-C-2-Ex1_ENG.png",
+                    "scheme_1-C-2-Ex2_ENG.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "We know that Piglet can walk 8 meters per minute and Winnie can walk faster by 2 meters than Piglet. Let’s find out how many meters Winnie can walk in a minute: 8+2.",
+                "boyPhrase": "In order to find out how much closer they get to each other every minute we have to sum up the distances that Winnie and Piglet walk in a minute: 8+(8+2).Now you do the math!",
+                "board": "example 1",
+                "exampleImages": [
+                    "scheme_1-C-2-Ex1_ENG-1.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Two friends started heading towards each other. One walked 9 km and the other walked a distance 2 km greater. By how much did the friends get closer to each other?",
+                "boyPhrase": "First will find the distance which the second friend walked 9-2, then will add up the distances 9+(9-2). Now you do the math!",
+                "board": "example 2",
+                "exampleImages": [
+                    "scheme_1-C-2-Ex2_ENG-1.png"
+                ]
+            }
+        ],
+        "1-C-3": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hello! In this part the problems are even more difficult!",
+                "boyPhrase": "Make sure to read the problem carefully, this might be a bit tricky!",
+                "board": "Problems involving traveling towards each other",
+                "exampleImages": [
+                    "scheme_1-C-3-Ex1_ENG.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "We know that Lillebror walked 5 km and Karlsson walked 7 km. The TOTAL distance between them before they started walking towards each other was 18 km.",
+                "boyPhrase": "In order to find out the distance left between them we have to subtract the sum of the distances that each walked from the TOTAL distance that was between them 18-(5+7). Now you do the math!",
+                "board": "example 1",
+                "animation": "1_c3_12_N.swf"
+            }
+        ],
+        "1-C-4": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hello! You’re making great progress! The problems are getting harder!",
+                "boyPhrase": "Now we will first have to find out the distance of different parts of the route in order to find out the total distance of the route!",
+                "board": "Problems involving traveling towards each other",
+                "exampleImages": [
+                    "scheme_1-C-4-Ex1_ENG.png",
+                    "scheme_1-C-4-Ex2_ENG.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "We know that Kristopher Robin walked 4 km and Roo walked 5 km more. Before they started walking towards each other the TOTAL distance between them was 15 km.",
+                "boyPhrase": "In order to find out how much they have left to walk before they meet up we need to subtract the sum of the distances that they already walked from the TOTAL distance: 15-(4+(4+5). Now you do the math!",
+                "board": "example 1",
+                "exampleImages": [
+                    "scheme_1-C-4-Ex1_ENG-1.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "We know that Daniel walked 3 km in an hour and that Victor walked 2 km in the same period of time. We need to find out how many km they walked in two hours.",
+                "boyPhrase": "Let’s find out the sum of the distances that the boys walked in the first hour and then will find the sum of the distances that they walked in the second hour and then add those two together: (3+2)+(3+2). Now you do the math!",
+                "board": "example 2",
+                "animation":"1_c4_12_N.swf"
+            }
+        ],
+        "1-C-5": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hello! It’s time for you to test yourself!",
+                "boyPhrase": "When completing the test problems you will see how well you understand the problems!",
+                "board": "Problems involving traveling towards each other",
+                "exampleImages": [
+                    "scheme_1-C-1-Ex1_ENG.png",
+                    "scheme_1-C-2-Ex2_ENG.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "We have used letters instead of numbers! You won’t need to count and you will be able to see how well you understand the problems and how to solve them!",
+                "boyPhrase": "Good luck!",
+                "board": "Problems involving traveling towards each other",
+                "exampleImages": [
+                    "scheme_1-C-3-Ex1_ENG.png",
+                    "scheme_1-C-4-Ex2_ENG.png"
+                ]
+            }
+        ]
+}

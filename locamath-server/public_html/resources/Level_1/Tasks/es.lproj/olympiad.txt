@@ -1,0 +1,143 @@
+{
+	"tasks": [
+            {
+              "Points" : "800",
+              "Level" : "9-0-1-1",
+              "Objective": "En una fila están 8 piedrasque distan 2sm uno de otro. En otra fila están 15 piedras que distan 1sm uno de otro. ¿Qu´q fila es más larga?",
+              "Tools" : ["La primera es más larga", "La segunda es más larga", "La primera es más corta", "La segunda es más corta", "Son iguales"],
+              "BaseTools" : ["the 1st is longer", "the 2nd is longer", "the 1st is shorter", "the 2nd is shorter", "the same lenght"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["Son iguales"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "1",
+              "alignmentType" : "2",
+              "Answers": [ ["Son iguales"] ]
+            },
+            {
+              "Points" : "800",
+              "Level" : "9-0-1-1",
+              "Objective": "Tres gatos Tom, Paco y Marlin han comido una sardina, un atún y una merluza. Тоm no ha comido sardina. Paco no ha comido ni sardina, ni atún. ¿Qué pez ha comido cada uno de los gatos ?",
+              "Tools" : ["merluza", "sardina", "atún"],
+              "BaseTools" : ["tuna", "trout", "salmon"],
+              "Hint" : ["Tom - ...", "Paco - ...", "Marlin - ..."],
+              "SolutionHint" : [ ["atún"], ["sardina"], ["merluza"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "1",
+              "alignmentType" : "2",
+              "Answers": [ ["Tom - atún"], ["Paco - sardina"], ["Marlin - merluza"] ]
+            },
+            {
+              "Points" : "800",
+              "Level" : "9-0-1-1",
+              "Objective": "¿Cuántas pesadas en ena balanza de brazo sin pesas necesitamos para encontrar una moneda falsa de 9 monedas iguales a la vista si se sabe que la falsa es la más ligera?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["2"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["2"] ]
+            },
+            {
+              "Points" : "800",
+              "Level" : "9-0-1-1",
+              "Objective": "Inserta  + o – que faltan",
+              "Tools" : ["+", "-"],
+              "Hint" : ["a) 5...4...3...2...1 = 3", "b) 5...4...3...2...1 = 5"],
+              "SolutionHint" : [ ["+", "-", "-", "-"], ["+", "-", "-", "+"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "1",
+              "Answers": [ ["a) 5+4-3-2-1 = 3", "a) 5-4+3-2+1 = 3"], ["b) 5+4-3-2+1 = 5", "b) 5-4+3+2-1 = 5"] ]
+            },
+            {
+              "Points" : "1000",
+              "Level" : "9-0-1-2",
+              "Objective": "Voló una bandada de los gansos. Uno delante y dos detrás. Uno detrás y dos delante.  Uno entre dos y tres en una fila. ¿Cuántos gansos volaron?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["3"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["3"] ]
+            },
+            {
+              "Points" : "1000",
+              "Level" : "9-0-1-2",
+              "Objective": "Había 9 hojas de papel. Algunos de ellos han cortado en 3 partes. Había en total 15 hojas. ¿Cuántas hojas de papel han cortado?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["3"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["3"] ]
+            },
+            {
+              "Points" : "1000",
+              "Level" : "9-0-1-2",
+              "Objective": "Una habitación tiene 4 rincones. En cada rincón está una gata. Frente a cada gata están tres gatas. ¿Cuántas gatas están en la habitación?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["4"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["4"] ]
+            },
+            {
+              "Points" : "1000",
+              "Level" : "9-0-1-2",
+              "Objective": "Pablo tiene 20 euros en 2 bolsillos. Cuando ha puesto 6 euros de un bolsillo a otro ha resultado que en dos bolsillos está la cantidad de dinero igual. ¿Cuánto dinero había en cada bolsillo primeramente?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["...", "..."],
+              "SolutionHint" : [ ["16"], ["4"] ],
+              "isAnyAnswerApplicable" : "1",
+              "numOfToolsToFill" : "5",
+              "Answers": [ ["16"], ["4"] ]
+            },
+            {
+              "Points" : "1200",
+              "Level" : "9-0-1-3",
+              "Objective": "Cuatro amigos han dividido entre si 7 paquetes de los jugos de frutas de 1l, 2l, 3l, 4l, 5l, 6l, 7l en partes iguales por la capacidad. ¿Cómo lo han hecho ?",
+              "Tools" : ["1l", "2l", "3l", "4l", "5l", "6l", "7l"],
+              "BaseTools" : ["1L", "2L", "3L", "4L", "5L", "6L", "7L"],
+              "Hint" : ["...", "... y ...", "... y ...", "... y ..."],
+              "SolutionHint" : [ ["7l"], ["2l", "5l"], ["1l", "6l"], ["3l", "4l"] ],
+              "isAnyAnswerApplicable" : "1",
+              "numOfToolsToFill" : "1",
+              "alignmentType" : "2",
+              "Answers": [ ["7l"], ["2l y 5l", "5l y 2l"], ["1l y 6l", "6l y 1l"], ["3l y 4l", "4l y 3l"] ]
+            },
+            {
+              "Points" : "1200",
+              "Level" : "9-0-1-3",
+              "Objective": "Inserte en las celdas vacías del cuadrado los números 4, 6, 9, 10, 11, 12 para que fuera la „magico“. (La suma de números en horizontal, por la vertical y en la diagonal es igual.)",
+              "Tools" : ["4", "6", "9", "10", "11", "12"],
+              "Hint" : ["5......", "...8...", "7......"],
+              "SolutionHint" : [ ["10", "9"], ["12", "4"], ["6", "11"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "1",
+              "alignmentType" : "1",
+              "Answers": [ ["5109"], ["1284"], ["7611"] ]
+            },
+            {
+              "Points" : "1200",
+              "Level" : "9-0-1-3",
+              "Objective": "Pon en vez de los puntos tales números que la suma de cualesquiera de tres, tomados seguidamente, equivalga a 20.",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["3..................9"],
+              "SolutionHint" : [ ["9", "8", "3", "9", "8", "3"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "1",
+              "Answers": [ ["39839839"] ]
+            },
+            {
+              "Points" : "1200",
+              "Level" : "9-0-1-3",
+              "Objective": "En tres floreros hay 27 tulipanes. Cuando del primer florero han trasladado 5 tulipanes al segundo, y de segundo al el tercero - 3 tulipanes, en todos los floreros está la cantidad igual de las flores. ¿Cuántos tulipanes había en cada florero primeramente?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["...", "...", "..."],
+              "SolutionHint" : [ ["14"], ["7"], ["6"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "5",
+              "Answers": [ ["14"], ["7"], ["6"] ]
+            }
+	]
+}

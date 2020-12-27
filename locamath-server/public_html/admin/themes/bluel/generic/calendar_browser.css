@@ -1,0 +1,70 @@
+/* browser */
+
+.browser table.brw_calendar {
+  background-color: #CCCCCC;
+}
+
+.browser table.brw_calendar tr.selected{
+  background-color: #EEEEEE;
+}
+
+.browser table.brw_calendar tr.title {
+  background-color: #DDDDDD;
+}
+
+.browser table.brw_calendar tr.header {
+  background-color: #DDDDDD;
+}
+
+.browser table.brw_calendar tr.header th {
+  width: 14.28%;
+}
+
+.browser table.brw_calendar th.header table td {
+  padding: 2px;
+  background-color: #DDDDDD;
+}
+
+.browser table.brw_calendar tr.calendar{
+  background-color: #FFFFFF;
+  height: 100px;
+}
+
+.browser table.brw_calendar tr.calendar td{
+  width: 14.28%;
+  font-size: 1.4ex;
+}
+
+.browser table.brw_calendar tr.calendar td span.event{
+  font-size: 2.5ex;
+}
+
+.browser table.brw_calendar tr.calendar td div.day_number {
+  float: right;
+  font-size: 2.5ex;
+  font-weight: bold;
+  border: 1px solid gray;
+  min-width: 3ex;
+  text-align: center;
+  background-color: #22CC00;
+}
+
+.browser table.brw_calendar tr.calendar td.prior_month{
+  background-color: #EFEFEF;
+}
+
+.browser table.brw_calendar tr.calendar td.next_month{
+  background-color: #EFEFEF;
+}
+
+.browser table.brw_calendar tr.calendar td.weekend{
+  background-color: #FFC;
+}
+
+.browser table.brw_calendar tr.calendar td.holiday{
+  background-color: #EFC;
+}
+
+.browser table.brw_calendar tr.calendar td.today{
+  border: 2px dashed gray;
+}

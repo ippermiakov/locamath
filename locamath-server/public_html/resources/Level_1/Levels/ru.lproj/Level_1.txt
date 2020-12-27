@@ -1,0 +1,164 @@
+{
+    "paths" : [ 
+    {
+        "name" : "Простые задачи на движение",
+        "errors" : ["Начни с простых задач на движение! Иди к Высокому Берегу", "Не все обучающие задачи на Высоком Берегу решены!"],
+        "color" : "Red",
+        "levelNumber" : 1,
+        "olympiad_localized_text" : "Чтобы начать решать задачи Олимпиады, ты должен сначала решить тестовые задачи на красном уровне!",
+        "levels": {
+            "1-A-1": {
+                "Name": "Высокий берег",
+                "Image": "exercises_page_high_bank",
+                "PointX": 1104,
+                "PointY": 423
+            },
+            "1-A-2": {
+                "Name": "Мостик",
+                "Image": "exercises_page_bridge",
+                "PointX": 1005,
+                "PointY": 340
+            },
+            "1-A-3": {
+                "Name": "Солнечный берег",
+                "Image": "exercises_page_sunny_riverside",
+                "PointX": 575,
+                "PointY": 12
+            },
+            "1-A-4": {
+                "Name": "Воздушный шар",
+                "Image": "exercises_page_air_balloon",
+                "PointX": 213,
+                "PointY": 253
+            },
+            "1-A-5": {
+                "Name": "Тест",
+                "Image": "Red_test@2x",
+                "PointX": 58,
+                "PointY": 315,
+                "isTest": 1
+            }
+        }
+    },
+    {
+        "name" : "Задачи на последовательное движение тел на разных участках пути",
+        "color" : "Blue",
+        "errors" : ["Попробуй сначала решить задачу на последовательное движение тел на разных участках пути! Иди к Старому Дереву", "Не все обучающие задачи у Старого Дерева решены!"],
+        "levelNumber" : 1,
+        "olympiad_localized_text" : "Чтобы начать решать задачи Олимпиады, ты должен сначала решить тестовые задачи на синем уровне и предыдущие олимпиадные задачи!",
+        "levels": {
+            "1-B-1": {
+                "Name": "Старое дерево",
+                "Image": "exercises_page_old_tree",
+                "PointX": 867,
+                "PointY": 916
+            },
+            "1-B-2": {
+                "Name": "Авокадо",
+                "Image": "exercises_page_avocado_tree",
+                "PointX": 1056,
+                "PointY": 873
+            },
+            "1-B-3": {
+                "Name": "Поле",
+                "Image": "exercises_page_wheat_field",
+                "PointX": 657,
+                "PointY": 933
+            },
+            "1-B-4": {
+                "Name": "Дупло Мудрой Совы",
+                "Image": "exercises_page_hollow_of_wise_owl",
+                "PointX": 305,
+                "PointY": 817
+            },
+            "1-B-5": {
+                "Name": "Тест",
+                "Image": "Blue_test@2x",
+                "PointX": 449,
+                "PointY": 576,
+                "isTest": 1
+            }
+        }
+    },
+    {
+        "name" : "Задачи на сближение двух тел",
+        "color" : "Violet",
+        "errors" : ["Реши задачи на сближение двух тел и возвращайся! Иди к Роднику", "Не все обучающие задачи у Родника решены!"],
+        "levelNumber" : 1,
+        "olympiad_localized_text" : "Чтобы начать решать задачи Олимпиады, ты должен сначала решить тестовые задачи на зеленом уровне и предыдущие олимпиадные задачи!",
+        "levels": {
+            "1-C-1": {
+                "Name": "Родник",
+                "Image": "exercises_page_wellspring",
+                "PointX": 1878,
+                "PointY": 708
+            },
+            "1-C-2": {
+                "Name": "Цветочная поляна",
+                "Image": "exercises_page_Flower_meadow",
+                "PointX": 1938,
+                "PointY": 1038
+            },
+            "1-C-3": {
+                "Name": "Вершина холма",
+                "Image": "exercises_page_top_of_the_hill",
+                "PointX": 2123,
+                "PointY": 954
+            },
+            "1-C-4": {
+                "Name": "Пасека",
+                "Image": "exercises_page_apiary",
+                "PointX": 2389,
+                "PointY": 756
+            },
+            "1-C-5": {
+                "Name": "Тест",
+                "Image": "Violet_test@2x",
+                "PointX": 2834,
+                "PointY": 763,
+                "isTest": 1
+            }
+        }
+    },
+    {
+        "name" : "Задачи на удаление двух тел",
+        "color" : "Green",
+        "errors" : ["Реши задачи на удаление двух тел и возвращайся! Иди в направлении Елового Леса", "Не все обучающие задачи в Еловом Лесу решены!"],
+        "levelNumber" : 1,
+        "olympiad_localized_text" : "Чтобы начать решать задачи Олимпиады, ты должен сначала решить тестовые задачи на фиолетовом уровне и предыдущие олимпиадные задачи!",
+        "levels": {
+            "1-E-1": {
+                "Name": "Еловый лес",
+                "Image": "exercises_page_fir_forest",
+                "PointX": 1366,
+                "PointY": 363
+            },
+            "1-E-2": {
+                "Name": "Большое озеро",
+                "Image": "exercises_page_big_lake",
+                "PointX": 1955,
+                "PointY": 214
+            },
+            "1-E-3": {
+                "Name": "Фруктовый сад",
+                "Image": "exercises_page_orchard",
+                "PointX": 2131,
+                "PointY": 215
+            },
+            "1-E-4": {
+                "Name": "Бабушкин домик",
+                "Image": "exercises_page_grandma's_house",
+                "PointX": 2435,
+                "PointY": 220
+            },
+            "1-E-5": {
+                "Name": "Тест",
+                "Image": "Green_test@2x",
+                "PointX": 2534,
+                "PointY": 345,
+                "isTest": 1
+            }
+        }
+    }
+    ]
+}

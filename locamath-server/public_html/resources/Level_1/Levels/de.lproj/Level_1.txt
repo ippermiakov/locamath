@@ -1,0 +1,164 @@
+{
+    "paths" : [ 
+    {
+        "name" : "Einfache Aufgaben zu Bewegung",
+        "errors" : ["Fange mit den einfachen Aufgaben zu Bewegung an! Gehe zu Dem hohen Ufer", "Nicht alle Aufgaben bei Dem hohen Ufer waren gelöst!"],
+        "color" : "Red",
+        "levelNumber" : 1,
+        "olympiad_localized_text" : "Initially, to be able to select The I Olympiad Level you first must complete The Red Test problems on the red level.",
+    "levels": {
+             "1-A-1": {
+                "Name": "Ein hohes Ufer",
+                "Image": "exercises_page_high_bank",
+                "PointX": 1104,
+                "PointY": 423
+            },
+            "1-A-2": {
+                "Name": "Brücke",
+                "Image": "exercises_page_bridge",
+                "PointX": 1005,
+                "PointY": 340
+            },
+            "1-A-3": {
+                "Name": "Sonniger Strand",
+                "Image": "exercises_page_sunny_riverside",
+                "PointX": 575,
+                "PointY": 12
+            },
+            "1-A-4": {
+                "Name": "Luftballon",
+                "Image": "exercises_page_air_balloon",
+                "PointX": 213,
+                "PointY": 253
+            },
+            "1-A-5": {
+                "Name": "Test",
+                "Image": "Red_test@2x",
+                "PointX": 58,
+                "PointY": 315,
+                "isTest": 1
+            }
+        }
+    },
+    {
+        "name" : "Aufgaben zu aufeinanderfolgender Objektbewegung in verschiedenen Streckenabschnitten",
+        "color" : "Blue",
+        "errors" : ["Versuche zuerst die Aufgabe zu aufeinanderfolgender Objektbewegung in verschiedenen Streckenabschnitten lösen! Gehe zu Dem alten Baum", "Nicht alle Aufgaben bei Dem alten Baum waren gelöst!"],
+        "levelNumber" : 1,
+        "olympiad_localized_text" : "To be able to select The II Olympiad Level you must have completed The I Olympiad Level and The Blue Test problems on the blue level.",
+    "levels": {
+            "1-B-1": {
+                "Name": "Ein alter Baum",
+                "Image": "exercises_page_old_tree",
+                "PointX": 867,
+                "PointY": 916
+            },
+            "1-B-2": {
+                "Name": "Avocato",
+                "Image": "exercises_page_avocado_tree",
+                "PointX": 1056,
+                "PointY": 873
+            },
+            "1-B-3": {
+                "Name": "Feld",
+                "Image": "exercises_page_wheat_field",
+                "PointX": 657,
+                "PointY": 933
+            },
+            "1-B-4": {
+                "Name": "Höhlung einer klugen Eule",
+                "Image": "exercises_page_hollow_of_wise_owl",
+                "PointX": 305,
+                "PointY": 817
+            },
+            "1-B-5": {
+                "Name": "Test",
+                "Image": "Blue_test@2x",
+                "PointX": 449,
+                "PointY": 576,
+                "isTest": 1
+            }
+        }
+    },
+    {
+        "name" : "Aufgaben zu Annäherung zwei Objekten",
+        "color" : "Violet",
+        "errors" : ["Löse Aufgaben zu Annäherung zwei Objekten und kehre zurück! Gehe zu Quelle", "Nicht alle Aufgaben bei Quelle waren gelöst!"],
+        "levelNumber" : 1,
+        "olympiad_localized_text" : "To be able to select The III Olympiad Level you must have completed The II Olympiad Level and The Purple Test problems on the purple level.",
+    "levels": {
+            "1-C-1": {
+                "Name": "Quelle",
+                "Image": "exercises_page_wellspring",
+                "PointX": 1878,
+                "PointY": 708
+            },
+            "1-C-2": {
+                "Name": "Blumenwaldwiese",
+                "Image": "exercises_page_Flower_meadow",
+                "PointX": 1938,
+                "PointY": 1038
+            },
+            "1-C-3": {
+                "Name": "Hügel",
+                "Image": "exercises_page_top_of_the_hill",
+                "PointX": 2123,
+                "PointY": 954
+            },
+            "1-C-4": {
+                "Name": "Bienenstand",
+                "Image": "exercises_page_apiary",
+                "PointX": 2389,
+                "PointY": 756
+            },
+            "1-C-5": {
+                "Name": "Test",
+                "Image": "Violet_test@2x",
+                "PointX": 2834,
+                "PointY": 763,
+                "isTest": 1
+            }
+        }
+    },
+    {
+        "name" : "Aufgaben zu Entfernung zwei Objekten",
+        "color" : "Green",
+        "errors" : ["Löse Aufgaben zu Entfernung zwei Objekten und kehre zurück! Gehe in der Richtung nach Tannenwald", "Nicht alle Aufgaben im Tannenwald waren gelöst!"],
+        "levelNumber" : 1,
+        "olympiad_localized_text" : "To be able to select The IV Olympiad Level you must have completed The III Olympiad Level and The Green Test problems on the green level.",
+    "levels": {
+            "1-E-1": {
+                "Name": "Tannenwald",
+                "Image": "exercises_page_fir_forest",
+                "PointX": 1366,
+                "PointY": 363
+            },
+            "1-E-2": {
+                "Name": "Ein großes See",
+                "Image": "exercises_page_big_lake",
+                "PointX": 1955,
+                "PointY": 214
+            },
+            "1-E-3": {
+                "Name": "Obstgarten",
+                "Image": "exercises_page_orchard",
+                "PointX": 2131,
+                "PointY": 215
+            },
+            "1-E-4": {
+                "Name": "Omas Häuschen",
+                "Image": "exercises_page_grandma's_house",
+                "PointX": 2435,
+                "PointY": 220
+            },
+            "1-E-5": {
+                "Name": "Test",
+                "Image": "Green_test@2x",
+                "PointX": 2534,
+                "PointY": 345,
+                "isTest": 1
+            }
+        }
+    }
+    ]
+}

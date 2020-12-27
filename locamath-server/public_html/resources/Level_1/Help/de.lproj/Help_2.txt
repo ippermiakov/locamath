@@ -1,0 +1,109 @@
+{
+        "1-B-1": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Hallo! Wir helfen dir in Lösung der Aufgaben auszukennen!",
+                        "boyPhrase": "In diesem Abschnitt gibt es die Aufgaben zu aufeinanderfolgende Objektbewegung in verschiedenen Streckenabschnitten!",
+                        "board": "Aufeinanderfogende Objektbewegung in verschiedenen Streckenabschnitten",
+                        "exampleImages": [
+                                          "scheme_1-B-1-Ex1.png",
+                                          "scheme_1-B-1-Ex2.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "animation",
+                        "girlPhrase": "Wir wissen, wie viel die Schnecke im ersten und wie viel mehr im zweiten Tag gekrochen ist. Und wie viel ist sie INSGESAMMT gekrochen?",
+                        "boyPhrase": "Dafür müssen wir zur Entfernung, die sie im ersten Tag gekrochen ist, Entfernung es zweiten Tages addieren: (7+3)+7. Zähl mal selbst!",
+                        "board": "Beispiel 1",
+                        "animation": "1_b1_11_N.swf"
+                    }
+                    ],
+        "1-B-2": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Hallo! Setzen wir die Aufgaben zu aufeinanderfolgende Objektbewegung in verschiedenen Streckenabschnitten fort!",
+                        "boyPhrase": "In diesem Abschnitt wird es ein bisschen schwerer! Wir haben noch einen Streckenabschnitt hinzugefügt!",
+                        "board": "Aufeinanderfolgende Objektbewegung in verschiedenen Streckenabschnitten",
+                        "exampleImages": [
+                                          "scheme_1-B-2-Ex1.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Wir wissen, wie viel Touristen im ersten und im zweiten Tag zurückgelegt haben. Wie viel sie INSGESAMT zurücklegen müssen, wenn sie im dritten Tag mit dem Hubschrauber dieselbe Entfernung geflogen sind, wie im ersten und im zweiten Tag insgesamt zurückgelegt haben?",
+                        "boyPhrase": "Dafür müssen wir Entfernungen der ersten zwei Tage zu Entfernung des dritten Tages addieren: 12+7+(12+7). Zähl mal selbst!",
+                        "board": "Beispiel 1",
+                        "exampleImages": [
+                                    "scheme_1-B-2-Ex1_INT.png"
+                                        ]   
+                    }
+                    ],
+        "1-B-3": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Hallo! Und in diesem Abschnitt versuchen wir dich zu verwirren!",
+                        "boyPhrase": "Hier sind dieselben Aufgaben, aber du musst aufmerksam vorlesen, weil die Aufgabenstellung einen Hacken haben kann!",
+                        "board": "Aufeinanderfolgende Objektbewegung in verschiedenen Streckenabschnitten",
+                        "exampleImages": [
+                                          "scheme_1-B-3-Ex1.png",
+                                          "scheme_1-B-3-Ex2.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "animation",
+                        "girlPhrase": "Wir wissen, wie viel Schnecke am Tag und in der Nacht gekrochen ist. Und wie viel ist sie INSGESAMT gekrochen?",
+                        "boyPhrase": "Um die ganze Entfernung zu finden, muss man Entfernungen des Tages und der Nacht addieren: 5+3. Zähl mal selbst!",
+                        "board": "Beispiel 1",
+                        "animation": "1_b3_11_N.swf"
+                    },
+                    {
+                        "pageType": "animation",
+                        "girlPhrase": "Wir wissen, wie viel die Schnecke am Tag nach oben gekrochen und wie viel sie hinuntergestiegen ist. Man muss finden, wie hoch von der Erde die Schnecke morgens wird sein.",
+                        "boyPhrase": "Um diese Entfernung zu finden, muss man von der Entfernug, die sie nach oben gekrochen ist, die Entfernung subtrahieren, die sie hinuntergestiegen st: 5-3. Zähl mal selbst!",
+                        "board": "Beispiel 2",
+                        "animation": "1_b3_12_N.swf"
+                    }
+                    ],
+        "1-B-4": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Hallo! Du machst alles sehr gut! Und Aufgaben werden noch schwerer!",
+                        "boyPhrase": "Man muss die Entfernung in einigen Streckenabschnitten finden, und nur dann die gesamte Entfernung!",
+                        "board": "Aufeinanderfolgende Objektbewegung in verschiedenen Streckenabschnitten",
+                        "exampleImages": [
+                                          "scheme_1-B-4-Ex1.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Im ersten Tag haben Touristen 3 Kilometer zurückgelegt, und in zweiten sind sie mit dem Boot an 2 Kilometer mehr weit. Das heißt, dass sie für den zweiten Tag 2+3 bewältigt haben.",
+                        "boyPhrase": "Für dritten Tag haben Touristen so viel, wie in ersten zwei Tagen zurückgelegt: 3+(3+2). Um alle Entfernungen, die sie zurückgekegt haben, zu finden, muss man alle drei Entfernungen addieren: 3+(3+2)+(3+(3+2)). Zähl mal selbst!",
+                        "board": "Bispiel 1",
+                        "exampleImages": [
+                                        "scheme_1-B-4-Ex1_INT.png"
+                                        ]
+                    }
+                    ],
+        "1-B-5": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Hallo! Jetzt ist es Zeit, sich zu prüfen!",
+                        "boyPhrase": "Bei der Lösung der Testaufgaben kannst du dich prüfen, wie gut du dich in Aufgaben auskennst!",
+                        "board": "Aufeinanderfolgende Objektbewegung in verschiedenen Streckenabschnitten",
+                        "exampleImages": [
+                                          "scheme_1-B-1-Ex1.png",
+                                          "scheme_1-B-1-Ex2.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Wir haben Zahlen durch Buchstaben ersetzt! Du musst nichts zählen, aber du prüfst, wie gut du die Aufgabenstellung verstehst!",
+                        "boyPhrase": "Viel Glück!",
+                        "board": "Aufeinanderfolgende Objektbewegung in verschiedenen Streckenabschnitten",
+                        "exampleImages": [
+                                          "scheme_1-B-3-Ex1.png",
+                                          "scheme_1-B-2-Ex1.png"
+                                          ]
+                    }
+         ]
+}

@@ -1,0 +1,571 @@
+{
+"tasks": [
+{
+              "Points" : "800",
+              "Level" : "9-0-1-1",
+              "Objective": "There are two rows of rocks. In the first row there are 8 rocks which are set apart from each other by 2 inches. In the second row there are 15 rocks which are set apart by 1 inch. Which of the two rows is longer?",
+              "Tools" : ["the 1st is longer", "the 2nd is longer", "the 1st is shorter", "the 2nd is shorter", "the same length"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["the same length"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "1",
+              "alignmentType" : "2",
+              "Answers": [ ["the same length"] ]
+},
+{
+              "Points" : "800",
+              "Level" : "9-0-1-1",
+              "Objective": "There are three kittens named Tom, Buttons and Chloe. The three kittens ate tuna, salmon and trout. Each kitten ate one type of fish. Buttons didn't eat the tuna. Tom didn't eat the tuna or the salmon. Which kitten ate which fish?",
+              "Tools" : ["tuna", "trout", "salmon"],
+
+              "Hint" : ["Buttons - ...", "Tom - ...", "Chloe - ..."],
+              "SolutionHint" : [ ["salmon"], ["trout"], ["tuna"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "1",
+              "alignmentType" : "2",
+              "Answers": [["Buttons - salmon"], ["Tom - trout"], ["Chloe - tuna"]]
+},
+{
+              "Points" : "800",
+              "Level" : "9-0-1-1",
+              "Objective": "There are 9 coins which look exactly the same. One of the coins weighs less than the rest. How can you figure out which coins weighs less than the rest if you can weigh them on pan scales?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["2"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["2"] ]
+},
+{
+              "Points" : "800",
+              "Level" : "9-0-1-1",
+              "Objective": "Insert the missing + (plus) or - (minus) symbols.",
+              "Tools" : ["+", "-"],
+              "Hint" : ["a) 5...4...3...2...1 = 3", "b) 5...4...3...2...1 = 5"],
+              "SolutionHint" : [ ["+", "-", "-", "-"], ["+", "-", "-", "+"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "1",
+              "Answers": [ ["a) 5+4-3-2-1 = 3", "a) 5-4+3-2+1 = 3"], ["b) 5+4-3-2+1 = 5", "b) 5-4+3+2-1 = 5"] ]
+},
+{
+              "Points" : "1000",
+              "Level" : "9-0-1-2",
+              "Objective": "There a flock of geese is flying in the sky. One is flying at the front and two are flying at the back. Two are flying at the back and one is flying at the front. One goose is flying in between two other geese and there are three geese flying in a row. How many geese are there in total?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["3"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["3"] ]
+},
+{
+              "Points" : "1000",
+              "Level" : "9-0-1-2",
+              "Objective": "There were 9 sheets of paper. Some of the sheets were cut into 3 pieces. Now there are 15 sheets of paper. How many sheets of paper were cut?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["3"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["3"] ]
+},
+{
+              "Points" : "1000",
+              "Level" : "9-0-1-2",
+              "Objective": "There are 4 corners in the room. A cat is sitting in each corner. There is 3 cats sitting opposite  of each cat in the corner. How many cats are there in total? ",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["4"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["4"] ]
+},
+{
+              "Points" : "1000",
+              "Level" : "9-0-1-2",
+              "Objective": "Daniel has a total sum of 20$ in his two pockets. If he takes 6$ from one pocket and puts it into the other one he will have an equal amount in each pocket. How many dollars does Daniel have in each pocket?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["...", "..."],
+              "SolutionHint" : [ ["16"], ["4"] ],
+              "isAnyAnswerApplicable" : "1",
+              "numOfToolsToFill" : "5",
+              "Answers": [ ["16"], ["4"] ]
+},
+{
+              "Points" : "1200",
+              "Level" : "9-0-1-3",
+              "Objective": "4 friends divided 7 juice containers amongst each other equally. Each container had a different amount of juice: 1L, 2L, 3L, 4L, 5L, 6L and 7L. How did they share the juice containers in such a way that everybody got the same amount of juice?",
+              "Tools" : ["1L", "2L", "3L", "4L", "5L", "6L", "7L"],
+
+              "Hint" : ["...", "... and ...", "... and ...", "... and ..."],
+              "SolutionHint" : [ ["7L"], ["2L", "5L"], ["1L", "6L"], ["3L", "4L"] ],
+              "isAnyAnswerApplicable" : "1",
+              "numOfToolsToFill" : "1",
+              "alignmentType" : "2",
+              "Answers": [ ["7L"], ["2L and 5L", "5L and 2L"], ["1L and 6L", "6L and 1L"], ["3L and 4L", "4L and 3L"] ]
+},
+{
+              "Points" : "1200",
+              "Level" : "9-0-1-3",
+              "Objective": "Insert the missing numbers 4, 6, 9, 10, 11 and 12 into the empty boxes in the square in such a way that will make the square “magical” (the sum of numbers horizontally, diagonally and vertically should be equal).",
+              "Tools" : ["4", "6", "9", "10", "11", "12"],
+              "Hint" : ["5......", "...8...", "7......"],
+              "SolutionHint" : [ ["10", "9"], ["12", "4"], ["6", "11"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "1",
+              "alignmentType" : "1",
+              "Answers": [ ["5109"], ["1284"], ["7611"] ]
+},
+{
+              "Points" : "1200",
+              "Level" : "9-0-1-3",
+              "Objective": "Replace the dots with numbers in such a way that the sum of any given 3 numbers in a row will equal 20.",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["3..................9"],
+              "SolutionHint" : [ ["9", "8", "3", "9", "8", "3"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "1",
+              "Answers": [ ["39839839"] ]
+},
+{
+              "Points" : "1200",
+              "Level" : "9-0-1-3",
+              "Objective": "There are 3 vases with 27 tulips in them. Suppose you take 5 tulips from the first vase and place them in the second. And then if you take 3 tulips from the second vase and place them in the third one you will get an equal amount of tulips in the 3 vases. How many tulips are there in each vase?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["...", "...", "..."],
+              "SolutionHint" : [ ["14"], ["7"], ["6"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "5",
+              "Answers": [ ["14"], ["7"], ["6"] ]
+},
+{
+              "Points" : "800",
+              "Level" : "9-0-2-1",
+              "Objective": "Athos and Aramis are horseback riding on the same path. The distance between them is 20 leagues. Athos travels 4 leagues in an hour and Aramis travels 5 leagues. How far apart will they be after an hour?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["a)...leagues", "b)...leagues", "c)...leagues", "d)...leagues"],
+              "SolutionHint" : [ ["11"], ["29"], ["21"], ["19"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "5",
+              "Answers": [ ["a)11leagues"], ["b)29leagues"], ["c)21leagues"], ["d)19leagues"] ]
+},
+{
+              "Points" : "800",
+              "Level" : "9-0-2-1",
+              "Objective": "There are two bowls on the table. There is an equal amount of candies in each bowl. If we put 9 candies into one bowl and another 7 candies into the other bowl there will be a total of 40 candies. How many candies are there in each bowl?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["20"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "5",
+              "Answers": [ ["20"] ]
+},
+{
+              "Points" : "800",
+              "Level" : "9-0-2-1",
+              "Objective": "30 cupcakes were divided equally among three kids. One child ate a few cupcakes, the second ate the same amount of cupcakes as the first child had left. The third ate the same amount of cupcakes as the first and the second ate put together. How many cupcakes did the kids have left?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["10"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "5",
+              "Answers": [ ["10"] ]
+},
+{
+              "Points" : "800",
+              "Level" : "9-0-2-1",
+              "Objective": "Pinocchio and Jiminy Cricket are racing each other. Jiminy Cricket ran at the same speed the whole time while Pinocchio ran half the way twice as fast as Jiminy and half the way twice as slow. Who won the race?",
+              "Tools" : ["Pinocchio", "Jiminy Cricket"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["Jiminy Cricket"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "1",
+              "Answers": [ ["Jiminy Cricket"] ]
+},
+{
+              "Points" : "1000",
+              "Level" : "9-0-2-2",
+              "Objective": "Choose three numbers from the following: 21 19 30 25 3 12 9 15 6 27. The sum of these numbers has to equal 50. Write down the expression.",
+              "Tools" : ["21", "19", "30", "25", "3", "12", "9", "15", "6", "27"],
+              "Hint" : ["...+...+...= 50"],
+              "SolutionHint" : [ ["19", "25", "6"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "1",
+              "Answers": [ ["19+25+6= 50"] ]
+},
+{
+              "Points" : "1000",
+              "Level" : "9-0-2-2",
+              "Objective": "A snail wants to crawl 10 meters up a tree. During the day it climbs 4 meters and slides down 3 meters during the night. When will the snail reach its goal if it starts climbing the tree on Monday morning?",
+              "Tools" : ["Sunday morning", "Saturday evening", "Saturday Morning", "Sunday evening", "Monday evening"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["Sunday evening"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "1",
+              "Answers": [ ["Sunday evening"] ]
+},
+{
+              "Points" : "1000",
+              "Level" : "9-0-2-2",
+              "Objective": "A ribbon 10 meters long is cut into equal pieces. How many girls got a piece of the ribbon if it was cut 4 times? How long is each piece?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["...girls, ...meters"],
+              "SolutionHint" : [ ["5", "2"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "1",
+              "Answers": [ ["5girls, 2meters"] ]
+},
+{
+              "Points" : "1000",
+              "Level" : "9-0-2-2",
+              "Objective": "A honeypot filled with honey weighs 12 kg. When half of the honey was eaten the honeypot weighed 7 kg. How much will the honeypot weigh if all the honey is eaten?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["...kg"],
+              "SolutionHint" : [ ["2"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["2kg"] ]
+},
+{
+              "Points" : "1200",
+              "Level" : "9-0-2-3",
+              "Objective": "A tailor has a cloth that is 16 meters long. If the tailor cuts of 2 meters everyday how many days will pass before he cuts of the last piece?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["...days"],
+              "SolutionHint" : [ ["7"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "1",
+              "Answers": [ ["7days"] ]
+},
+{
+              "Points" : "1200",
+              "Level" : "9-0-2-3",
+              "Objective": "Valery and Michel weigh the same as Brad and Vlad. Michel weighs 32 kg and Brad weighs 40 kg. Who weighs more : Valery or Vlad?",
+              "Tools" : ["Brad", "Vlad", "Valery", "Michel"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["Valery"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "1",
+              "Answers": [ ["Valery"] ]
+},
+{
+              "Points" : "1200",
+              "Level" : "9-0-2-3",
+              "Objective": "It takes 4 hours to walk on foot from Sofia's house to Mark's house and 2 hours to bike. Sofia and Mark have to get from Sofia's house to Mark's house but they have only one bike. What is the shortest time in which they can get from one house to the other?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["...hours"],
+              "SolutionHint" : [ ["3"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "1",
+              "Answers": [ ["3hours"] ]
+},
+{
+              "Points" : "1200",
+              "Level" : "9-0-2-3",
+              "Objective": "Two boys traveled a distance of 180 km in 3 hours on a train. How much time will it take three boys to cover the same distance on the same train if the train is traveling at the same speed as before?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["...hours"],
+              "SolutionHint" : [ ["3"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "1",
+              "Answers": [ ["3hours"] ]
+},
+            {
+              "Points" : "800",
+              "Level" : "9-0-3-1",
+              "Objective": "6 fishermen ate 6 tunas in 6 days. How many days will it take 10 fishermen to eat 10 tunas?",
+             "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["6"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["6"] ]
+            },
+            {
+              "Points" : "800",
+              "Level" : "9-0-3-1",
+              "Objective": "A table has 4 corners. How many corners will it have if we saw off one of the corners?",
+             "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["5"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["5"] ]
+            },
+            {
+              "Points" : "800",
+              "Level" : "9-0-3-1",
+              "Objective": "Two daughters, two mothers and one grandma are sitting at the table. How many people are there sitting at the table in total?",
+             "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["3"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["3"] ]
+            },
+            {
+              "Points" : "800",
+              "Level" : "9-0-3-1",
+              "Objective": "An ant is at the bottom of a 30-meter well. It climbs up 18 meters every day and slides down 12 meters during the night. How many days will the ant need to get out of the well?",
+             "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["3"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["3"] ]
+            },
+            {
+              "Points" : "1000",
+              "Level" : "9-0-3-2",
+              "Objective": "Kevin, Vince and Ben are playing checkers. Each boy played twice. How many times did they play in total?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["... times"],
+              "SolutionHint" : [ ["3"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "1",
+              "Answers": [ ["3 times"] ]
+            },
+            {
+              "Points" : "1000",
+              "Level" : "9-0-3-2",
+              "Objective": "What is the sum of two numbers if it is more than one of the numbers by 3 and more than the other number by 4?",
+             "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["7"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "4",
+              "Answers": [ ["7"] ]
+            },
+            {
+              "Points" : "1000",
+              "Level" : "9-0-3-2",
+              "Objective": "Sam and Nick each have the same amount of toy soldiers. Sam gives 6 soldiers to Nick. How many more soldiers does Nick have than Sam?",
+             "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["12"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "5",
+              "Answers": [ ["12"] ]
+            },
+            {
+              "Points" : "1000",
+              "Level" : "9-0-3-2",
+              "Objective": "A bus has 18 passengers. On each stop 4 people left the bus and 6 people got on it. How many passengers were in the bus between the fourth and fifth stop?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["... people"],
+              "SolutionHint" : [ ["26"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "2",
+              "Answers": [ ["26 people"] ]
+            },
+            {
+              "Points" : "1200",
+              "Level" : "9-0-3-3",
+              "Objective": "Nancy has 2 whole apples, 8 halves and 12 quarters. How many apples in total does she have?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["... apples"],
+              "SolutionHint" : [ ["9"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "2",
+              "Answers": [ ["9 apples"] ]
+            },
+            {
+              "Points" : "1200",
+              "Level" : "9-0-3-3",
+              "Objective": "A veterinarian prescribed 9 pills to an elephant and said to take one every half an hour. The worker at the zoo followed the veterinarian's instructions. How many hours will pass before the worker will give the last pill to the elephant?",
+             "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["4"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "4",
+              "Answers": [ ["4"] ]
+            },
+            {
+              "Points" : "1200",
+              "Level" : "9-0-3-3",
+              "Objective": "What number goes next : 7, 9, 16, 25, 41:",
+             "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..., ..."],
+              "SolutionHint" : [ ["66", "107"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "4",
+              "Answers": [ ["66, 107"] ]
+            },
+
+            {
+              "Points" : "1200",
+              "Level" : "9-0-3-3",
+              "Objective": "There are books on the table which need to be packaged. If we put two books in each pack we will have one book left over, if we put 3 in each pack we will have 2 left over and if we put 4 books in each pack we will have 3 left over. Find the smallest number of books which will need that fit the above conditions.",
+             "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["11"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["11"] ]
+            },
+            {
+              "Points" : "800",
+              "Level" : "9-0-4-1",
+              "Objective": "There are 3 black and 5 white balls in a box. What is the smallest number of balls that we will have to take out of the box in order to have at least 2 black balls among the balls that we took out?",
+             "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["7"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["7"] ]
+            },
+            {
+              "Points" : "800",
+              "Level" : "9-0-4-1",
+              "Objective": "Vicky, Gabrielle and Kate came to a birthday party in different colored dresses: pink, blue and yellow. Kate wasn't wearing the yellow dress and Vicky wasn't wearing the yellow or the blue dress. Which girl wore which dress?",
+              "Tools" : ["pink", "blue", "yellow"],
+              "Hint" : ["Vicky - ...", "Kate - ...", "Gabrielle - ..."],
+              "SolutionHint" : [ ["pink"], ["blue"],["yellow"]],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "1",
+              "alignmentType" : "2",
+              "Answers": [ ["Vicky - pink"], ["Kate - blue"], ["Gabrielle - yellow"] ]
+            },
+            {
+              "Points" : "800",
+              "Level" : "9-0-4-1",
+              "Objective": "Five balls and three toy cars cost the same as four balls and four toy cars. What is more expensive a toy car or a ball?",
+              "Tools" : ["ball", "toy car", "the same"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["the same"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "1",
+              "alignmentType" : "2",
+              "Answers": [ ["the same"] ]
+            },
+            {
+              "Points" : "800",
+              "Level" : "9-0-4-1",
+              "Objective": "There is row of 7 seven numbers. The sum of any 3 numbers next to each other is 15. The first number in the row is 7. What is the last number in the row?",
+             "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["7"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["7"] ]
+            },
+            {
+              "Points" : "1000",
+              "Level" : "9-0-4-2",
+              "Objective": "Ted and Rick live in the same building. Ted lives on the third floor and Rick lives on the seventh. If Ted takes the staircase he walks a total of 36 stairs. How many stairs does Rick walk if the amount of stairs between each floor is the same?",
+             "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["108"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "6",
+              "Answers": [ ["108"] ]
+            },
+            {
+              "Points" : "1000",
+              "Level" : "9-0-4-2",
+              "Objective": "3 cinnamon buns of the same size need to be equally divided among 4 children. What is the smallest number of times that we will have to cut them?",
+             "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["5"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["5"] ]
+            },
+            {
+              "Points" : "1000",
+              "Level" : "9-0-4-2",
+              "Objective": "A straicase has 9 stairs. On which stair do you have to stand on in order to be in the middle of the staircase?",
+             "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["On the ... stair"],
+              "SolutionHint" : [ ["5"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "2",
+              "Answers": [ ["On the 5 stair"] ]
+            },
+            {
+              "Points" : "1000",
+              "Level" : "9-0-4-2",
+              "Objective": "There are 10 cars and trucks on a parking lot. Each car has 4 wheels and each truck has 6 wheels. There are 46 wheels on the parking lot in total. Out of the 10 vehicles on the parking lot how many are cars and how many are trucks?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["Cars - ...", "Trucks - ..."],
+              "SolutionHint" : [ ["7"] , ["3"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "2",
+              "Answers": [ ["Cars - 7"],["Trucks - 3"] ]
+            },
+            {
+              "Points" : "1200",
+              "Level" : "9-0-4-3",
+              "Objective": "Mary and Peter are ridding the same train and are in the same train car. Mary is sitting in a train car that's fifth from the head of the train and Peter is sitting in a train car fifth from the end. How many train cars are there in the train?",
+             "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["9"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["9"] ]
+            },
+            {
+              "Points" : "1200",
+              "Level" : "9-0-4-3",
+              "Objective": "There are three tour buses. The second bus has 5 more passengers than the first bus and there are 7 passengers less on the third bus than on the second one. How many people will have to move from the second bus on to another one in order for there to be an equal amount of people on each bus?",
+             "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["on to the first bus - ...", "the third - ..."],
+              "SolutionHint" : [ ["1"] , ["3"]],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "2",
+              "Answers": [ ["on to the first bus - 1"], ["the third - 3"] ]
+            },
+            {
+              "Points" : "1200",
+              "Level" : "9-0-4-3",
+              "Objective": "10 plumbs weigh the same as 3 apples and a pear. 2 plumbs and an apple weigh the same amount as one pear. How many plumbs will weigh as much as one pear?",
+             "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["4"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "4",
+              "Answers": [ ["4"] ]
+            },
+            {
+              "Points" : "1200",
+              "Level" : "9-0-4-3",
+              "Objective": "There are 40 candies in one box and half the amount in the second one. How many candies will we have if we take half of a half of the total sum of the candies?",
+             "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["15"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "5",
+              "Answers": [ ["15"] ]
+            }
+]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

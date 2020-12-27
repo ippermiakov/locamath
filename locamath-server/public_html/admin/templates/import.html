@@ -1,0 +1,68 @@
+<form method="post" enctype="multipart/form-data">
+<div style="padding:10px;">
+  <div>
+    <input type="file" name="prices">
+  </div>
+  {if $error}
+    {foreach from=$error item="item"}
+    <div style="color:red; padding 5px 0px;">{$item}</div>
+    {/foreach}
+  {/if}
+
+  {if $form_columns}
+
+    <div style="padding:5px;"><input type="checkbox" name="delete_first"> Исключить первую строку (в случае, если это шапка таблицы)</div>
+    <b>Выберите названия колонкам</b>
+    <table class="brw_grid">
+      <tr>
+        {section name=column_type start=0 max=$total_columns loop=$total_columns step=1}
+        <td>
+          <select name="column[{$smarty.section.column_type.iteration-1}]">
+            <option value="0">&lt;Не выбрано&gt;</option>
+            {foreach from=$form_columns key="key" item="column"}
+            <option value="{$key}">{$column}</option>
+            {/foreach}
+          </select>
+        </td>
+        {/section}
+      </tr>
+      {if $uploaded_table}
+        {foreach from=$uploaded_table item="row"}
+          <tr>
+            {foreach from=$row item="field"}
+              <td>{$field}</td>
+            {/foreach}
+          </tr>
+        {/foreach}
+      {/if}
+    </table>
+    <b>Укажите прайс-лист (если названием прайс-листа не выбрана колонка таблицы)</b><br>
+    <select name="pricelist_our">
+     {foreach from=$pricelist_list item="item"}
+      <option value="{$item.id}">{$item.name}</option>
+     {/foreach}
+    </select>
+    {if $uploaded_table}
+      {foreach from=$uploaded_table item="row" name="rw"}
+        {foreach from=$row item="field" name="fld"}
+          <input type="hidden" name="uploaded_table[{$smarty.foreach.rw.iteration-1}][{$smarty.foreach.fld.iteration-1}]" value="{$field}"/>
+        {/foreach}
+      {/foreach}
+    {/if}
+
+    <div style="padding-top:10px;">
+      <input type="submit" name="save" value="     Сохранить позиции    ">
+    </div>
+
+  {else}
+    <div style="padding-top:10px;">
+      <input type="submit" name="upload" value="     Загрузить файл    ">
+    </div>
+  {/if}
+
+  {if $error}
+    <br><br>
+    <input type="button" value="     OK    " onclick="window.close(); return false;">
+  {/if}
+</div>
+</form>

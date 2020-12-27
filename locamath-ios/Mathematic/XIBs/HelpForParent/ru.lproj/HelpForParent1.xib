@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive type="com.apple.InterfaceBuilder3.CocoaTouch.iPad.XIB" version="8.00">
+	<data>
+		<int key="IBDocument.SystemTarget">1280</int>
+		<string key="IBDocument.SystemVersion">12F45</string>
+		<string key="IBDocument.InterfaceBuilderVersion">4514</string>
+		<string key="IBDocument.AppKitVersion">1187.40</string>
+		<string key="IBDocument.HIToolboxVersion">626.00</string>
+		<object class="NSMutableDictionary" key="IBDocument.PluginVersions">
+			<string key="NS.key.0">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+			<string key="NS.object.0">3747</string>
+		</object>
+		<array key="IBDocument.IntegratedClassDependencies">
+			<string>IBProxyObject</string>
+			<string>IBUIButton</string>
+			<string>IBUIImageView</string>
+			<string>IBUILabel</string>
+			<string>IBUIView</string>
+		</array>
+		<array key="IBDocument.PluginDependencies">
+			<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+		</array>
+		<object class="NSMutableDictionary" key="IBDocument.Metadata">
+			<string key="NS.key.0">PluginDependencyRecalculationVersion</string>
+			<integer value="1" key="NS.object.0"/>
+		</object>
+		<array class="NSMutableArray" key="IBDocument.RootObjects" id="1012063499">
+			<object class="IBProxyObject" id="226344368">
+				<string key="IBProxiedObjectIdentifier">IBFilesOwner</string>
+				<string key="targetRuntimeIdentifier">IBIPadFramework</string>
+			</object>
+			<object class="IBProxyObject" id="63074086">
+				<string key="IBProxiedObjectIdentifier">IBFirstResponder</string>
+				<string key="targetRuntimeIdentifier">IBIPadFramework</string>
+			</object>
+			<object class="IBUIView" id="272145106">
+				<nil key="NSNextResponder"/>
+				<int key="NSvFlags">1316</int>
+				<array class="NSMutableArray" key="NSSubviews">
+					<object class="IBUIImageView" id="909490317">
+						<reference key="NSNextResponder" ref="272145106"/>
+						<int key="NSvFlags">1280</int>
+						<object class="NSPSMatrix" key="NSFrameMatrix"/>
+						<string key="NSFrameSize">{1024, 768}</string>
+						<reference key="NSSuperview" ref="272145106"/>
+						<bool key="IBUIOpaque">NO</bool>
+						<bool key="IBUIClipsSubviews">YES</bool>
+						<int key="IBUIContentMode">1</int>
+						<bool key="IBUIMultipleTouchEnabled">YES</bool>
+						<string key="targetRuntimeIdentifier">IBIPadFramework</string>
+						<object class="NSCustomResource" key="IBUIImage">
+							<string key="NSClassName">NSImage</string>
+							<string key="NSResourceName">POP-UP_Back_Window.png</string>
+						</object>
+					</object>
+					<object class="IBUIImageView" id="798056546">
+						<reference key="NSNextResponder" ref="272145106"/>
+						<int key="NSvFlags">1316</int>
+						<object class="NSPSMatrix" key="NSFrameMatrix"/>
+						<string key="NSFrame">{{33, 55}, {952, 662}}</string>
+						<reference key="NSSuperview" ref="272145106"/>
+						<bool key="IBUIUserInteractionEnabled">NO</bool>
+						<string key="targetRuntimeIdentifier">IBIPadFramework</string>
+						<object class="NSCustomResource" key="IBUIImage">
+							<string key="NSClassName">NSImage</string>
+							<string key="NSResourceName">Shop_Pop_Up_Window.png</string>
+						</object>
+					</object>
+					<object class="IBUIImageView" id="340613119">
+						<reference key="NSNextResponder" ref="272145106"/>
+						<int key="NSvFlags">1280</int>
+						<object class="NSPSMatrix" key="NSFrameMatrix"/>
+						<string key="NSFrame">{{465, 10}, {94, 101}}</string>
+						<reference key="NSSuperview" ref="272145106"/>
+						<bool key="IBUIOpaque">NO</bool>
+						<bool key="IBUIClipsSubviews">YES</bool>
+						<int key="IBUIContentMode">2</int>
+						<bool key="IBUIMultipleTouchEnabled">YES</bool>
+						<string key="targetRuntimeIdentifier">IBIPadFramework</string>
+						<object class="NSCustomResource" key="IBUIImage">
+							<string key="NSClassName">NSImage</string>
+							<string key="NSResourceName">Shop_Button_Info.png</string>
+						</object>
+					</object>
+					<object class="IBUIButton" id="250773090">
+						<reference key="NSNextResponder" ref="272145106"/>
+						<int key="NSvFlags">1316</int>
+						<object class="NSPSMatrix" key="NSFrameMatrix"/>
+						<string key="NSFrame">{{418, 675}, {189, 79}}</string>
+						<reference key="NSSuperview" ref="272145106"/>
+						<bool key="IBUIOpaque">NO</bool>
+						<string key="targetRuntimeIdentifier">IBIPadFramework</string>
+						<int key="IBUIContentHorizontalAlignment">0</int>
+						<int key="IBUIContentVerticalAlignment">0</int>
+						<object class="NSColor" key="IBUINormalTitleColor">
+							<int key="NSColorSpace">1</int>
+							<bytes key="NSRGB">MC4xOTYwNzg0MzQ2IDAuMzA5ODAzOTMyOSAwLjUyMTU2ODY1NgA</bytes>
+						</object>
+						<object class="NSColor" key="IBUIHighlightedTitleColor" id="480896797">
+							<int key="NSColorSpace">3</int>
+							<bytes key="NSWhite">MQA</bytes>
+						</object>
+						<object class="NSColor" key="IBUINormalTitleShadowColor">
+							<int key="NSColorSpace">3</int>
+							<bytes key="NSWhite">MC41AA</bytes>
+						</object>
+						<object class="NSCustomResource" key="IBUINormalBackgroundImage">
+							<string key="NSClassName">NSImage</string>
+							<string key="NSResourceName">Button_continue.png</string>
+						</object>
+						<object class="IBUIFontDescription" key="IBUIFontDescription">
+							<int key="type">2</int>
+							<double key="pointSize">15</double>
+						</object>
+						<object class="NSFont" key="IBUIFont">
+							<string key="NSName">HelveticaNeue-Bold</string>
+							<double key="NSSize">15</double>
+							<int key="NSfFlags">16</int>
+						</object>
+					</object>
+					<object class="IBUILabel" id="384063514">
+						<reference key="NSNextResponder" ref="272145106"/>
+						<int key="NSvFlags">1316</int>
+						<object class="NSPSMatrix" key="NSFrameMatrix"/>
+						<string key="NSFrame">{{431, 688}, {157, 33}}</string>
+						<reference key="NSSuperview" ref="272145106"/>
+						<bool key="IBUIOpaque">NO</bool>
+						<bool key="IBUIClipsSubviews">YES</bool>
+						<int key="IBUIContentMode">7</int>
+						<bool key="IBUIUserInteractionEnabled">NO</bool>
+						<string key="targetRuntimeIdentifier">IBIPadFramework</string>
+						<string key="IBUIText">Далее</string>
+						<reference key="IBUITextColor" ref="480896797"/>
+						<nil key="IBUIHighlightedColor"/>
+						<int key="IBUIBaselineAdjustment">0</int>
+						<int key="IBUITextAlignment">1</int>
+						<object class="IBUIFontDescription" key="IBUIFontDescription">
+							<int key="type">2</int>
+							<double key="pointSize">30</double>
+						</object>
+						<object class="NSFont" key="IBUIFont">
+							<string key="NSName">HelveticaNeue-Bold</string>
+							<double key="NSSize">30</double>
+							<int key="NSfFlags">16</int>
+						</object>
+						<bool key="IBUIAdjustsFontSizeToFit">NO</bool>
+					</object>
+					<object class="IBUILabel" id="50773055">
+						<reference key="NSNextResponder" ref="272145106"/>
+						<int key="NSvFlags">1316</int>
+						<object class="NSPSMatrix" key="NSFrameMatrix"/>
+						<string key="NSFrame">{{87, 83}, {852, 608}}</string>
+						<reference key="NSSuperview" ref="272145106"/>
+						<bool key="IBUIOpaque">NO</bool>
+						<bool key="IBUIClipsSubviews">YES</bool>
+						<int key="IBUIContentMode">7</int>
+						<bool key="IBUIUserInteractionEnabled">NO</bool>
+						<string key="targetRuntimeIdentifier">IBIPadFramework</string>
+						<string type="base64-UTF8" key="IBUIText">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDQlNC+0YDQvtCz0LjQtSDRgNC+
+0LTQuNGC0LXQu9C4LCDQstGLINC90LDRhdC+0LTQuNGC0LXRgdGMINC90LAg0YHRgtGA0LDQvdC40YbQ
+tSDRgdGC0LDRgtC40YHRgtC40LrQuCDQstCw0YjQtdCz0L4g0YDQtdCx0LXQvdC60LAhCgogICAg0JfQ
+tNC10YHRjCDQstGLINC80L7QttC10YLQtSDRg9Cy0LjQtNC10YLRjCDRgdC60L7Qu9GM0LrQviDQt9Cw
+0LTQsNGHINGA0LXRiNC40Lsg0YDQtdCx0LXQvdC+0Log0Lgg0YHQutC+0LvRjNC60L4g0L7RiNC40LHQ
+vtC6INC+0L0g0LTQvtC/0YPRgdGC0LjQuyDQv9GA0Lgg0YDQtdGI0LXQvdC40Lgg0LfQsNC00LDRhy4g
+0J7RiNC40LHQutC4INGA0LDQt9C00LXQu9C10L3RiyDQvdCwINC00LLQtSDQs9GA0YPQv9C/0Ys6Cgog
+ICAgIOKIkiDQntGI0LjQsdC60Lgg0LLRi9GH0LjRgdC70LXQvdC40Y8KICAgICDiiJIg0J7RiNC40LHQ
+utC4INCyINC/0L7QvdC40LzQsNC90LjQuCDQt9Cw0LTQsNGH0LgKCiAgICAg0KLQsNC6INC20LUg0LLR
+iyDQvNC+0LbQtdGC0LUg0LfQtNC10YHRjCDRg9Cy0LjQtNC10YLRjCDQutC+0LvQuNGH0LXRgdGC0LLQ
+viDQvtGH0LrQvtCyLCDQutC+0YLQvtGA0L7QtSDQt9Cw0YDQsNCx0L7RgtCw0Lsg0LLQsNGIINGA0LXQ
+sdC10L3QvtC6INC30LAg0YDQtdGI0LXQvdC40LUg0LfQsNC00LDRhy4KCiAgICAgINCV0YHQu9C4INCy
+0Ysg0YXQvtGC0LjRgtC1INGD0LLQuNC00LXRgtGMINC30LDQtNCw0YfRgyDQsiDQutC+0YLQvtGA0L7Q
+uSDRgNC10LHQtdC90L7QuiDQtNC+0L/Rg9GB0YLQuNC7INC+0YjQuNCx0LrRgywg0YHQvdCw0YfQsNC7
+0LAg0LLRiyDQtNC+0LvQttC90Ysg0LLRi9Cx0YDQsNGC0Ywg0YLQuNC/INC+0YjQuNCx0LrQuCDQuCDQ
+siDQvtGC0LrRgNGL0LLRiNC10LzRgdGPINGB0L/QuNGB0LrQtSDQstGL0LHRgNCw0YLRjCDQuNC90YLQ
+tdGA0LXRgdGD0Y7RidGD0Y4gINCy0LDRgSDQt9Cw0LTQsNGH0YMuCgogICAgICDQkdC70LDQs9C+0LTQ
+sNGA0Y8g0YHRgtCw0YLQuNGB0YLQuNC60LUsINCy0Ysg0LzQvtC20LXRgtC1INCx0YvRgdGC0YDQviDQ
+v9C+0L3Rj9GC0Ywg0LrQsNC60LjQtSDQutC+0L3QutGA0LXRgtC90L4g0L/RgNC4INGA0LXRiNC10L3Q
+uNC4INC30LDQtNCw0Ycg0YLRgNGD0LTQvdC+0YHRgtC4INCy0L7Qt9C90LjQutCw0Y7RgiDRgyDQstCw
+0YjQtdCz0L4g0YDQtdCx0LXQvdC60LAKCiAgICAgICDQktGLINC80L7QttC10YLQtSDQv9GA0L7RgdC8
+0LDRgtGA0LjQstCw0YLRjCDRgdGC0LDRgtC40YHRgtC40LrRgyDQvdCwINGD0YHRgtGA0L7QudGB0YLQ
+stC1INC40LvQuCDRgtCw0LrQttC1INC/0L7Qu9GD0YfQsNGC0Ywg0LIg0YDQsNGB0YHRi9C70LrQtSDR
+gSDRg9C00L7QsdC90L7QuSDQtNC70Y8g0LLQsNGBINC/0LXRgNC40L7QtNC40YfQvdC+0YHRgtGM0Y4g
+KNGA0LDQtyDQsiDQtNC10L3RjCwg0YDQsNC3INCyINC90LXQtNC10LvRjiwg0YDQsNC3INCyINC80LXR
+gdGP0YYpLiDQodGC0LDRgtC40YHRgtC40LrQsCwg0LrQvtGC0L7RgNCw0Y8g0LLQutC70Y7Rh9C10L3Q
+sCDQsiDRgNCw0YHRgdGL0LvQutGDINCx0L7Qu9C10LUg0LTQtdGC0LDQu9GM0L3QsDoKCiAgICDiiJIg
+0JLRgNC10LzRjyDQv9GA0L7QstC10LTQtdC90L3QvtC1INGA0LXQsdC10L3QutC+0Lwg0LIg0L/RgNC4
+0LvQvtC20LXQvdC40LgKICAgIOKIkiDQodGA0LXQtNC90LXQtSDQstGA0LXQvNGPINC90LAg0YDQtdGI
+0LXQvdC40LUgMSDQt9Cw0LTQsNGH0LggKNCy0YDQtdC80Y8g0L/QvtGC0YDQsNGH0LXQvdC90L7QtSDQ
+vdCwINGA0LXRiNC10L3QuNC1INC30LDQtNCw0YcgLyDQutC+0LvQuNGH0LXRgdGC0LLQviDRgNC10YjQ
+tdC90L3Ri9GFINC30LDQtNCw0YcpLgogICAg4oiSINCh0LDQvNCw0Y8g0YLRgNGD0LTQvdCw0Y8g0LfQ
+sNC00LDRh9CwICjQt9Cw0LTQsNGH0LAg0L3QsCDRgNC10YjQtdC90LjQtSDQutC+0YLQvtGA0L7QuSDQ
+v9C+0YLRgNCw0YfQtdC90L4g0L3QsNC40LHQvtC70YzRiNC10LUg0LrQvtC70LjRh9C10YHRgtCy0L4g
+0LLRgNC10LzQtdC90LgpLgogICAg4oiSINCh0LDQvNCw0Y8g0LvQtdCz0LrQsNGPINC30LDQtNCw0YfQ
+sCAo0LfQsNC00LDRh9CwINC90LAg0YDQtdGI0LXQvdC40LUg0LrQvtGC0L7RgNC+0Lkg0L/QvtGC0YDQ
+sNGH0LXQvdC+INC90LDQuNC80LXQvdGM0YjQtdC1INC60L7Qu9C40YfQtdGB0YLQstC+INCy0YDQtdC8
+0LXQvdC4KS4KICAgIOKIkiDQktGB0LXQs9C+INGA0LXRiNC10L3QviDQt9Cw0LTQsNGHLgogICAg4oiS
+INCa0L7Qu9C40YfQtdGB0YLQstC+INGA0LXRiNC10L3QuNC5INC/0L4g0LTQtdC50YHRgtCy0LjRj9C8
+LgogICAg4oiSINCa0L7Qu9C40YfQtdGB0YLQstC+INGA0LXRiNC10L3QuNC5INCy0YvRgNCw0LbQtdC9
+0LjRj9C80LguCiAgICDiiJIg0JrQvtC70LjRh9C10YHRgtCy0L4g0L3QsNCx0YDQsNC90L3Ri9GFINC+
+0YfQutC+0LIKCiAgICDQp9GC0L7QsdGLINC/0L7QtNC/0LjRgdCw0YLRjNGB0Y8g0L3QsCDRgNCw0YHR
+gdGL0LvQutGDLCDQvdGD0LbQvdC+INCy0LLQtdGB0YLQuCDRgdCy0L7QuSDQsNC00YDQtdGBINC90LAg
+0YHRgtGA0LDQvdC40YbQtSDQvdCw0YHRgtGA0L7QudC60Lgg0Lgg0LLRi9Cx0YDQsNGC0Ywg0YPQtNC+
+0LHQvdGD0Y4g0L/QtdGA0LjQvtC00LjRh9C90L7RgdGC0YwuCgogICAg0JrQvtC80LDQvdC00LAgTG9j
+YU1hdGgg0LbQtdC70LDQtdGCINGD0LLQu9C10LrQsNGC0LXQu9GM0L3QvtCz0L4g0L7QsdGA0LDQt9C+
+0LLQsNGC0LXQu9GM0L3QvtCz0L4g0L/Rg9GC0LXRiNC10YHRgtCy0LjRjyDQstCw0Lwg0Lgg0LLQsNGI
+0LXQvNGDINGA0LXQsdC10L3QutGDISA</string>
+						<object class="NSColor" key="IBUITextColor">
+							<int key="NSColorSpace">1</int>
+							<bytes key="NSRGB">MSAxIDEAA</bytes>
+							<object class="NSColorSpace" key="NSCustomColorSpace">
+								<int key="NSID">1</int>
+							</object>
+						</object>
+						<nil key="IBUIHighlightedColor"/>
+						<int key="IBUIBaselineAdjustment">0</int>
+						<int key="IBUINumberOfLines">0</int>
+						<object class="IBUIFontDescription" key="IBUIFontDescription">
+							<int key="type">2</int>
+							<double key="pointSize">16</double>
+						</object>
+						<object class="NSFont" key="IBUIFont">
+							<string key="NSName">HelveticaNeue-Bold</string>
+							<double key="NSSize">16</double>
+							<int key="NSfFlags">16</int>
+						</object>
+						<bool key="IBUIAdjustsFontSizeToFit">NO</bool>
+						<double key="preferredMaxLayoutWidth">852</double>
+					</object>
+				</array>
+				<object class="NSPSMatrix" key="NSFrameMatrix"/>
+				<string key="NSFrameSize">{1024, 768}</string>
+				<object class="NSColor" key="IBUIBackgroundColor">
+					<int key="NSColorSpace">3</int>
+					<bytes key="NSWhite">MCAwAA</bytes>
+				</object>
+				<object class="IBUISimulatedOrientationMetrics" key="IBUISimulatedOrientationMetrics">
+					<int key="IBUIInterfaceOrientation">3</int>
+					<int key="interfaceOrientation">3</int>
+				</object>
+				<string key="targetRuntimeIdentifier">IBIPadFramework</string>
+			</object>
+		</array>
+		<object class="IBObjectContainer" key="IBDocument.Objects">
+			<bool key="usesAutoincrementingIDs">NO</bool>
+			<array class="NSMutableArray" key="connectionRecords">
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchOutletConnection" key="connection">
+						<string key="label">textLabel</string>
+						<reference key="source" ref="226344368"/>
+						<reference key="destination" ref="50773055"/>
+					</object>
+					<string key="id">49</string>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchOutletConnection" key="connection">
+						<string key="label">view</string>
+						<reference key="source" ref="226344368"/>
+						<reference key="destination" ref="272145106"/>
+					</object>
+					<string key="id">44</string>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">onTapNext:</string>
+						<reference key="source" ref="250773090"/>
+						<reference key="destination" ref="226344368"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<string key="id">47</string>
+				</object>
+			</array>
+			<object class="IBMutableOrderedSet" key="objectRecords">
+				<array key="orderedObjects">
+					<object class="IBObjectRecord">
+						<string key="id">0</string>
+						<array key="object" id="0"/>
+						<reference key="children" ref="1012063499"/>
+						<nil key="parent"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">-1</string>
+						<reference key="object" ref="226344368"/>
+						<reference key="parent" ref="0"/>
+						<string key="objectName">File's Owner</string>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">-2</string>
+						<reference key="object" ref="63074086"/>
+						<reference key="parent" ref="0"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">3</string>
+						<reference key="object" ref="272145106"/>
+						<array class="NSMutableArray" key="children">
+							<reference ref="909490317"/>
+							<reference ref="798056546"/>
+							<reference ref="340613119"/>
+							<reference ref="250773090"/>
+							<reference ref="384063514"/>
+							<reference ref="50773055"/>
+						</array>
+						<reference key="parent" ref="0"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">11</string>
+						<reference key="object" ref="909490317"/>
+						<reference key="parent" ref="272145106"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">45</string>
+						<reference key="object" ref="798056546"/>
+						<reference key="parent" ref="272145106"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">9</string>
+						<reference key="object" ref="340613119"/>
+						<reference key="parent" ref="272145106"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">5</string>
+						<reference key="object" ref="250773090"/>
+						<reference key="parent" ref="272145106"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">8</string>
+						<reference key="object" ref="384063514"/>
+						<reference key="parent" ref="272145106"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">48</string>
+						<reference key="object" ref="50773055"/>
+						<reference key="parent" ref="272145106"/>
+						<string key="objectName">Attributed Label -                                          Дорогие родители, вы находитесь на странице статистики вашего ребенка!      Здесь вы можете увидеть сколько задач решил ребенок и сколько ошибок он допустил при решении задач. Ошибки разделены на две группы:       − Ошибки вычисления      − Ошибки в понимании задачи       Так же вы можете здесь увидеть количество очков, которое заработал ваш ребенок за решение задач.        Если вы хотите увидеть задачу в которой ребенок допустил ошибку, сначала вы должны выбрать тип ошибки и в открывшемся списке выбрать интересующую  вас задачу.        Благодаря статистике, вы можете быстро понять какие конкретно при решении задач трудности возникают у вашего ребенка         Вы можете просматривать статистику на устройстве или также получать в рассылке с удобной для вас периодичностью (раз в день, раз в неделю, раз в месяц). Статистика, которая включена в рассылку более детальна:      − Время проведенное ребенком в приложении     − Среднее время на решение 1 задачи (время потраченное на решение задач / количество решенных задач).     − Самая трудная задача (задача на решение которой потрачено наибольшее количество времени).     − Самая легкая задача (задача на решение которой потрачено наименьшее количество времени).     − Всего решено задач.     − Количество решений по действиям.     − Количество решений выражениями.     − Количество набранных очков      Чтобы подписаться на рассылку, нужно ввести свой адрес на странице настройки и выбрать удобную периодичность.      Команда LocaMath желает увлекательного образовательного путешествия вам и вашему ребенку!</string>
+					</object>
+				</array>
+			</object>
+			<dictionary class="NSMutableDictionary" key="flattenedProperties">
+				<string key="-1.CustomClassName">HelpForParentViewController</string>
+				<string key="-1.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<boolean value="NO" key="-1.showNotes"/>
+				<string key="-2.CustomClassName">UIResponder</string>
+				<string key="-2.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<boolean value="NO" key="-2.showNotes"/>
+				<string key="11.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<reference key="11.IBUserGuides" ref="0"/>
+				<boolean value="NO" key="11.showNotes"/>
+				<string key="3.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<reference key="3.IBUserGuides" ref="0"/>
+				<boolean value="NO" key="3.showNotes"/>
+				<string key="45.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<reference key="45.IBUserGuides" ref="0"/>
+				<boolean value="NO" key="45.showNotes"/>
+				<string key="48.CustomClassName">TTTAttributedLabel</string>
+				<string key="48.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<reference key="48.IBUserGuides" ref="0"/>
+				<boolean value="NO" key="48.showNotes"/>
+				<string key="5.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<reference key="5.IBUserGuides" ref="0"/>
+				<boolean value="NO" key="5.showNotes"/>
+				<string key="8.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<reference key="8.IBUserGuides" ref="0"/>
+				<boolean value="NO" key="8.showNotes"/>
+				<string key="9.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<reference key="9.IBUserGuides" ref="0"/>
+				<boolean value="NO" key="9.showNotes"/>
+			</dictionary>
+			<dictionary class="NSMutableDictionary" key="unlocalizedProperties"/>
+			<nil key="activeLocalization"/>
+			<dictionary class="NSMutableDictionary" key="localizations"/>
+			<nil key="sourceID"/>
+		</object>
+		<object class="IBClassDescriber" key="IBDocument.Classes"/>
+		<int key="IBDocument.localizationMode">0</int>
+		<string key="IBDocument.TargetRuntimeIdentifier">IBIPadFramework</string>
+		<bool key="IBDocument.previouslyAttemptedUpgradeToXcode5">YES</bool>
+		<object class="NSMutableDictionary" key="IBDocument.PluginDeclaredDependencyDefaults">
+			<string key="NS.key.0">com.apple.InterfaceBuilder.CocoaTouchPlugin.iPhoneOS</string>
+			<real value="1280" key="NS.object.0"/>
+		</object>
+		<object class="NSMutableDictionary" key="IBDocument.PluginDeclaredDevelopmentDependencies">
+			<string key="NS.key.0">com.apple.InterfaceBuilder.CocoaTouchPlugin.InterfaceBuilder3</string>
+			<integer value="4600" key="NS.object.0"/>
+		</object>
+		<bool key="IBDocument.PluginDeclaredDependenciesTrackSystemTargetVersion">YES</bool>
+		<int key="IBDocument.defaultPropertyAccessControl">3</int>
+		<dictionary class="NSMutableDictionary" key="IBDocument.LastKnownImageSizes">
+			<string key="Button_continue.png">{189, 77}</string>
+			<string key="POP-UP_Back_Window.png">{1024, 768}</string>
+			<string key="Shop_Button_Info.png">{64, 70}</string>
+			<string key="Shop_Pop_Up_Window.png">{925, 689}</string>
+		</dictionary>
+		<string key="IBCocoaTouchPluginVersion">3747</string>
+	</data>
+</archive>

@@ -1,0 +1,108 @@
+{
+        "1-E-1": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hello! We are going to help you figure out motion problems involving traveling in opposite directions!",
+                "boyPhrase": "In this part we will solve problems involving traveling in opposite directions!",
+                "board": "Problems involving traveling in opposite directions",
+                "exampleImages": [
+                    "scheme_1-E-1-Ex1_ENG.png",
+                    "scheme_1-E-1-Ex2_ENG.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "A bunny is running at a speed of 3 mph, this means that in an hour the bunny will run 3 miles. Another bunny runs at a speed of 2 mph!",
+                "boyPhrase": "If we sum up the distances that the two bunnies run in an hour we will find out by how much the distance between the bunnies increases every hour: 3+2. Now you do the math!",
+                "board": "example 1",
+                "animation": "1_e1_11_N.swf"
+            }
+        ],
+        "1-E-2": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hello! Let’s continues solving motion problems involving traveling in opposite directions!",
+                "boyPhrase": "In this part we are going to make it a bit more difficult!",
+                "board": "Problems involving traveling in opposite directions",
+                "exampleImages": [
+                    "scheme_1-E-2-Ex1_ENG.png",
+                    "scheme_1-E-2-Ex2_ENG.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "We know that a baby fox can run 4 mph and another baby fox can run 2 miles faster in an hour than the first one. Let’s find out the distance that the second baby fox can run in an hour: 4+2.",
+                "boyPhrase": "In order to find the distance between the two baby foxes after an hour we need to add up the distances that each fox ran: 4+(4+2). Now you do the math!",
+                "board": "example 1",
+                "exampleImages": [
+                    "scheme_1-E-2-Ex1_ENG-1.png"
+                ]
+            }
+        ],
+        "1-E-3": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hello! In this part the problems are even more difficult!",
+                "boyPhrase": "Make sure to read the problem carefully, this might be a bit tricky!",
+                "board": "Problems involving traveling in opposite directions",
+                "exampleImages": [
+                    "scheme_1-E-3-Ex1_ENG.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "We know that Vince walked 4 miles. The total distance between the two boys is 7 miles.",
+                "boyPhrase": "In order to find out the distance that Peter walked we need to subtract from the TOTAL distance the distance that Vince walked. Now you do the math!",
+                "board": "example 1",
+                "animation": "1_e3_11_N.swf"
+            }
+        ],
+        "1-E-4": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hello! You’re making great progress! The problems are getting harder!",
+                "boyPhrase": "Now we will first have to find out the distance of different parts of the route in order to find out the total distance of the route!",
+                "board": "Problems involving traveling in opposite directions",
+                "exampleImages": [
+                    "scheme_1-E-4-Ex1_ENG.png",
+                    "scheme_1-E-4-Ex2.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "We know that Katie walked 3 mph and Lena walked 4 miles in the same period of time. We need to find out the total distance that they walked in 2 hours",
+                "boyPhrase": "Let’s find out the sum of the distances that they walked in an hour and then find out the sum of the distances that they walked during the second hour and then will add those two together: (3+4)+(3+4). Now you do the math!",
+                "board": "example 1",
+                "animation": "1_e4_11_N.swf"
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "We know Ethan walked 2 miles and Sam walked 2 miles. The TOTAL distance between them has to become 9 miles.",
+                "boyPhrase": "In order to find out how much they have left to walk we need to subtract the distance they have already walked from the TOTAL distance: 9-(2+3). Now you do the math!",
+                "board": "example 2",
+                "animation": "1_e4_12_N.swf"
+            }
+        ],
+        "1-E-5": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hello! It’s time for you to test yourself!",
+                "boyPhrase": "When completing the test problems you will see how well you understand the problems!",
+                "board": "Problems involving traveling in opposite directions",
+                "exampleImages": [
+                    "scheme_1-E-1-Ex1_ENG.png",
+                    "scheme_1-E-1-Ex2_ENG.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "We have used letters instead of numbers! You won’t need to count and you will be able to see how well you understand the problems and how to solve them!",
+                "boyPhrase": "Good luck!",
+                "board": "Problems involving traveling in opposite directions",
+                "exampleImages": [
+                    "scheme_1-E-3-Ex1_ENG.png",
+                    "scheme_1-E-4-Ex2.png"
+                ]
+            }
+        ]
+}

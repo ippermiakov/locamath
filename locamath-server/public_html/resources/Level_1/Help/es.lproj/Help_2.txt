@@ -1,0 +1,109 @@
+{
+        "1-B-1": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "¡Hola! ¡Te ayudaremos con la solución de los problemas!",
+                        "boyPhrase": "En esta sección están los problemas de movimiento consecutivo de los objetos en diferentes partes de la distancia!",
+                        "board": "El movimiento consecutivo de los objetos en diferentes partes de la distancia",
+                        "exampleImages": [
+                                          "scheme_1-B-1-Ex1.png",
+                                          "scheme_1-B-1-Ex2.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "animation",
+                        "girlPhrase": "Sabemos cuánto el caracol recorrió durante el primer día y cuánto más recorrió durante el segundo día! ¿Qué distancia recorrió en total?",
+                        "boyPhrase": "Para saber qué distancia recorrió el caracol en total tenemos que añadir a la distancia que recorrió durante el primer día la distancia que recorrió durante el segundo día: (7+3)+7. ¡El resultado tienes que calcular tú mismo!",
+                        "board": "ejemplo 1",
+                        "animation": "1_b1_11_N.swf"
+                    }
+                    ],
+        "1-B-2": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "¡Hola! Continuamos con los problemas de movimiento consecutivo de los objetos en diferentes partes de la distancia!",
+                        "boyPhrase": "En esta sección hemos complicado un poco los problemas! Hemos añadido una parte de la distancia más!",
+                        "board": "El movimiento consecutivo de los objetos en diferentes partes de la distancia",
+                        "exampleImages": [
+                                          "scheme_1-B-2-Ex1.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Sabemos cuánto recorrieron los turistas durante el primero y el segundo día. ¿Qué distancia recorrieron en total si durante el tercer día  recorrieron en el helicóptero la misma distancia que recorrieron durante el primero y el segundo día en total?",
+                        "boyPhrase": "Para conocer toda la distancia adicionamos las distancias de dos primeros días y añadimos la distancia del tercer día: 12+7+(12+7). ¡El resultado tienes que calcular tú mismo!",
+                        "board": "ejemplo 1",
+                        "exampleImages": [ 
+                                    "scheme_1-B-2-Ex1_INT.png"
+                                        ]
+                    }
+                    ],
+        "1-B-3": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "¡Hola! ¡En esta sección trataremos de confundirte!",
+                        "boyPhrase": "Aquí están los mismos problemas, pero lee atentamente, en la condición puede estar un mala pasada!",
+                        "board": "El movimiento consecutivo de los objetos en diferentes partes de la distancia",
+                        "exampleImages": [
+                                          "scheme_1-B-3-Ex1.png",
+                                          "scheme_1-B-3-Ex2.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "animation",
+                        "girlPhrase": "Sabemos cuánto el caracol recorrió durante el día y la noche. Hay que calcular cuánto recorrió en total.",
+                        "boyPhrase": "Para encontrar toda la distancia hay que adicionar la distancia del día y la de la noche: 5+3. ¡El resultado tienes que calcular tú mismo!",
+                        "board": "ejemplo 1",
+                        "animation": "1_b3_11_N.swf"
+                    },
+                    {
+                        "pageType": "animation",
+                        "girlPhrase": "Sabemos cuánto el caracol recorrió durante el día y la noche. Hay que encontrar a qué distancia de la tierra estará el caracol por la mañana.",
+                        "boyPhrase": "Para encontrar esta distancia deducimos la distancia que el caracol ha recorrido para abajo de la que ha recorrido para arriva: 5-3. ¡El resultado tienes que calcular tú mismo!",
+                        "board": "ejemplo 2",
+                        "animation": "1_b3_12_N.swf"
+                    }
+                    ],
+        "1-B-4": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "¡Hola! Vas perfectamente! Los problemas van haciendose más complicadas!",
+                        "boyPhrase": "Ahora primeramente hay que calcular la distancia en algunas partes del camino antes de calcular toda la distancia!",
+                        "board": "El movimiento consecutivo de los objetos en diferentes partes de la distancia",
+                        "exampleImages": [
+                                          "scheme_1-B-4-Ex1.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Durante el primer día unos turistas han recorrido 3km, durante el segundo día han recorrido 2km más que antes. Eso significa que durante el segundo día han recorrido 3+2.",
+                        "boyPhrase": "Durante el tercer día los turistas han recorrido la misma distancia que han recorrido durante dos primeros días en total: 3+(3+2). Para calcular toda la distancia que han recorrido los turistas hay que adicionar todo: 3+(3+2)+(3+(3+2)). ¡El resultado tienes que calcular tú mismo!",
+                        "board": "ejemplo 1",
+                        "exampleImages": [
+                                        "scheme_1-B-4-Ex1_INT.png"
+                                        ]
+                    }
+                    ],
+        "1-B-5": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "¡Hola! ¡Ha llegado la hora de comprobarse!",
+                        "boyPhrase": "En los problemas de test puedes comprobar cómo has comprendido los problemas!",
+                        "board": "El movimiento consecutivo de los objetos en diferentes partes de la distancia",
+                        "exampleImages": [
+                                          "scheme_1-B-1-Ex1.png",
+                                          "scheme_1-B-1-Ex2.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "¡Hemos sustituido las cifras por las letras! No tienes que calcular pero puedes comprobar cómo entiendes las condiciones de los problemas!",
+                        "boyPhrase": "¡Suerte!",
+                        "board": "El movimiento consecutivo de los objetos en diferentes partes de la distancia",
+                        "exampleImages": [
+                                          "scheme_1-B-3-Ex1.png",
+                                          "scheme_1-B-2-Ex1.png"
+                                          ]
+                    }
+         ]
+}

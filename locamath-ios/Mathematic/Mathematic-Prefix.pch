@@ -1,0 +1,55 @@
+//
+// Prefix header for all source files of the 'Mathematic' target in the 'Mathematic' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "Constants.h"
+    #import <CoreData/CoreData.h>
+    #define MR_SHORTHAND
+    #import "CoreData+MagicalRecord.h"
+    #import "CorePlot-CocoaTouch.h"
+    #if __IPHONE_OS_VERSION_MIN_REQUIRED
+        #import <SystemConfiguration/SystemConfiguration.h>
+        #import <MobileCoreServices/MobileCoreServices.h>
+        #else
+        #import <SystemConfiguration/SystemConfiguration.h>
+        #import <CoreServices/CoreServices.h>
+    #endif
+
+    #import "SSToolkitDefines.h"
+    #import "AFNetworking.h"
+    #import "SoundManager.h"
+    #import "MTFileParser.h"
+    #import "MTHTTPClient.h"
+    #import "BlocksKit.h"
+    #import "DKPredicateBuilder.h"
+    #import "UIAlertView+Error.h"
+    #import "DataUtils.h"
+    #import "FacebookSDK.h"
+    #import "NSError+String.h"
+    #import "UIView+OverlayForMovableViews.h"
+    #import "UIFont+Mathematic.h"
+    #import "UIColor+Mathematic.h"
+    #import "UIImage+CachingOptimization.h"
+
+    #import "BaseViewController+RegistrationAndLogin.h"
+
+    #ifdef DEBUG
+//    #define NSLog(...) {}
+        #define NSLog(...) NSLog(__VA_ARGS__)
+    #else
+//#define NSLog(...) NSLog(__VA_ARGS__)
+        #define NSLog(...) {}
+    #endif
+
+#endif
+
+

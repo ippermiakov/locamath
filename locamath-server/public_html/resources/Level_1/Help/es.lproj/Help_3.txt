@@ -1,0 +1,121 @@
+{
+        "1-C-1": [
+            {
+                "pageType": "static",
+                "girlPhrase": "¡Hola! ¡Te ayudaremos a solucionar los problemas!",
+                "boyPhrase": "¡en esta sección están los problemas de acercamiento de dos objetos!",
+                "board": "Los problemas de acercamiento de dos objetos",
+                "exampleImages": [
+                    "scheme_1-C-1-Ex1.png",
+                    "scheme_1-C-1-Ex2_ESP.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "La primera hormiga se arrastra a una velocidad de 6m/h, resulta que se arrastra 6 m en una hora, la segunda hormiga se arrastra a 8m/h!",
+                "boyPhrase": "Si adicionamos las distancias que se arrastran en una hora calcularemos cuánto se acercan en una hora: 6+8. ¡Tienes que calcular la respuesta tú mismo!",
+                "board": "ejemplo 1",
+                "exampleImages": [
+                    "scheme_1-C-1-Ex1_INT.png"
+                ]
+            }
+        ],
+        "1-C-2": [
+            {
+                "pageType": "static",
+                "girlPhrase": "¡Hola! ¡Continuamos con los problemas de ecercamiento de dos objetos!",
+                "boyPhrase": "¡En esta sección hemos complicado los problemas un poco!",
+                "board": "Los problemas de acercamiento de dos objetos",
+                "exampleImages": [
+                    "scheme_1-C-2-Ex1.png",
+                    "scheme_1-C-2-Ex2_ESP.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Sabemos que Porquete recorre 8m en un minuto y Winnie de Puh recorre 2 metros más que Porquete en un minuto. Calcularemos cuánto recorre Winnie en un minuto: 8+2.",
+                "boyPhrase": "Para calcular la distancia de su acercamiento de un minuto hay que adicionar las distancias que recorren: 8+(8+2). ¡Tienes que calcular la solución tú mismo!",
+                "board": "ejemplo 1",
+                "exampleImages": [
+                    "scheme_1-C-2-Ex1_INT.png"
+                ]
+            },
+             {
+                "pageType": "static",
+                "girlPhrase": "Sabemos que dos amigos salieron el uno hacia el otro. El primero recorrió 9 km. El segundo recorrió 2 km menos que el primero. ¿Cuántos kilómetros se hacercaron los amigos?",
+                "boyPhrase": "Al principio vamos a encontrar la distancia que recorrió el segundo amigo: 9-2, luego sumamos todo lo que recorrieron los dos juntos en total: 9+(9-2). ¡El resultado tienes que calcular tú mismo!",
+                "board": "ejemplo 2",
+                "exampleImages": [
+                    "scheme_1-C-2-Ex1_ESP_1.png"
+                ]
+            }
+        ],
+        "1-C-3": [
+            {
+                "pageType": "static",
+                "girlPhrase": "¡Hola! ¡En esta sección hemos complicado los problemas!",
+                "boyPhrase": "Lee atentamente, en la condición puede estar un mala pasada!",
+                "board": "Los problemas de acercamiento de dos objetos",
+                "exampleImages": [
+                    "scheme_1-C-3-Ex1_ESP.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "Pablo ha recorrido 5km y pedro ha recorrido 7km. Cuando empezaron a andar la distancia entre ellos fue de 18km.",
+                "boyPhrase": "Para calcular cuánto tienen que recorrer antes de encontrarse, hay que restar de toda la distancia la que han recorrido ya: 18-(5+7). ¡Tienes que calcular la solución tú mismo!",
+                "board": "ejemplo 1",
+                "animation": "1_c3_12_N.swf"
+            }
+        ],
+        "1-C-4": [
+            {
+                "pageType": "static",
+                "girlPhrase": "¡Hola! ¡Vences perfectamente! ¡Los problemas hacen más complicados!",
+                "boyPhrase": "Primeramente tienes que calcular la distancia en algunas partes de la distancia antes de calcular toda la distancia!",
+                "board": "Los problemas de acercamiento de dos objetos",
+                "exampleImages": [
+                    "scheme_1-C-4-Ex1_ESP.png",
+                    "scheme_1-C-4-Ex2.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Sabemos que Ramón ha recorrido 4km y Pacoha recorrido 5km más que él. Cuando empezaron a andar la distancia entre ellos fue de 15km.",
+                "boyPhrase": "Para calcular cuánto tienen que recorrer antes de encontrarse, hay que restar de toda la distancia la que han recorrido ya: 15-(4+(4+5)). Tienes que calcular la solución tú mismo!",
+                "board": "ejemplo 1",
+                "exampleImages": [
+                    "scheme_1-C-4-Ex1_ESP-1.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "Sabemos que Fernando ha recorrido 3km y Manolo ha recorrido 2 km en una hora. Hay que calcular cuánto han recorrido en 2 horas juntos.",
+                "boyPhrase": "Calcularemos cuánto han recorrido juntos en una hora y calcularemos cuánto han recorrida en la segunda hora y adicionaremos estas distancias: (3+2)+(3+2). ¡Tienes que calcular la solución tú mismo!",
+                "board": "ejemplo 2",
+                "animation":"1_c4_12_N.swf"
+            }
+        ],
+        "1-C-5": [
+            {
+                "pageType": "static",
+                "girlPhrase": "¡Hola! ¡Ha llegado la hora de comprobarse!",
+                "boyPhrase": "En los problemas de test puedes comprobar cómo has comprendido los problemas!",
+                "board": "Los problemas de acercamiento de dos objetos",
+                "exampleImages": [
+                    "scheme_1-C-1-Ex1.png",
+                    "scheme_1-C-2-Ex2_ESP.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "¡Hemos sustituido las cifras por las letras! ¡No tienes que calcular pero comprobarás cómo entiendes la condición de los problemas!",
+                "boyPhrase": "¡Suerte!",
+                "board": "Los problemas de acercamiento de dos objetos",
+                "exampleImages": [
+                    "scheme_1-C-3-Ex1.png",
+                    "scheme_1-C-4-Ex2.png"
+                ]
+            }
+        ]
+}

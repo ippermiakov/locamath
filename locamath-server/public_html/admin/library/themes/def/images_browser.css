@@ -1,0 +1,20 @@
+/* browser */
+
+.browser table.brw_images td.group_row {
+  border-bottom: 1px dotted grey;
+}
+
+.browser div.brw_images_group{
+}
+
+.browser div.brw_images_image {
+  float: left;
+  padding: 4 4 4 4;
+}
+
+.browser div.brw_images_image table tr td.sizes {
+  text-align: center;
+}
+
+.browser div.brw_images_image table tr td.sizes span {
+}

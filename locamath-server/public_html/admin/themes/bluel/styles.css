@@ -1,0 +1,16 @@
+.browser table.brw_grid tr.selected_item{
+  background-color: yellow;
+}
+
+.browser table.brw_grid tr.selected_item_selected{
+  background-color: #DDDD00;
+}
+
+.browser table.brw_grid tr.unread_item{
+  font-weight: bold;
+}
+
+.browser table.brw_grid tr.unread_item_selected{
+  font-weight: bold;
+  background-color: #EEEEEE;
+}

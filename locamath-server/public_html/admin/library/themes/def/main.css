@@ -1,0 +1,25 @@
+* {
+  font-family: Arial, Tahoma, Verdana, MS Sans Serif;
+  font-size: 10pt;
+}
+pre {
+  font-family: Courier New;
+}
+H1 {
+  font-size: 16pt;
+}
+H2 {
+  font-size: 12pt;
+}
+body {
+  background-color: #FFFFFF;
+  scrollbar-3dlight-color: #F0F0EE;
+  scrollbar-arrow-color: #676662;
+  scrollbar-base-color: #F0F0EE;
+  scrollbar-darkshadow-color: #DDDDDD;
+  scrollbar-face-color: #E0E0DD;
+  scrollbar-highlight-color: #F0F0EE;
+  scrollbar-shadow-color: #F0F0EE;
+  scrollbar-track-color: #F5F5F5;
+  margin: 2px;
+}

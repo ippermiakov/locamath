@@ -1,0 +1,108 @@
+{
+        "1-E-1": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Wir helfen dir in Lösung der Aufgaben auszukennen!",
+                "boyPhrase": "In diesem Abschnitt sind Aufgaben zu Entfernung zwei Objekten!",
+                "board": "Aufgaben zu Entfernung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-E-1-Ex1_GER.png",
+                    "scheme_1-E-1-Ex2_GER.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "Der erste Hase läuft 3 Stundenkilometer, das heißt, dass er in einer Stunde 3 Kilometer lauft. Der zweite Hase läuft 2 Stundenkilometer!",
+                "boyPhrase": "Wenn wir die zwei Entfernungen, die sie in einer Stunde laufen, addieren, dann erfahren wir, wie viel sie von einander in einer Stunde entfernen: 3+2. Zähl mal selbst!",
+                "board": "Beispiel 1",
+                "animation": "1_e1_11_N.swf"
+            }
+        ],
+        "1-E-2": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Setzen wir die Aufgaben zu Entfernung zwei Objekten fort!",
+                "boyPhrase": "In diesem Abschnitt wird es schwerer!",
+                "board": "Aufgaben zu Entfernung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-E-2-Ex1_GER.png",
+                    "scheme_1-E-2-Ex2_GER.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Wir wissen, dass der erste Fuchs 4 Stundenkilometer gelaufen ist, und der zweite 2 Kilometer schneller in einer Stunde als erster. Finden wir, welche Entfernung der zweite Fuchs in einer Stunde gelaufen ist: 4+2.",
+                "boyPhrase": "Um die Entfernung, die zeigt, wie viel sie voneinander entfernt haben, zu finden, muss man Entfernungen, die sie gelaufen sind, addieren: 4+(4+2). Zähl mal selbst!",
+                "board": "Beispiel 1",
+                "exampleImages": [
+                    "scheme_1-E-2-Ex1_GER-1.png"
+                ]
+            }
+        ],
+        "1-E-3": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! In diesem Abschnitt werden die Aufgaben schwerer!",
+                "boyPhrase": "Lies aufmerksam vor, weil Aufgabenstellung einen Hacken haben kann.",
+                "board": "Aufgaben zu Entfernung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-E-3-Ex1_GER.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "Wir wissen, dass Rene 4 Kilometer gelaufen ist, und gesamte Entfernung zwischen Jungen ist 7 Kilometer.",
+                "boyPhrase": "Um zu finden, wie viel Peter gelaufen ist, muss man von der GESAMMTEN Entfernung Renes Entfernung subtrahieren: 7-4. Zahl mal selbst!",
+                "board": "Beispiel 1",
+                "animation": "1_e3_11_N.swf"
+            }
+        ],
+        "1-E-4": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Du machst alles sehr gut! Und Aufgaben werden noch schwerer!",
+                "boyPhrase": "Man muss die Entfernung in einigen Streckenabschnitten finden, und nur dann die gesamte Entfernung!",
+                "board": "Aufgaben zu Entfernung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-E-4-Ex1_GER.png",
+                    "scheme_1-E-4-Ex2.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "Wir wissen, dass Luisa 3 und Helen 4 Kilometer in einer Stunde gelaufen sind. Man muss finden, wie viel sie zu zweit in 2 Stunde gelaufen sind.",
+                "boyPhrase": "Man muss finden, wie viel sie zu zweit in einer Stunde, und dann in zweiter Stunde gelaufen sind. Addieren wir die beiden Entfernungen: (3+4)+(3+4). Zähl mal selbst!",
+                "board": "Beispiel 1",
+                "animation": "1_e4_11_N.swf"
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "Wir wissen, dass Gerd 2 und Rene 3 Kilometer gelaufen sind. INSGESAMT müssen sie voneinander an 9 Kilometer entfernen.",
+                "boyPhrase": "Um zu finden, wie viel sie noch laufen müssen, muss man von der gesamten Entfernung das subtrahieren, was sie schon zurückgelegt haben: 9-(2+3). Zähl mal selbst!",
+                "board": "Beispiel 2",
+                "animation": "1_e4_12_N.swf"
+            }
+        ],
+        "1-E-5": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Jetzt ist es Zeit, sich zu prüfen!",
+                "boyPhrase": "In Testaufgaben kannst du dich prüfen, wie gut du dich in Aufgaben auskennst!",
+                "board": "Aufgaben zu Entfernung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-E-1-Ex1_GER.png",
+                    "scheme_1-E-2-Ex1_GER.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Wir haben Zahlen durch Buchstaben ersetzt! Du musst nichts zählen, aber du prüfst, wie gut du die Aufgabenstellung verstehst!",
+                "boyPhrase": "Viel Glück!",
+                "board": "Aufgaben zu Entfernung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-E-3-Ex1_GER.png",
+                    "scheme_1-E-4-Ex2.png"
+                ]
+            }
+        ]
+}

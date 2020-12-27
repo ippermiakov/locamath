@@ -1,0 +1,91 @@
+/* pages classes */
+
+.tabs {
+        float: left;
+        width: 100%;
+        line-height: normal;
+        background-image: url("page_control_tabs_bg.gif");
+}
+
+.tabs ul {
+        margin: 0;
+        padding: 0 0 0;
+        list-style: none;
+}
+
+.tabs li {
+        float: left;
+        background: url("page_control_tab_bg.gif") no-repeat left top;
+        margin: 0;
+        margin-left: 0;
+        margin-right: 2px;
+        padding: 0 0 0 10px;
+        line-height: 18px;
+}
+
+.tabs li.current {
+        background: url("page_control_tab_sel_bg.gif") no-repeat left top;
+        margin-right: 2px;
+}
+
+.tabs li.last {
+        background: none;
+        float: right;
+}
+
+.tabs span {
+        float: left;
+        display: block;
+        background: url("page_control_tab_end.gif") no-repeat right top;
+        padding: 0px 10px 0 0;
+}
+
+.tabs .current span {
+        background: url("page_control_tab_sel_end.gif") no-repeat right top;
+}
+
+.tabs .last span {
+        background: none;
+        float: right;
+}
+
+.tabs a {
+        text-decoration: none;
+}
+
+.tabs a:link, .tabs a:visited {
+        color: black;
+}
+
+.tabs a:hover {
+        color: blue;
+}
+
+.tabs .current {
+}
+
+.tabs .current a, .tabs .current a:link, .tabs .current a:visited {
+}
+
+.tabs .current a:hover {
+        color: black;
+}
+
+.pages div.page {
+        display: none;
+}
+
+.pages div.current {
+        display: block;
+        width: 100%;
+        overflow: visible; /* Should be auto but that breaks Safari */
+}
+
+.pages {
+        border: 1px solid #919B9C;
+        border-top: 0px;
+        padding: 10px;
+        padding-top: 5px;
+        clear: both;
+        background-color: white;
+}

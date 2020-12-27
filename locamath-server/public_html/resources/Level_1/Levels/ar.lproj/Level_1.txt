@@ -1,0 +1,164 @@
+{
+    "paths" : [ 
+    {
+        "name" : "بعض المسائل البسيطة عن الحركة",
+        "errors" : ["ابدأ بمسائل الحركة البسيطة! قم بالمشي باتجاه الضفة المرتفعة, ليست كل المسائل في الضفة المرتفعة محلولة!"],
+        "color" : "Red",
+        "levelNumber" : 1,
+        "olympiad_localized_text" : "في البداية, حتى تستطيع اختيار المستوى الاول للاولمبياد عليك اولاً ان تنهي مسائل الامتحان الاحمر في المستوى الاحمر.",
+        "levels": {
+            "1-A-1": {
+                "Name": "الضفة المرتفعة",
+                "Image": "exercises_page_high_bank",
+                "PointX": 1104,
+                "PointY": 423
+            },
+            "1-A-2": {
+                "Name": "جسر",
+                "Image": "exercises_page_bridge",
+                "PointX": 1005,
+                "PointY": 340
+            },
+            "1-A-3": {
+                "Name": "جانب النهر المشمس",
+                "Image": "exercises_page_sunny_riverside",
+                "PointX": 575,
+                "PointY": 12
+            },
+            "1-A-4": {
+                "Name": "بالون الهواء",
+                "Image": "exercises_page_air_balloon",
+                "PointX": 213,
+                "PointY": 253
+            },
+            "1-A-5": {
+                "Name": "الامتحان الاحمر",
+                "Image": "Red_test@2x",
+                "PointX": 58,
+                "PointY": 315,
+                "isTest": 1
+            }
+        }
+    },
+    {
+        "name" : "مسائل مبنية على حركة متتابعة على اجزاء مختلفة من الطريق",
+        "color" : "Blue",
+        "errors" : ["حاول البدء بمسائل مبنية على حركة متتابعة على اجزاء مختلفة من الطريق! اذهب الى الشجرة القديمة,ليست جميع المسائل التدريبية عند الشجرة القديمة محلولة!"],
+        "levelNumber" : 1,
+        "olympiad_localized_text" : "حتى تتمكن من اختيار المستوى الثاني للاولمبياد عليك ان تنهي المستوى الاول للاولمبياد والامتحان الازرق في المستوى الازرق.",
+        "levels": {
+            "1-B-1": {
+                "Name": "شجرة قديمة",
+                "Image": "exercises_page_old_tree",
+                "PointX": 867,
+                "PointY": 916
+            },
+            "1-B-2": {
+                "Name": "شجرة افوكادو",
+                "Image": "exercises_page_avocado_tree",
+                "PointX": 1056,
+                "PointY": 873
+            },
+            "1-B-3": {
+                "Name": "حقل القمح",
+                "Image": "exercises_page_wheat_field",
+                "PointX": 657,
+                "PointY": 933
+            },
+            "1-B-4": {
+                "Name": "صوت البومة الحكيمة",
+                "Image": "exercises_page_hollow_of_wise_owl",
+                "PointX": 305,
+                "PointY": 817
+            },
+            "1-B-5": {
+                "Name": "الامتحان الازرق",
+                "Image": "Blue_test@2x",
+                "PointX": 449,
+                "PointY": 576,
+                "isTest": 1
+            }
+        }
+    },
+    {
+        "name" : "المسائل التي تتعلق بالانتقال باتجاه الآخر",
+        "color" : "Green",
+        "errors" : ["قم بحل المسائل التي تتعلق بالانتقال باتجاه الآخرين. اذهب الى نبع الماء,ليست جميع المسائل التدريبية عند نبع الماء محلولة"],
+        "levelNumber" : 1,
+        "olympiad_localized_text" : "حتى تتمكن من اختيار المستوى الثالث للاولمبياد عليك ان تنهي المستوى الثاني للاولمبياد ومسائل الامتحان البنفسجي في المستوى البنفسجي.",
+        "levels": {
+            "1-C-1": {
+                "Name": "نبع الماء",
+                "Image": "exercises_page_wellspring",
+                "PointX": 1878,
+                "PointY": 708
+            },
+            "1-C-2": {
+                "Name": "مرج الزهور",
+                "Image": "exercises_page_Flower_meadow",
+                "PointX": 1938,
+                "PointY": 1038
+            },
+            "1-C-3": {
+                "Name": "اعلى التلة",
+                "Image": "exercises_page_top_of_the_hill",
+                "PointX": 2123,
+                "PointY": 954
+            },
+            "1-C-4": {
+                "Name": "حديقة - النحل",
+                "Image": "exercises_page_apiary",
+                "PointX": 2389,
+                "PointY": 756
+            },
+            "1-C-5": {
+                "Name": "الامتحان البنفسجي",
+                "Image": "Violet_test@2x",
+                "PointX": 2834,
+                "PointY": 763,
+                "isTest": 1
+            }
+        }
+    },
+    {
+        "name" : "المسائل التي تتعلق بالانتقال في الاتجاهات المعاكسة",
+        "color" : "Green",
+        "errors" : ["قم بحل المسائل التي تتعلق بالانتقال في الاتجاهات المعاكسة. اذهب الى الغابة,ليست كل المسائل التدريبية في الغابة محلولة!"],
+        "levelNumber" : 1,
+        "olympiad_localized_text" : "حتى تتمكن من اختيار المستوى الرابع للاولمبياد عليك ان تنهي المستوى الثالث للاولمبياد ومسائل الامتحان الاخضر في المستوى الاخضر.",
+        "levels": {
+            "1-E-1": {
+                "Name": "غابة",
+                "Image": "exercises_page_fir_forest",
+                "PointX": 1366,
+                "PointY": 363
+            },
+            "1-E-2": {
+                "Name": "بحيرة كبيرة",
+                "Image": "exercises_page_big_lake",
+                "PointX": 1955,
+                "PointY": 214
+            },
+            "1-E-3": {
+                "Name": "بستان",
+                "Image": "exercises_page_orchard",
+                "PointX": 2131,
+                "PointY": 215
+            },
+            "1-E-4": {
+                "Name": "بيت الجدة",
+                "Image": "exercises_page_grandma's_house",
+                "PointX": 2435,
+                "PointY": 220
+            },
+            "1-E-5": {
+                "Name": "الامتحان الاخضر",
+                "Image": "Green_test@2x",
+                "PointX": 2534,
+                "PointY": 345,
+                "isTest": 1
+            }
+        }
+    }
+    ]
+}

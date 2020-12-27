@@ -1,0 +1,15 @@
+.jsoxProgress { 
+  position: absolute; 
+  font-size: 10px; 
+  color: #FF0000; 
+  background: #FFFFFF; 
+  padding: 2px;
+}
+.jsoxProgressIndicator { 
+  position: absolute; 
+  background: #FFFFFF;
+  border: 0;
+  width: 16px;
+  height: 16px;
+  background-image: url(img_ajax_call.gif); 
+}

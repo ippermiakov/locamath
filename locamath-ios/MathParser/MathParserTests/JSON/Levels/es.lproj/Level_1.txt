@@ -1,0 +1,164 @@
+{
+    "paths" : [ 
+    {
+        "name" : "Los problemas simples de movimiento",
+        "errors" : ["¡Empieza con los problemas simples! ¡Ve a la Orilla Alta!", "¡No todos los problemas de la Orilla Alta están solucionados!"],
+        "color" : "Red",
+        "levelNumber" : 1,
+        "olympiad_localized_text" : "Para empezar a solucionar los problemas de Olimpiada, tienes que solucionar los tests del nivel rojo!",
+        "levels": {
+            "1-A-1": {
+                "Name": "La Orilla Alta",
+                "Image": "exercises_page_high_bank",
+                "PointX": 1104,
+                "PointY": 423
+            },
+            "1-A-2": {
+                "Name": "Puente",
+                "Image": "exercises_page_bridge",
+                "PointX": 1005,
+                "PointY": 340
+            },
+            "1-A-3": {
+                "Name": "La Orilla de Sol",
+                "Image": "exercises_page_sunny_riverside",
+                "PointX": 575,
+                "PointY": 12
+            },
+            "1-A-4": {
+                "Name": "Globo",
+                "Image": "exercises_page_air_balloon",
+                "PointX": 213,
+                "PointY": 253
+            },
+            "1-A-5": {
+                "Name": "Test",
+                "Image": "Red_test@2x",
+                "PointX": 58,
+                "PointY": 315,
+                "isTest": 1
+            }
+        }
+    },
+    {
+        "name" : "Los problemas del movimiento consecutivo de los objetos en las partes diferentes de la distancia",
+        "color" : "Blue",
+        "errors" : ["¡Empieza con los problemas del movimiento consecutivo en diferentes partes de la distancia! ¡Ve al Viejo Arbol", "¡No todos los problemas del Viejo Arbol están solucionados!"],
+        "levelNumber" : 1,
+        "olympiad_localized_text" : "Para empezar a solucionar los problemas de Olimpiada, tienes que solucionar los tests del nivel azul y los problemas de Olimpiada anteriores!",
+        "levels": {
+            "1-B-1": {
+                "Name": "Viejo Arbol",
+                "Image": "exercises_page_old_tree",
+                "PointX": 867,
+                "PointY": 916
+            },
+            "1-B-2": {
+                "Name": "Aguacate",
+                "Image": "exercises_page_avocado_tree",
+                "PointX": 1056,
+                "PointY": 873
+            },
+            "1-B-3": {
+                "Name": "Campo",
+                "Image": "exercises_page_wheat_field",
+                "PointX": 657,
+                "PointY": 933
+            },
+            "1-B-4": {
+                "Name": "Hueco de la Lechuza Sabia",
+                "Image": "exercises_page_hollow_of_wise_owl",
+                "PointX": 305,
+                "PointY": 817
+            },
+            "1-B-5": {
+                "Name": "Test",
+                "Image": "Blue_test@2x",
+                "PointX": 449,
+                "PointY": 576,
+                "isTest": 1
+            }
+        }
+    },
+    {
+        "name" : "Los problemas de acercamiento de dos objetos",
+        "color" : "Violet",
+        "errors" : ["¡Soluciona los problemas del acercamiento de dos objetos y vuelve! Ve al manantial", "¡No todos los problemas del manantial están solucionados!"],
+        "levelNumber" : 1,
+        "olympiad_localized_text" : "Para empezar a solucionar los problemas de Olimpiada, tienes que solucionar los tests del nivel verde y los problemas de Olimpiada anteriores!",
+        "levels": {
+            "1-C-1": {
+                "Name": "Manantial",
+                "Image": "exercises_page_wellspring",
+                "PointX": 1878,
+                "PointY": 708
+            },
+            "1-C-2": {
+                "Name": "Calvero de flores",
+                "Image": "exercises_page_Flower_meadow",
+                "PointX": 1938,
+                "PointY": 1038
+            },
+            "1-C-3": {
+                "Name": "Cima de colina",
+                "Image": "exercises_page_top_of_the_hill",
+                "PointX": 2123,
+                "PointY": 954
+            },
+            "1-C-4": {
+                "Name": "Colmenar",
+                "Image": "exercises_page_apiary",
+                "PointX": 2389,
+                "PointY": 756
+            },
+            "1-C-5": {
+                "Name": "Test",
+                "Image": "Violet_test@2x",
+                "PointX": 2834,
+                "PointY": 763,
+                "isTest": 1
+            }
+        }
+    },
+    {
+        "name" : "Los problemas de alejamiento de dos objetos",
+        "color" : "Green",
+        "errors" : ["¡Soluciona los problemas del alejamiento de dos objetos y vuelve! Ve al Abetal ", "No todos los problemas del Abetal están solucionados!"],
+        "levelNumber" : 1,
+        "olympiad_localized_text" : "Para empezar a solucionar los problemas de Olimpiada, tienes que solucionar los tests del nivel violeta y los problemas de Olimpiada anteriores!",
+        "levels": {
+            "1-E-1": {
+                "Name": "Abetal",
+                "Image": "exercises_page_fir_forest",
+                "PointX": 1366,
+                "PointY": 363
+            },
+            "1-E-2": {
+                "Name": "Lago Grande",
+                "Image": "exercises_page_big_lake",
+                "PointX": 1955,
+                "PointY": 214
+            },
+            "1-E-3": {
+                "Name": "Huerto",
+                "Image": "exercises_page_orchard",
+                "PointX": 2131,
+                "PointY": 215
+            },
+            "1-E-4": {
+                "Name": "La casita de abuela",
+                "Image": "exercises_page_grandma's_house",
+                "PointX": 2435,
+                "PointY": 220
+            },
+            "1-E-5": {
+                "Name": "Test",
+                "Image": "Green_test@2x",
+                "PointX": 2534,
+                "PointY": 345,
+                "isTest": 1
+            }
+        }
+    }
+    ]
+}

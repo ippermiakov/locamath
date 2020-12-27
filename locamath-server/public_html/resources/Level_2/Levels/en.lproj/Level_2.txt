@@ -1,0 +1,186 @@
+{
+    "paths" : [ 
+    {
+        "name" : "Simple motion problems",
+        "errors" : ["Start off with the simple motion problems! Walk in the direction of the Bakery", "Not all of the training problems in the Bakery are solved!"],
+        "color" : "Red",
+        "levelNumber" : 2,
+        "levels": {
+            "2-A-1": {
+                "Name": "Bakery",
+                "Image": "bakery@2x",
+                "PointX": 1367,
+                "PointY": 442
+            },
+            "2-A-2": {
+                "Name": "Parlament",
+                "Image": "parlament@2x",
+                "PointX": 868,
+                "PointY": 432
+            },
+            "2-A-3": {
+                "Name": "Hospital",
+                "Image": "hospital@2x",
+                "PointX": 445,
+                "PointY": 377
+            },
+            "2-A-4": {
+                "Name": "Cafe",
+                "Image": "cafe@2x",
+                "PointX": 234,
+                "PointY": 262
+            },
+            "2-A-5": {
+                "Name": "Red test",
+                "Image": "",
+                "PointX": 93,
+                "PointY": 271,
+                "isTest": 1
+            }
+        }
+    },
+    {
+        "name" : "Problems involving traveling towards each other",
+        "color" : "Blue",
+        "errors" : ["Try starting off with the problems based on sequential movement on different parts of a route! Go to the Kid Garden", "Not all of the training problems by the Kid Garden are solved!"],
+        "levelNumber" : 2,
+        "levels": {
+            "2-C-1": {
+                "Name": "Kid Garden",
+                "Image": "kid_garden",
+                "PointX": 1188,
+                "PointY": 797
+            },
+            "2-C-2": {
+                "Name": "Zoo",
+                "Image": "zoo@2x",
+                "PointX": 939,
+                "PointY": 915
+            },
+            "2-C-3": {
+                "Name": "City Hall",
+                "Image": "city_hall@2x",
+                "PointX": 1051,
+                "PointY": 880
+            },
+            "2-C-4": {
+                "Name": "School",
+                "Image": "school@2x",
+                "PointX": 523,
+                "PointY": 999
+            },
+            "2-C-5": {
+                "Name": "Blue test",
+                "Image": "",
+                "PointX": 305,
+                "PointY": 1108,
+                "isTest": 1
+            }
+        }
+    },
+    {
+        "name" : "Problems involving traveling in opposite directions",
+        "color" : "Violet",
+        "errors" : ["Solve the problems involving traveling towards each other. Go to the Teacher House", "Not all of the training problems by the Teacher House are solved"],
+        "levelNumber" : 2,
+        "levels": {
+            "2-E-1": {
+                "Name": "Teacher House",
+                "Image": "teacher_house@2x",
+                "PointX": 1769,
+                "PointY": 602
+            },
+            "2-E-2": {
+                "Name": "Hotel",
+                "Image": "hotel@2x",
+                "PointX": 2048,
+                "PointY": 726
+            },
+            "2-E-3": {
+                "Name": "Ice Cream",
+                "Image": "ice_cream@2x",
+                "PointX": 2665,
+                "PointY": 722
+            },
+            "2-E-4": {
+                "Name": "Circus",
+                "Image": "circus@2x",
+                "PointX": 2712,
+                "PointY": 835
+            },
+            "2-E-5": {
+                "Name": "Violet test",
+                "Image": "",
+                "PointX": 2712,
+                "PointY": 895,
+                "isTest": 1
+            }
+        }
+    },
+    {
+        "name" : "Problems based on sequential movement on different parts of a route",
+        "color" : "Green",
+        "errors" : ["Solve the problems involving traveling in opposite directions. Go to the Milkman", "Not all of the training problems in the Milkman are solved!"],
+        "levelNumber" : 2,
+        "levels": {
+            "2-B-1": {
+                "Name": "Milkman",
+                "Image": "milkman@2x",
+                "PointX": 1615,
+                "PointY": 343
+            },
+            "2-B-2": {
+                "Name": "Stadium",
+                "Image": "stadium@2x",
+                "PointX": 1809,
+                "PointY": 260
+            },
+            "2-B-3": {
+                "Name": "Pharmacy",
+                "Image": "pharmacy@2x",
+                "PointX": 2189,
+                "PointY": 243
+            },
+            "2-B-4": {
+                "Name": "Toys Store",
+                "Image": "toys_store@2x",
+                "PointX": 2479,
+                "PointY": 130
+            },
+            "2-B-5": {
+                "Name": "Green test",
+                "Image": "",
+                "PointX": 2290,
+                "PointY": 49,
+                "isTest": 1
+            }
+        }
+    },
+    {
+        "name" : "Problems based on two objects getting further apart from each other while moving in one direction",
+        "color" : "Maroon",
+        "errors" : ["Solve the problems involving traveling towards each other. Go to the Library", "Not all of the training problems by the Library are solved"],
+        "levelNumber" : 2,
+        "levels": {
+            "2-F-1": {
+                "Name": "Library",
+                "Image": "library@2x",
+                "PointX": 1490,
+                "PointY": 838
+            },
+            "2-F-2": {
+                "Name": "Cinema",
+                "Image": "cinema@2x",
+                "PointX": 1688,
+                "PointY": 933
+            },
+            "2-F-3": {
+                "Name": "Maroon test",
+                "Image": "",
+                "PointX": 1791,
+                "PointY": 999
+            }
+        }
+    }
+    ]
+}

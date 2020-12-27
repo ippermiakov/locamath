@@ -1,0 +1,342 @@
+/* General */
+"YES" = "ДА";
+
+"Coming soon" = "Скоро";
+
+"Calculation error" = "Ошибка вычислений";
+
+"and" = "и";
+
+"Answer" = "Ответ";
+
+"Name" = "Имя";
+
+"NO" = "НЕТ";
+
+"Solution" = "Решение по действиям";
+
+"solution" = "по действиям";
+
+"Task" = "Задача";
+
+"Save & Exit" = "Сохранить";
+
+"You can't delete error." = "Ты не можешь удалить решение, в котором допущена ошибка.";
+
+"Message" = "Сообщение";
+
+
+/* level map */
+
+"Oops! You made more than two mistakes. You can't continue solving the test problems until you finish solving the previous problems of this type" = "Oops! Ты допустил больше двух ошибок. Ты не можешь дальше продолжать решать тестовые задачи, пока не решишь все задачи этого типа.";
+
+/* S&E level page label */
+"Problem" = "Задача";
+
+"problem" = "задача";
+
+"Training" = "Обучающая";
+
+
+/* Exercises page */
+"%@ points from %@" = "%1$@ очков из %2$@";
+
+"find one more way to solve this problem and earn %d points more" = "найди еще варианты решения этой задачи и заработай еще %d очков";
+
+"you have solved this problem with all possible solution and expression" = "Ты нашел все возможные варианты решений";
+
+
+/* Solving page */
+"Expression" = "Выражение";
+
+"expression" = "выражением";
+
+"Add answer" = "Добавить ответ";
+
+"Save & Exit" = "Сохранить";
+
+"Answers are not identical to each other." = "Ответы не совпадают.";
+
+"Change answer" = "Изменить ответ";
+
+"Answer field is empty" = "Поле для ответа пустое";
+
+"Task can have just one correct answer! Input the same ANSWER to all fields" = "Задача может иметь только один правильный ответ! Вставь одинаковые ответы во все поля";
+
+"Mistake put scheme message" = "Нужно найти правильный элемент и перенести его в схему";
+
+"Task is not solved with all possible variants." = "Не все возможные варианты решения задачи найдены";
+
+"Task is solved with all possible solutions and expressions" = "Все возможные варианты решения найдены";
+
+"Delete" = "Удалить";
+
+"Add operation?" = "Добавить действие?";
+
+"Delete operation?" = "Удалить действие?";
+
+
+
+/* Statistics */
+"Day" = "День";
+
+"Month" = "Месяц";
+
+"Understanding error" = "Ошибка понимания";
+
+"Week" = "Неделя";
+/* Got star for test level completion */
+"%02i.%02i %@ (Got star)" = "%1$i.%2$i %3$@ (Получена звезда)";
+/* Solved level/path */
+"%02i.%02i %@ (Solved)" = "%1$i.%2$i %3$@ (Решено)";
+
+
+
+//tutorial
+"tap to see animation!" = "Нажми здесь и посмотри анимацию!";
+
+"tap to build diagram here!" = "Составь схему!";
+
+"drag the items here to make diagram!" = "Перетаскивая элементы сюда, составь схему!";
+
+"tap to solve the problem!" = "Теперь реши задачу!";
+
+"drag & drop the numbers here to solve the problem!" = "Перетаскивая цифры сюда, реши задачу!";
+
+"tap to see the mistake!" = "Посмотри ошибку!";
+
+//new solving
+
+"Solution1" = "Решение";
+
+"math expression" = "Выражением";
+
+"math solution" = "По действиям";
+
+"scheme_success_message" = "Молодец! Схема составлена!";
+
+"The same solutions, change one of them!" = "Ты ввел одинаковые решения, исправь или удали одно из них!";
+
+
+
+/* Logout */
+
+"Are you sure you want to exit your profile? All your data will be save and you can come back any time." = "Вы уверены, что хотите выйти из своего профиля? Все ваши данные сохранены, и вы можете вернуться в любое время.";
+
+"Cancel" = "Отмена";
+
+"OK" = "OK";
+
+
+
+/* Settings */
+"Enter your facebook account to continue" = "Введите свой Фэйсбук аккаунт для продолжения";
+
+"Enter your mail account to continue" = "Введите свой email для продолжения";
+
+
+
+/* Profile achievements event status */
+"Error" = "Ошибка";
+/* Popup error description */
+"Structure and calculation error" = "Ошибка в понимании и вычислениях";
+
+/* Popup error description */
+"Structure error" = "Ошибка в понимании";
+
+
+
+/* Solved level/path */
+"Solved" = "Решено";
+
+/* Profile achievements event status */
+"Solved task" = "Решена";
+/* Profile achievements event status */
+"Started task" = "Начали решать";
+
+
+
+/* Olympiad solving page */
+"There are empty gaps. You should fill every gap" = "Не все пробелы заполнены. Ты должен заполнить каждый пробел";
+
+
+
+/* Mail registration  popup */
+
+
+
+/* Back-end errors */
+
+"Unable to perform action" = "Невозможно выполнить действие";
+
+"Email and Password fields are required" = "Email и Пароль - это обязательные поля";
+
+"Incorrect email format" = "Неправильный формат email";
+
+"User with same email already exists" = "Пользователь с этим email уже существует";
+
+"Incorrect password" = "Неправильный пароль";
+
+"User not found" = "Пользователь не найден";
+
+"User not found, you need to specify email to register" = "Пользователь не найден, вам нужно уточнить email, чтобы зарегистрироваться";
+
+"Name field is required" = "Заполните поле Имя";
+
+"Child with this name already exists" = "Ребенок с таким именем уже существует";
+
+"Child not found" = "Такой пользователь не найден";
+
+"You need to set active child" = "Выберите ребенка";
+
+"Permissions Denied" = "В доступе отказано";
+
+"Authorization Error" = "Ошибка идентификации";
+
+"Synchronizing. Tap to cancel" = "Синхронизация. Нажмите для отмены";
+
+"Synchronizing" = "Синхронизация";
+
+"Sending data" = "Отправка данных";
+
+"Getting data" = "Получение данных";
+
+
+
+/* post to FB */
+
+"I solved test problem #%@ from the topic \"%@\"!" = "Я решил(а) тестовую задачу №%@ в теме \"%@\"!";
+
+"I solved all the test problems from the topic \"%@\"!" = "Я решил(а) тестовые задачи в теме \"%@\"!";
+
+"I solved olympiad problem #%@ of the first level of the \"%@\"!" = "Я решил(а) олимпиадную задачу №%@ в \"%@\"!";
+
+"I solved the first level of the \"%@\"!" = "Я решил(а) I олимпиаду \"%@\"!";
+
+
+/* parent help */
+
+"- %@ level of difficulty" = "- %@ уровня сложности";
+
+"- Solve %@ problems" = "- %@ задачи для решения";
+
+"- %@ test problems" = "- %@ тестовых задач";
+
+"%i. Witty olympiad problems %i levels with %@ problems in each" = "%i. Олимпиадные задачи на смекалку: %i уровня по %@ задач";
+
+"A total of %@ problems, %@ test problems, %@ olympiad problems" = "Всего %@ задач, %@ тестовых задач, %@ олимпиадных задач";
+
+
+/* animation alert*/
+
+"You need an internet connection in order to watch the animation" = "Для просмотра анимации нужно подключение к интернету";
+
+"Server Error" = "Сервер временно не доступен. Приносим свои извинения. Мы улучшаем работу сервера. Вы можете продолжить работу офф-лайн или вернуться в приложение позже.";
+
+/* Registration */
+/* Mail */
+"Enter your account" = "Введите свой аккаунт";
+
+"Enter your password" = "Введите свой пароль";
+
+"You should input all rows" = "Ты должен заполнить все поля";
+
+
+"Enter child name" = "Введите имя ребенка";
+
+"Please enter your name" = "Введи свое имя";
+
+"You need to confirm your e-mail before continue" = "Вам нужно подтвердить свой e-mail";
+
+"Failed to get location, check your network connection" = "Не удалось определить геолокацию, проверьте подключение к интернету.";
+
+"Dismiss" = "Спрятать";
+
+"Invalid nickname. You can use only Latin/Cyrillic symbols, whitespaces, digits and symbols '.-_'. Maximum is 15 symbols" = "Некорректное имя. Вы можете использовать только кириллические-латинские символы, пробел, цифры и символы '.-_'. Максимальная длина имени 15 символов.";
+
+"Invalid email" = "Некорректный e-mail";
+
+"Invalid password. Input from 6 to 15 symbols" = "Некорректный пароль. Введите от 6 до 15 символов.";
+
+"Censored nickname error" = "Это имя запрещено для использования";
+
+" Child's progress will be lost!" = " Прогресс ребенка будет потерен";
+
+"Explain default label" = "Что бы зарегистрироваться нажмите «ок», чтобы продолжить использовать приложение нажмите «далее»";
+
+"Set name for default child" = "Введите имя ребенка";
+
+"Explain default label4" = "Что бы зарегистрироваться нажмите «ок», чтобы продолжить использовать приложение нажмите «отмена»!";
+
+"Done" = "Готово";
+
+"Passwords don't match" = "Пароли не совпадают";
+
+"Password is changed" = "Пароль изменен";
+
+"Password was sent to your e-mail" = "Пароль был отправлен на Вашу почту";
+
+"Register" = "Зарегистрироваться";
+
+"Login" = "Войти";
+
+
+/* Delete child */
+
+"Remove child %@ confirmation" = "Вы хотите удалить  учетную запись %@ из приложенеия LocaMath? Вся статистика будет потеряна!";
+"Remove child %@ confirmation email" = "Вам на почту выслано подтверждение об удалении. Зайдите на свою почту и подтвердите удаление учетной записи %@.";
+
+"Confirm_ERROR" = "Confirm error!!!";
+
+
+
+//Warning on attempt to solve test tasks with 2 tasks failed already
+"Oops! You made more than two mistakes. You can't continue solving the test problems until you finish solving the previous problems of this type"= "Упс! Ты сделал более 2 ошибок. Ты не можешь дальше решать тестовые задачи, пока не решишь все предыдущие задачи на данном участке пути.";
+
+
+
+//default popup
+
+
+"Continue" = "Далее";
+
+"Points earned" = "Заработано очков";
+
+"Attention" = "Внимание";
+
+
+/* facebook */
+
+"https://www.facebook.com/Locamath" = "https://www.facebook.com/pages/Счастливая-Математика/407228206013293";
+
+"fb_Locamath" = "fb://profile/407228206013293";
+
+"The Internet connection appears to be offline." = "Вероятно, соединение с Интернетом прервано.";
+
+"No internet connection, вы не можете зарегистрироваться через FB при отсутствии интернета, зарегистрируйтесь при помощи почты" = "При отсутствии интернета вы можете зарегистрироваться только используя свой email";
+
+"Check facebook permissions and try again later" = "Проверьте права доступа к вашей странице на Facebook и попробуйте еще раз";
+
+"The version is application is lower than required/ Please update your application/" = "Чтобы приложение работало правильно, Вам нужно обновить версию приложения! ";
+
+
+
+/*Should deleted */
+
+"Pull to refresh" = "Потяните, чтобы обновить";
+
+"Child not selected." = "Ребенок не выбран.";
+
+"Explain default label0" = "Без регистрации:\n\n Ребенок не сможет участвовать в рейтинге и соревноваться с другими детьми!\n\n Только один ребенок сможет пользоваться приложением!\n\n Вы не сможете получать отчеты и статистику о прогрессе вашего ребенка!";
+
+"Explain default label1" = "Этот раздел для нашей команды!\n\n Хочешь быть с нами в одной команде - попроси своих родителей зарегистрироваться!";
+
+"Explain default label2" = "Дорогие родители!\n\n Это страница отчетов и статистики.\n\n Без регистрации она бесполезна!";
+
+"You can add just expression for this task!" = "Эта задача может быть решена только при помощи выражения!";
+
+"You have added all possible expressions" = "Ты нашел все варианты решений при помощи выражений";
+
+"You have added all possible solutions" = "Ты нашел все варианты решений по действиям";
+
+"Edit" = "Редактировать";

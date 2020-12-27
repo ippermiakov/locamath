@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.iPad.XIB" version="3.0" toolsVersion="4514" systemVersion="12F45" targetRuntime="iOS.CocoaTouch.iPad" propertyAccessControl="none">
+    <dependencies>
+        <deployment defaultVersion="1280" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3747"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SolvingAndExercisesViewController">
+            <connections>
+                <outlet property="completionSchemeLabel" destination="2ne-YY-LMz" id="Sh4-23-fvL"/>
+                <outlet property="doneButton" destination="3zo-ig-38U" id="GCZ-MH-iAm"/>
+                <outlet property="editButton" destination="stU-91-np4" id="MY0-Tf-Tcq"/>
+                <outlet property="errorsButton" destination="6qP-3O-vKG" id="cpI-wP-8y3"/>
+                <outlet property="expressionsCountLabel" destination="0HK-tE-FJz" id="81p-rS-jqe"/>
+                <outlet property="exprressionHaveErrorImageView" destination="9Xq-OO-xNb" id="8nJ-Vc-7Vn"/>
+                <outlet property="greenView" destination="Jbv-mQ-uzn" id="cQX-vZ-sRN"/>
+                <outlet property="levelNameLabel" destination="dAg-oo-k8g" id="32c-bM-gjm"/>
+                <outlet property="numberToolsView" destination="e0m-vJ-806" id="IlW-bO-nrh"/>
+                <outlet property="playAnimationButton" destination="Rax-mu-1WU" id="5bv-wz-KKd"/>
+                <outlet property="problemNumberLabel" destination="jPC-Gl-pas" id="rS9-L7-PaT"/>
+                <outlet property="schemeToolsView" destination="Qc6-1d-7hP" id="ycG-hI-kLc"/>
+                <outlet property="schemeView" destination="L8g-0A-E76" id="b7X-px-SoG"/>
+                <outlet property="solutionCountLabel" destination="EDs-jg-ZIp" id="Xyh-kc-1IR"/>
+                <outlet property="solutionHaveErrorImageView" destination="IjJ-b1-vNi" id="W1E-Ac-44u"/>
+                <outlet property="solvingView" destination="KPB-po-xE2" id="YDo-Mb-hNh"/>
+                <outlet property="view" destination="2" id="3"/>
+                <outletCollection property="completeImagesArray" destination="RIN-93-Z4v" id="Ao0-bv-Uaq"/>
+                <outletCollection property="completeImagesArray" destination="cau-5P-zhO" id="fXs-Qz-KVd"/>
+                <outletCollection property="completeImagesArray" destination="tQc-Zy-lae" id="PR4-HH-4T0"/>
+                <outletCollection property="completeImagesArray" destination="QNi-ij-yOV" id="nSb-L3-cJQ"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="2">
+            <rect key="frame" x="0.0" y="0.0" width="1024" height="768"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" id="Jbv-mQ-uzn">
+                    <rect key="frame" x="0.0" y="0.0" width="1024" height="295"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <subviews>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="1 expresión " lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="0HK-tE-FJz">
+                            <rect key="frame" x="270" y="35" width="270" height="15"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                            <color key="highlightedColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="1 por las acciones" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="EDs-jg-ZIp">
+                            <rect key="frame" x="270" y="54" width="216" height="16"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFit" image="exercises_page_button_level_problem.png" id="blX-QS-fKC">
+                            <rect key="frame" x="29" y="20" width="234" height="89"/>
+                            <autoresizingMask key="autoresizingMask"/>
+                        </imageView>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="1" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="jPC-Gl-pas">
+                            <rect key="frame" x="188" y="54" width="30" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="highlightedColor" red="1" green="0.89349129350000001" blue="0.17274737940000001" alpha="1" colorSpace="calibratedRGB"/>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="The Hollow of Wise Owl" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="dAg-oo-k8g">
+                            <rect key="frame" x="44" y="34" width="205" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                            <color key="textColor" red="0.83305177539999997" green="1" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="№" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="MHQ-bc-aio">
+                            <rect key="frame" x="165" y="54" width="19" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="highlightedColor" red="1" green="0.89349129350000001" blue="0.17274737940000001" alpha="1" colorSpace="calibratedRGB"/>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="problem" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="ON8-Ra-EU7">
+                            <rect key="frame" x="62" y="54" width="97" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="highlightedColor" red="1" green="0.89349129350000001" blue="0.17274737940000001" alpha="1" colorSpace="calibratedRGB"/>
+                        </label>
+                        <label hidden="YES" opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="2ne-YY-LMz">
+                            <rect key="frame" x="710" y="91" width="280" height="70"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="25"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <view contentMode="scaleToFill" id="e0m-vJ-806" customClass="MTToolsView">
+                            <rect key="frame" x="746" y="26" width="238" height="211"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="1001" contentMode="left" text="1" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="ofj-mL-CTY">
+                                    <rect key="frame" x="26" y="20" width="28" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="46"/>
+                                    <color key="textColor" red="0.99607843139999996" green="0.80000000000000004" blue="0.1960784314" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                    <color key="shadowColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="1002" contentMode="left" text="2" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="IL4-Ll-17C">
+                                    <rect key="frame" x="64" y="20" width="28" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="46"/>
+                                    <color key="textColor" red="0.99607843139999996" green="0.80000000000000004" blue="0.1960784314" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                    <color key="shadowColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="1003" contentMode="left" text="3" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="E86-eB-50H">
+                                    <rect key="frame" x="102" y="20" width="28" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="46"/>
+                                    <color key="textColor" red="0.99607843139999996" green="0.80000000000000004" blue="0.1960784314" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                    <color key="shadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="1004" contentMode="left" text="4" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="VCi-fh-BPB">
+                                    <rect key="frame" x="140" y="20" width="28" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="46"/>
+                                    <color key="textColor" red="0.99607843139999996" green="0.80000000000000004" blue="0.1960784314" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                    <color key="shadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="1005" contentMode="left" text="5" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="ASj-5E-PJh">
+                                    <rect key="frame" x="180" y="20" width="28" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="46"/>
+                                    <color key="textColor" red="0.99607843139999996" green="0.80000000000000004" blue="0.1960784314" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                    <color key="shadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="1006" contentMode="left" text="6" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="3jx-wc-rXk">
+                                    <rect key="frame" x="26" y="73" width="28" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="46"/>
+                                    <color key="textColor" red="0.99607843139999996" green="0.80000000000000004" blue="0.1960784314" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                    <color key="shadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="1007" contentMode="left" text="8" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="wt0-Q4-Zb3">
+                                    <rect key="frame" x="102" y="73" width="28" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="46"/>
+                                    <color key="textColor" red="0.99607843139999996" green="0.80000000000000004" blue="0.1960784314" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                    <color key="shadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="1008" contentMode="left" text="0" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="qRw-rb-j1G">
+                                    <rect key="frame" x="180" y="73" width="28" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="46"/>
+                                    <color key="textColor" red="0.99607843139999996" green="0.80000000000000004" blue="0.1960784314" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="highlightedColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
+                                    <color key="shadowColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="1009" contentMode="left" text="+" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="8s0-XO-1ZP">
+                                    <rect key="frame" x="66" y="126" width="28" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="46"/>
+                                    <color key="textColor" red="0.99607843139999996" green="0.80000000000000004" blue="0.1960784314" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                    <color key="shadowColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="1010" contentMode="left" text="=" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="mjs-oW-nIz">
+                                    <rect key="frame" x="140" y="126" width="28" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="46"/>
+                                    <color key="textColor" red="0.99607843139999996" green="0.80000000000000004" blue="0.1960784314" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                    <color key="shadowColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="1011" contentMode="left" text="*" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="dw6-Vd-3fs">
+                                    <rect key="frame" x="51" y="179" width="29" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="46"/>
+                                    <color key="textColor" red="0.0" green="0.54117647059999996" blue="0.51372549020000002" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="1012" contentMode="left" text="/" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="keL-Yh-eB6">
+                                    <rect key="frame" x="26" y="179" width="28" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="46"/>
+                                    <color key="textColor" red="0.0" green="0.54117647059999996" blue="0.51372549020000002" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="1013" contentMode="left" text="-" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="bIf-39-EKx">
+                                    <rect key="frame" x="102" y="126" width="28" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="46"/>
+                                    <color key="textColor" red="0.99607843139999996" green="0.80000000000000004" blue="0.1960784314" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                    <color key="shadowColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="1014" contentMode="left" text="(" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="J28-Dt-gkZ">
+                                    <rect key="frame" x="20" y="126" width="28" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="46"/>
+                                    <color key="textColor" red="0.99607843139999996" green="0.80000000000000004" blue="0.1960784314" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                    <color key="shadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="1015" contentMode="left" text="}" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="75n-G3-Mex">
+                                    <rect key="frame" x="190" y="126" width="28" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="46"/>
+                                    <color key="textColor" red="0.0" green="0.54117647059999996" blue="0.51372549020000002" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="1016" contentMode="left" text="{" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="7bB-Gd-U2n">
+                                    <rect key="frame" x="170" y="126" width="28" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="46"/>
+                                    <color key="textColor" red="0.0" green="0.54117647059999996" blue="0.51372549020000002" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="1017" contentMode="left" text=")" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Yao-ck-Hpe">
+                                    <rect key="frame" x="41" y="126" width="28" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="46"/>
+                                    <color key="textColor" red="0.99607843139999996" green="0.80000000000000004" blue="0.1960784314" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                    <color key="shadowColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="1018" contentMode="left" text="9" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="3qR-u6-AnD">
+                                    <rect key="frame" x="142" y="73" width="28" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="46"/>
+                                    <color key="textColor" red="0.99607843139999996" green="0.80000000000000004" blue="0.1960784314" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                    <color key="shadowColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="1019" contentMode="left" text="7" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="shq-gG-L6k">
+                                    <rect key="frame" x="64" y="73" width="28" height="50"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="46"/>
+                                    <color key="textColor" red="0.99607843139999996" green="0.80000000000000004" blue="0.1960784314" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                    <color key="shadowColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
+                                </label>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <connections>
+                                <outletCollection property="tools" destination="ofj-mL-CTY" collectionClass="NSMutableArray" id="HJW-33-TW7"/>
+                                <outletCollection property="tools" destination="IL4-Ll-17C" collectionClass="NSMutableArray" id="e9y-bP-EDu"/>
+                                <outletCollection property="tools" destination="E86-eB-50H" collectionClass="NSMutableArray" id="BAN-fB-U8e"/>
+                                <outletCollection property="tools" destination="VCi-fh-BPB" collectionClass="NSMutableArray" id="u7w-Mw-f81"/>
+                                <outletCollection property="tools" destination="ASj-5E-PJh" collectionClass="NSMutableArray" id="84Q-7f-WYN"/>
+                                <outletCollection property="tools" destination="3jx-wc-rXk" collectionClass="NSMutableArray" id="vG1-ls-jY9"/>
+                                <outletCollection property="tools" destination="shq-gG-L6k" collectionClass="NSMutableArray" id="s5u-Os-0A0"/>
+                                <outletCollection property="tools" destination="wt0-Q4-Zb3" collectionClass="NSMutableArray" id="wus-iA-FPi"/>
+                                <outletCollection property="tools" destination="3qR-u6-AnD" collectionClass="NSMutableArray" id="kaa-T4-csW"/>
+                                <outletCollection property="tools" destination="qRw-rb-j1G" collectionClass="NSMutableArray" id="oYb-er-zzC"/>
+                                <outletCollection property="tools" destination="8s0-XO-1ZP" collectionClass="NSMutableArray" id="XK8-bw-73Y"/>
+                                <outletCollection property="tools" destination="mjs-oW-nIz" collectionClass="NSMutableArray" id="YnE-Mt-Wev"/>
+                                <outletCollection property="tools" destination="bIf-39-EKx" collectionClass="NSMutableArray" id="M4V-Ps-z2p"/>
+                                <outletCollection property="tools" destination="J28-Dt-gkZ" collectionClass="NSMutableArray" id="NOS-bp-gVX"/>
+                                <outletCollection property="tools" destination="Yao-ck-Hpe" collectionClass="NSMutableArray" id="qCi-50-QS9"/>
+                                <outletCollection property="tools" destination="dw6-Vd-3fs" collectionClass="NSMutableArray" id="kFO-fk-Rnm"/>
+                                <outletCollection property="tools" destination="keL-Yh-eB6" collectionClass="NSMutableArray" id="vSB-g5-bjw"/>
+                                <outletCollection property="tools" destination="7bB-Gd-U2n" collectionClass="NSMutableArray" id="61V-WP-rdD"/>
+                                <outletCollection property="tools" destination="75n-G3-Mex" collectionClass="NSMutableArray" id="tkB-aS-Yul"/>
+                            </connections>
+                        </view>
+                        <view hidden="YES" contentMode="scaleToFill" id="Qc6-1d-7hP" customClass="MTToolsView">
+                            <rect key="frame" x="662" y="0.0" width="358" height="240"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="2" contentMode="scaleAspectFit" image="Scheme_bracket_3x.png" id="mgC-Zz-IVO" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="53" y="94" width="101" height="25"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="28" contentMode="scaleAspectFit" image="Scheme_bracket_3x_DOWN.png" id="zKH-gS-eSc" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="49" y="75" width="101" height="25"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="57" contentMode="scaleAspectFit" image="Scheme_bracket_4x.png" id="2f5-Ar-iku" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="144" y="111" width="148" height="25"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="49" contentMode="scaleAspectFit" image="Scheme_bracket_4x_DOWN.png" id="swy-aE-UJb" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="166" y="119" width="148" height="25"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="1" contentMode="scaleAspectFit" image="Scheme_bracket_2x.png" id="hMQ-hd-8qn" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="64" y="125" width="72" height="15"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="48" contentMode="scaleAspectFit" image="Scheme_bracket_2x_DOWN.png" id="s0H-jd-yzS" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="84" y="134" width="74" height="15"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFit" image="Scheme_bracket_1x.png" id="LS5-eO-LZi" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="68" y="93" width="41" height="10"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="56" contentMode="scaleAspectFit" image="Scheme_bracket_1x_DOWN.png" id="Ut0-Lb-hJe" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="80" y="97" width="41" height="10"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="10" contentMode="scaleAspectFit" image="Scheme_dash_line.png" id="w5p-PB-TAb" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="314" y="203" width="2" height="37"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="3" contentMode="scaleAspectFit" image="Scheme_dash.png" id="oge-X5-djO" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="117" y="101" width="20" height="2"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="11" contentMode="scaleAspectFit" image="Scheme_flag.png" id="1Dc-01-2Zg" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="272" y="208" width="22" height="32"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="14" contentMode="scaleAspectFit" image="Scheme_L_arr_long.png" id="MlZ-bA-E5s" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="165" y="8" width="139" height="6"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="13" contentMode="scaleAspectFit" image="Scheme_L_arr_med.png" id="pgt-3R-xAf" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="90" y="8" width="77" height="6"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="12" contentMode="scaleAspectFit" image="Scheme_L_arr_short.png" id="l0t-9V-Oet" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="42" y="8" width="34" height="6"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="22" contentMode="center" image="Scheme_line_base.png" id="zWP-ZY-Izh" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="52" y="18" width="249" height="2"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView autoresizesSubviews="NO" opaque="NO" multipleTouchEnabled="YES" tag="19" contentMode="scaleAspectFit" image="Scheme_line_6x.png" id="Plh-9A-MN0" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="104" y="160" width="215" height="18"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="17" contentMode="scaleAspectFit" image="Scheme_line_2x.png" id="HVh-VO-F0y" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="190" y="229" width="75" height="11"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="16" contentMode="scaleAspectFit" image="Scheme_line_1x.png" id="mU4-x8-zAD" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="272" y="229" width="37" height="11"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="25" contentMode="scaleAspectFit" image="Scheme_R_arr_long.png" id="TKN-cK-meM" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="43" y="234" width="140" height="6"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="24" contentMode="scaleAspectFit" image="Scheme_R_arr_med.png" id="hY2-1n-rMh" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="190" y="234" width="77" height="6"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="23" contentMode="scaleAspectFit" image="Scheme_R_arr_short.png" id="i5c-GV-68l" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="274" y="234" width="35" height="6"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="18" contentMode="scaleAspectFit" image="Scheme_line_4x.png" id="qxf-rq-VE2" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="40" y="229" width="142" height="11"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="4" contentMode="scaleAspectFit" image="Scheme_bracket_6x.png" id="9rl-7a-s1r" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="104" y="134" width="215" height="25"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView autoresizesSubviews="NO" opaque="NO" multipleTouchEnabled="YES" tag="20" contentMode="scaleToFill" image="Scheme_line_7x.png" id="3dM-cS-Vwg" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="10" y="230" width="250" height="10"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView autoresizesSubviews="NO" opaque="NO" multipleTouchEnabled="YES" tag="21" contentMode="scaleToFill" image="Scheme_line_7x.png" id="mWQ-sv-sfK" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="5" y="230" width="353" height="10"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="5" contentMode="scaleAspectFit" image="Scheme_bracket_6x_DOWN.png" id="i5i-vx-hqa" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="57" y="148" width="215" height="25"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="8" contentMode="scaleAspectFit" image="Scheme_bracket_ROUND.png" id="swL-kV-5VT" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="323" y="76" width="36" height="164"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="6" contentMode="scaleAspectFit" image="Scheme_bracket_7x.png" id="ibf-wR-VtF" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="79" y="98" width="250" height="33"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="50" contentMode="scaleAspectFit" image="Scheme_bracket_7x_DOWN.png" id="Bex-EP-pKn" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="29" y="139" width="250" height="33"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <label opaque="NO" clipsSubviews="YES" tag="29" contentMode="left" text="1" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="wZu-dy-Y2c">
+                                    <rect key="frame" x="51" y="29" width="20" height="30"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="30" contentMode="left" text="2" lineBreakMode="tailTruncation" numberOfLines="30" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="gpC-Ug-0yX">
+                                    <rect key="frame" x="78" y="29" width="20" height="30"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="31" contentMode="left" text="3" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="T5V-hK-MUd">
+                                    <rect key="frame" x="108" y="29" width="20" height="30"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="3" contentMode="left" text="S" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="13f-Ja-7fY">
+                                    <rect key="frame" x="187" y="58" width="26" height="30"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="3" contentMode="left" text="(" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="xcJ-o1-12o">
+                                    <rect key="frame" x="228" y="72" width="16" height="42"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="3" contentMode="left" text=")" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Cyh-FV-Fo8">
+                                    <rect key="frame" x="246" y="72" width="16" height="42"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="3" contentMode="left" text="t" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="YV9-xS-xX4">
+                                    <rect key="frame" x="252" y="58" width="20" height="30"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="3" contentMode="left" text="1" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="10003" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="4US-dx-uiG">
+                                    <rect key="frame" x="273" y="64" width="16" height="28"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="3" contentMode="left" text="2" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="10003" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="iUE-bg-VR9">
+                                    <rect key="frame" x="292" y="64" width="16" height="28"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="3" contentMode="left" text="3" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="1113" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Zq8-QQ-Fpz">
+                                    <rect key="frame" x="312" y="64" width="16" height="28"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="3" contentMode="left" text="V" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="ZKz-Wr-DPt">
+                                    <rect key="frame" x="218" y="58" width="26" height="30"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="42" contentMode="left" text="?" lineBreakMode="tailTruncation" numberOfLines="42" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="ro9-qK-1hk">
+                                    <rect key="frame" x="157" y="58" width="20" height="30"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="41" contentMode="left" text="c" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="yGh-C7-AVV">
+                                    <rect key="frame" x="134" y="58" width="20" height="30"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="3" contentMode="left" text="X" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="pAr-0S-A1Z">
+                                    <rect key="frame" x="264" y="73" width="24" height="42"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="3" contentMode="left" text="/" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="jax-pn-WXF">
+                                    <rect key="frame" x="285" y="73" width="24" height="42"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="47" contentMode="left" text="+" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="MB2-Gg-dRO">
+                                    <rect key="frame" x="148" y="72" width="21" height="42"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="55" contentMode="left" text="=" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="gwO-9F-bV5">
+                                    <rect key="frame" x="181" y="78" width="21" height="30"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="46" contentMode="left" text="-" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Ls1-aP-tht">
+                                    <rect key="frame" x="209" y="79" width="20" height="30"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="40" contentMode="left" text="b" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="wdW-nY-GXz">
+                                    <rect key="frame" x="104" y="58" width="22" height="30"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="39" contentMode="left" text="a" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="1X2-Rm-HnX">
+                                    <rect key="frame" x="73" y="58" width="20" height="30"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="38" contentMode="left" text="0" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="HgS-15-J8O">
+                                    <rect key="frame" x="309" y="29" width="20" height="30"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="37" contentMode="left" text="9" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="zgO-bz-8zT">
+                                    <rect key="frame" x="280" y="29" width="20" height="30"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="36" contentMode="left" text="8" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="SAd-Fg-Coe">
+                                    <rect key="frame" x="252" y="29" width="20" height="30"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="35" contentMode="left" text="7" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="E1s-TU-SxY">
+                                    <rect key="frame" x="224" y="29" width="20" height="30"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="34" contentMode="left" text="6" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Oqe-29-WB4">
+                                    <rect key="frame" x="195" y="29" width="20" height="30"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="33" contentMode="left" text="5" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="xLE-lf-T1x">
+                                    <rect key="frame" x="166" y="29" width="20" height="30"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" clipsSubviews="YES" tag="32" contentMode="left" text="4" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="VIl-LR-1Bi">
+                                    <rect key="frame" x="136" y="29" width="20" height="30"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                    <color key="textColor" name="alternateSelectedControlTextColor" catalog="System" colorSpace="catalog"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="151" contentMode="scaleAspectFit" image="V-1.png" id="wqz-IR-dUK" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="49" y="16" width="34" height="31"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="152" contentMode="scaleAspectFit" image="V-2.png" id="0yX-er-z7l" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="84" y="16" width="34" height="31"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="53" contentMode="scaleAspectFit" image="d-S-1.png" id="B7N-Wr-7Hs" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="118" y="16" width="34" height="31"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="54" contentMode="scaleAspectFit" image="d-S-2.png" id="3rq-A5-ztQ" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="150" y="16" width="34" height="31"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="51" contentMode="bottom" image="s-little-1.png" id="kdd-h8-b7n" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="187" y="16" width="34" height="31"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="52" contentMode="bottom" image="s-little-2.png" id="70a-Qf-mC8" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="219" y="16" width="34" height="31"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="7" contentMode="scaleAspectFit" image="Scheme_bracket_9x.png" id="mep-YB-9rN" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="5" y="205" width="353" height="35"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="58" contentMode="scaleAspectFit" image=" Scheme_bracket_9_DOWNx.png" id="reJ-Wu-qws" customClass="EncodableUIImageView">
+                                    <rect key="frame" x="5" y="205" width="353" height="35"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <connections>
+                                <outletCollection property="tools" destination="1Dc-01-2Zg" collectionClass="NSMutableArray" id="qvm-sv-USa"/>
+                                <outletCollection property="tools" destination="w5p-PB-TAb" collectionClass="NSMutableArray" id="Mqx-kz-fkc"/>
+                                <outletCollection property="tools" destination="HVh-VO-F0y" collectionClass="NSMutableArray" id="GDf-yX-Ahx"/>
+                                <outletCollection property="tools" destination="mU4-x8-zAD" collectionClass="NSMutableArray" id="8Vw-Cc-8Q5"/>
+                                <outletCollection property="tools" destination="TKN-cK-meM" collectionClass="NSMutableArray" id="z3n-kt-zB7"/>
+                                <outletCollection property="tools" destination="hY2-1n-rMh" collectionClass="NSMutableArray" id="MTa-PU-Wvw"/>
+                                <outletCollection property="tools" destination="i5c-GV-68l" collectionClass="NSMutableArray" id="oX1-Ox-9bD"/>
+                                <outletCollection property="tools" destination="l0t-9V-Oet" collectionClass="NSMutableArray" id="mTL-qJ-R4t"/>
+                                <outletCollection property="tools" destination="pgt-3R-xAf" collectionClass="NSMutableArray" id="n4d-lu-D6h"/>
+                                <outletCollection property="tools" destination="MlZ-bA-E5s" collectionClass="NSMutableArray" id="IwY-kH-MuM"/>
+                                <outletCollection property="tools" destination="zWP-ZY-Izh" collectionClass="NSMutableArray" id="VvX-vM-pBE"/>
+                                <outletCollection property="tools" destination="LS5-eO-LZi" collectionClass="NSMutableArray" id="igW-gf-Z2H"/>
+                                <outletCollection property="tools" destination="oge-X5-djO" collectionClass="NSMutableArray" id="Uds-rn-5Sl"/>
+                                <outletCollection property="tools" destination="mgC-Zz-IVO" collectionClass="NSMutableArray" id="Uwu-AK-LRf"/>
+                                <outletCollection property="tools" destination="hMQ-hd-8qn" collectionClass="NSMutableArray" id="KGd-u9-jmi"/>
+                                <outletCollection property="tools" destination="wZu-dy-Y2c" collectionClass="NSMutableArray" id="jnb-ui-vzn"/>
+                                <outletCollection property="tools" destination="Plh-9A-MN0" collectionClass="NSMutableArray" id="s57-Aa-QRe"/>
+                                <outletCollection property="tools" destination="gpC-Ug-0yX" collectionClass="NSMutableArray" id="tFP-Yw-iHb"/>
+                                <outletCollection property="tools" destination="T5V-hK-MUd" collectionClass="NSMutableArray" id="rjD-xe-xF0"/>
+                                <outletCollection property="tools" destination="13f-Ja-7fY" collectionClass="NSMutableArray" id="9S9-WB-tk9"/>
+                                <outletCollection property="tools" destination="VIl-LR-1Bi" collectionClass="NSMutableArray" id="tlG-BM-sXx"/>
+                                <outletCollection property="tools" destination="xLE-lf-T1x" collectionClass="NSMutableArray" id="RZK-c8-8NB"/>
+                                <outletCollection property="tools" destination="Oqe-29-WB4" collectionClass="NSMutableArray" id="EFY-JU-xbf"/>
+                                <outletCollection property="tools" destination="E1s-TU-SxY" collectionClass="NSMutableArray" id="nGh-u0-iIp"/>
+                                <outletCollection property="tools" destination="SAd-Fg-Coe" collectionClass="NSMutableArray" id="uT8-wo-42J"/>
+                                <outletCollection property="tools" destination="zgO-bz-8zT" collectionClass="NSMutableArray" id="oVO-iG-rTb"/>
+                                <outletCollection property="tools" destination="HgS-15-J8O" collectionClass="NSMutableArray" id="jgt-V3-R6q"/>
+                                <outletCollection property="tools" destination="1X2-Rm-HnX" collectionClass="NSMutableArray" id="ZXp-Gd-pfE"/>
+                                <outletCollection property="tools" destination="wdW-nY-GXz" collectionClass="NSMutableArray" id="os7-mP-U7G"/>
+                                <outletCollection property="tools" destination="Ls1-aP-tht" collectionClass="NSMutableArray" id="vRa-li-c0s"/>
+                                <outletCollection property="tools" destination="gwO-9F-bV5" collectionClass="NSMutableArray" id="65A-xN-Ebh"/>
+                                <outletCollection property="tools" destination="MB2-Gg-dRO" collectionClass="NSMutableArray" id="qYh-E7-874"/>
+                                <outletCollection property="tools" destination="jax-pn-WXF" collectionClass="NSMutableArray" id="k4G-N1-7XX"/>
+                                <outletCollection property="tools" destination="pAr-0S-A1Z" collectionClass="NSMutableArray" id="HHP-P9-WkK"/>
+                                <outletCollection property="tools" destination="yGh-C7-AVV" collectionClass="NSMutableArray" id="9Da-9C-gbf"/>
+                                <outletCollection property="tools" destination="ro9-qK-1hk" collectionClass="NSMutableArray" id="zno-cs-D4X"/>
+                                <outletCollection property="tools" destination="ZKz-Wr-DPt" collectionClass="NSMutableArray" id="9tT-K1-cVx"/>
+                                <outletCollection property="tools" destination="Zq8-QQ-Fpz" collectionClass="NSMutableArray" id="MOo-cW-85B"/>
+                                <outletCollection property="tools" destination="iUE-bg-VR9" collectionClass="NSMutableArray" id="d78-tF-1xN"/>
+                                <outletCollection property="tools" destination="4US-dx-uiG" collectionClass="NSMutableArray" id="0bi-hp-P0J"/>
+                                <outletCollection property="tools" destination="YV9-xS-xX4" collectionClass="NSMutableArray" id="R14-XE-Lsh"/>
+                                <outletCollection property="tools" destination="Cyh-FV-Fo8" collectionClass="NSMutableArray" id="Wbz-0R-Otw"/>
+                                <outletCollection property="tools" destination="xcJ-o1-12o" collectionClass="NSMutableArray" id="E1j-Lu-TWi"/>
+                                <outletCollection property="tools" destination="9rl-7a-s1r" collectionClass="NSMutableArray" id="JyL-jB-5q7"/>
+                                <outletCollection property="tools" destination="qxf-rq-VE2" collectionClass="NSMutableArray" id="SxL-Sh-UIg"/>
+                                <outletCollection property="tools" destination="2f5-Ar-iku" collectionClass="NSMutableArray" id="X17-zV-O3W"/>
+                                <outletCollection property="tools" destination="i5i-vx-hqa" collectionClass="NSMutableArray" id="Ar0-vW-oKq"/>
+                                <outletCollection property="tools" destination="swL-kV-5VT" collectionClass="NSMutableArray" id="onG-yc-0ey"/>
+                                <outletCollection property="tools" destination="s0H-jd-yzS" collectionClass="NSMutableArray" id="icW-FI-lvC"/>
+                                <outletCollection property="tools" destination="swy-aE-UJb" collectionClass="NSMutableArray" id="TEh-3l-uOL"/>
+                                <outletCollection property="tools" destination="ibf-wR-VtF" collectionClass="NSMutableArray" id="zMg-4V-5Kl"/>
+                                <outletCollection property="tools" destination="Bex-EP-pKn" collectionClass="NSMutableArray" id="8Jn-yT-rEc"/>
+                                <outletCollection property="tools" destination="wqz-IR-dUK" collectionClass="NSMutableArray" id="bNR-j5-3Sy"/>
+                                <outletCollection property="tools" destination="0yX-er-z7l" collectionClass="NSMutableArray" id="d1S-lu-09O"/>
+                                <outletCollection property="tools" destination="B7N-Wr-7Hs" collectionClass="NSMutableArray" id="DTa-jJ-TuY"/>
+                                <outletCollection property="tools" destination="3rq-A5-ztQ" collectionClass="NSMutableArray" id="MrK-Fb-tS2"/>
+                                <outletCollection property="tools" destination="kdd-h8-b7n" collectionClass="NSMutableArray" id="wNd-ce-2ZD"/>
+                                <outletCollection property="tools" destination="70a-Qf-mC8" collectionClass="NSMutableArray" id="Kok-OZ-WQB"/>
+                                <outletCollection property="tools" destination="zKH-gS-eSc" collectionClass="NSMutableArray" id="jkr-xr-ss4"/>
+                                <outletCollection property="tools" destination="Ut0-Lb-hJe" collectionClass="NSMutableArray" id="Hsl-nM-Qbt"/>
+                                <outletCollection property="tools" destination="mep-YB-9rN" collectionClass="NSMutableArray" id="WEI-fC-Mxq"/>
+                                <outletCollection property="tools" destination="reJ-Wu-qws" collectionClass="NSMutableArray" id="9kF-68-dRQ"/>
+                                <outletCollection property="tools" destination="3dM-cS-Vwg" collectionClass="NSMutableArray" id="fgv-MG-qY6"/>
+                                <outletCollection property="tools" destination="mWQ-sv-sfK" collectionClass="NSMutableArray" id="eW8-JZ-ZXK"/>
+                            </connections>
+                        </view>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="qPw-2p-E7b">
+                            <rect key="frame" x="557" y="20" width="53" height="53"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <state key="normal" backgroundImage="Button-Help_v2.png">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="onTapHelp:" destination="-1" eventType="touchUpInside" id="LFB-TX-cpV"/>
+                            </connections>
+                        </button>
+                        <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="6qP-3O-vKG">
+                            <rect key="frame" x="636" y="14" width="53" height="62"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <state key="normal" backgroundImage="Button-Mistake_v2.png">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="onError:" destination="-1" eventType="touchUpInside" id="3Hg-3s-FUi"/>
+                            </connections>
+                        </button>
+                        <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="Rax-mu-1WU">
+                            <rect key="frame" x="585" y="230" width="50" height="50"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <state key="normal" backgroundImage="Button-Play_v2.png">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="onPlayAnimations:" destination="-1" eventType="touchUpInside" id="J5V-Nr-nPM"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="pPh-mw-Ca6">
+                            <rect key="frame" x="775" y="245" width="40" height="40"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <state key="normal" backgroundImage="Button-Switch_to_Problem_v2.png">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="onTaskNumberTools:" destination="-1" eventType="touchUpInside" id="HzG-aq-pNx"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="bls-b8-tid">
+                            <rect key="frame" x="845" y="245" width="40" height="40"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <state key="normal" backgroundImage="Button-Switch_to_diagram_v2.png">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="onTapSchemeTools:" destination="-1" eventType="touchUpInside" id="sKK-Uh-IRP"/>
+                            </connections>
+                        </button>
+                        <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Mark-Mistake_v2.png" id="9Xq-OO-xNb">
+                            <rect key="frame" x="407" y="29" width="9" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Mark-Mistake_v2.png" id="IjJ-b1-vNi">
+                            <rect key="frame" x="407" y="54" width="9" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Mark-Done_v2.png" id="RIN-93-Z4v">
+                            <rect key="frame" x="420" y="24" width="26" height="26"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Mark-Done_v2.png" id="cau-5P-zhO">
+                            <rect key="frame" x="448" y="24" width="26" height="26"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Mark-Done_v2.png" id="tQc-Zy-lae">
+                            <rect key="frame" x="420" y="49" width="26" height="26"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Mark-Done_v2.png" id="QNi-ij-yOV">
+                            <rect key="frame" x="448" y="49" width="26" height="26"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="VG6-K5-7jz">
+                            <rect key="frame" x="29" y="20" width="227" height="83"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                            <state key="normal">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="onConcretLevel:" destination="-1" eventType="touchUpInside" id="tV0-uG-AMm"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" red="0.21176470588235294" green="0.69803921568627447" blue="0.31764705882352939" alpha="1" colorSpace="calibratedRGB"/>
+                </view>
+                <view contentMode="scaleToFill" id="PL6-Ao-NlY">
+                    <rect key="frame" x="629" y="295" width="395" height="473"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" id="L8g-0A-E76">
+                            <rect key="frame" x="0.0" y="0.0" width="395" height="473"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" red="0.99607843137254903" green="0.80000000000000004" blue="0.19607843137254902" alpha="1" colorSpace="calibratedRGB"/>
+                </view>
+                <view contentMode="scaleToFill" id="qoh-fZ-itc">
+                    <rect key="frame" x="0.0" y="295" width="629" height="473"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="3zo-ig-38U">
+                            <rect key="frame" x="532" y="405" width="55" height="55"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
+                            <state key="normal" backgroundImage="Button-Done_v2.png">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="onDone:" destination="-1" eventType="touchUpInside" id="Kjb-Ef-kNx"/>
+                            </connections>
+                        </button>
+                        <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="stU-91-np4">
+                            <rect key="frame" x="503" y="412" width="106" height="42"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="39"/>
+                            <state key="normal" title="edit">
+                                <color key="titleColor" red="0.99607843139999996" green="0.80000000000000004" blue="0.1960784314" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="onEdit:" destination="-1" eventType="touchUpInside" id="tyZ-JG-odA"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="FW3-Nj-mXe">
+                            <rect key="frame" x="440" y="405" width="55" height="55"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
+                            <state key="normal" backgroundImage="Button-Save&amp;Exit_v2.png">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="onSaveAndExit:" destination="-1" eventType="touchUpInside" id="U1n-Aq-g4g"/>
+                            </connections>
+                        </button>
+                        <view contentMode="scaleToFill" id="KPB-po-xE2">
+                            <rect key="frame" x="0.0" y="0.0" width="629" height="397"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" red="0.14509803921568626" green="0.68627450980392157" blue="0.87450980392156863" alpha="1" colorSpace="calibratedRGB"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <simulatedStatusBarMetrics key="simulatedStatusBarMetrics"/>
+            <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
+        </view>
+    </objects>
+    <resources>
+        <image name=" Scheme_bracket_9_DOWNx.png" width="321" height="32"/>
+        <image name="Button-Done_v2.png" width="56" height="55"/>
+        <image name="Button-Help_v2.png" width="53" height="53"/>
+        <image name="Button-Mistake_v2.png" width="53" height="62"/>
+        <image name="Button-Play_v2.png" width="45" height="50"/>
+        <image name="Button-Save&amp;Exit_v2.png" width="51" height="51"/>
+        <image name="Button-Switch_to_Problem_v2.png" width="37" height="36"/>
+        <image name="Button-Switch_to_diagram_v2.png" width="37" height="36"/>
+        <image name="Mark-Done_v2.png" width="24" height="24"/>
+        <image name="Mark-Mistake_v2.png" width="7" height="21"/>
+        <image name="Scheme_L_arr_long.png" width="139" height="5"/>
+        <image name="Scheme_L_arr_med.png" width="68" height="5"/>
+        <image name="Scheme_L_arr_short.png" width="33" height="5"/>
+        <image name="Scheme_R_arr_long.png" width="139" height="5"/>
+        <image name="Scheme_R_arr_med.png" width="68" height="5"/>
+        <image name="Scheme_R_arr_short.png" width="33" height="5"/>
+        <image name="Scheme_bracket_1x.png" width="38" height="10"/>
+        <image name="Scheme_bracket_1x_DOWN.png" width="38" height="10"/>
+        <image name="Scheme_bracket_2x.png" width="73" height="15"/>
+        <image name="Scheme_bracket_2x_DOWN.png" width="73" height="15"/>
+        <image name="Scheme_bracket_3x.png" width="108" height="25"/>
+        <image name="Scheme_bracket_3x_DOWN.png" width="108" height="25"/>
+        <image name="Scheme_bracket_4x.png" width="144" height="25"/>
+        <image name="Scheme_bracket_4x_DOWN.png" width="144" height="25"/>
+        <image name="Scheme_bracket_6x.png" width="215" height="25"/>
+        <image name="Scheme_bracket_6x_DOWN.png" width="215" height="25"/>
+        <image name="Scheme_bracket_7x.png" width="250" height="32"/>
+        <image name="Scheme_bracket_7x_DOWN.png" width="250" height="32"/>
+        <image name="Scheme_bracket_9x.png" width="321" height="32"/>
+        <image name="Scheme_bracket_ROUND.png" width="26" height="126"/>
+        <image name="Scheme_dash.png" width="19" height="2"/>
+        <image name="Scheme_dash_line.png" width="1" height="36"/>
+        <image name="Scheme_flag.png" width="21" height="32"/>
+        <image name="Scheme_line_1x.png" width="37" height="10"/>
+        <image name="Scheme_line_2x.png" width="73" height="10"/>
+        <image name="Scheme_line_4x.png" width="144" height="10"/>
+        <image name="Scheme_line_6x.png" width="215" height="10"/>
+        <image name="Scheme_line_7x.png" width="250" height="10"/>
+        <image name="Scheme_line_base.png" width="248" height="2"/>
+        <image name="V-1.png" width="40" height="50"/>
+        <image name="V-2.png" width="42" height="50"/>
+        <image name="d-S-1.png" width="45" height="56"/>
+        <image name="d-S-2.png" width="47" height="56"/>
+        <image name="exercises_page_button_level_problem.png" width="467" height="178"/>
+        <image name="s-little-1.png" width="18" height="22"/>
+        <image name="s-little-2.png" width="18" height="22"/>
+    </resources>
+</document>

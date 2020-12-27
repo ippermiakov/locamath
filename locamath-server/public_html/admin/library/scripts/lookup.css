@@ -1,0 +1,23 @@
+.lookup_values_combo {
+  position: absolute;
+}
+
+.lookup_complete_embedded {
+  color: #000000;
+  width: 100%;
+}
+
+.lookup_incomplete_embedded {
+  color: #888888;
+  width: 100%;
+}
+
+.lookup_complete {
+  color: #000000;
+  width: 220px;
+}
+
+.lookup_incomplete {
+  color: #888888;
+  width: 220px;
+}

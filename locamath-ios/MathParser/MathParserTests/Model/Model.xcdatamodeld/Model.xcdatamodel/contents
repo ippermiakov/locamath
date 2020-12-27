@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="2061" systemVersion="11G63" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="AccountFB" representedClassName="AccountFB" syncable="YES">
+        <attribute name="identifier" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="mail" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="child" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Child" inverseName="postFBAccount" inverseEntity="Child" syncable="YES"/>
+    </entity>
+    <entity name="AccountMail" representedClassName="AccountMail" syncable="YES">
+        <attribute name="identifier" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="child" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Child" inverseName="sendStatisticsAccounts" inverseEntity="Child" syncable="YES"/>
+    </entity>
+    <entity name="Action" representedClassName="Action" syncable="YES">
+        <attribute name="answer" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="errorNumber" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="etalon" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="identifier" value="identifierString"/>
+                <entry key="mappedKeyName" value="identifierString"/>
+            </userInfo>
+        </attribute>
+        <attribute name="isCorrect" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="string" optional="YES" attributeType="String" defaultValueString="&lt;empty>" syncable="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="stringRepresentation"/>
+                <entry key="string" value="stringRepresentation"/>
+            </userInfo>
+        </attribute>
+        <attribute name="typeNumber" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="parentAction" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Action" inverseName="subActions" inverseEntity="Action" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+        <relationship name="subActions" optional="YES" toMany="YES" deletionRule="Cascade" ordered="YES" destinationEntity="Action" inverseName="parentAction" inverseEntity="Action" syncable="YES"/>
+        <relationship name="task" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Task" inverseName="actions" inverseEntity="Task" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+        <userInfo>
+            <entry key="shouldSkip" value="1"/>
+        </userInfo>
+    </entity>
+    <entity name="Child" representedClassName="Child" syncable="YES">
+        <attribute name="avatar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="country" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dataLoadedForLanguage" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="genderNumber" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES">
+            <userInfo>
+                <entry key="genderNumber" value="gender"/>
+                <entry key="mappedKeyName" value="gender"/>
+            </userInfo>
+        </attribute>
+        <attribute name="identifier" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="id"/>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="isCurrent" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="isLocationPopupShown" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="isMusicEnabled" optional="YES" attributeType="Boolean" defaultValueString="YES" syncable="YES">
+            <userInfo>
+                <entry key="isMusicEnabled" value="isMusicOn"/>
+                <entry key="mappedKeyName" value="isMusicOn"/>
+            </userInfo>
+        </attribute>
+        <attribute name="isSoundEnabled" optional="YES" attributeType="Boolean" defaultValueString="YES" syncable="YES">
+            <userInfo>
+                <entry key="isSoundEnabled" value="isSoundsOn"/>
+                <entry key="mappedKeyName" value="isSoundsOn"/>
+            </userInfo>
+        </attribute>
+        <attribute name="isSyncNeeded" optional="YES" attributeType="Boolean" defaultValueString="YES" syncable="YES"/>
+        <attribute name="isTrainingComplete" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="lastLevelsSyncTimeInterval" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="lastOlympiadLevelsSyncTimeInterval" optional="YES" attributeType="Double" syncable="YES"/>
+        <attribute name="modificationJSONTimeInterval" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="points" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="postTypes" optional="YES" attributeType="Integer 16" defaultValueString="15" syncable="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="PostStatisticsType"/>
+                <entry key="postTypes" value="PostStatisticsType"/>
+            </userInfo>
+        </attribute>
+        <attribute name="previousModificationJSONTimeInterval" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="sendTypeNumber" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="SendStatisticsType"/>
+                <entry key="sendTypes" value="SendStatisticsType"/>
+            </userInfo>
+        </attribute>
+        <attribute name="sendTypes" optional="YES" attributeType="Integer 16" defaultValueString="15" syncable="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="SendStatisticsType"/>
+                <entry key="sendTypes" value="SendStatisticsType"/>
+            </userInfo>
+        </attribute>
+        <relationship name="game" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Game" inverseName="child" inverseEntity="Game" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+        <relationship name="helpPages" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="HelpPage" inverseName="child" inverseEntity="HelpPage" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+        <relationship name="levels" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Level" inverseName="child" inverseEntity="Level" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+        <relationship name="levelsPaths" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="LevelsPath" inverseName="child" inverseEntity="LevelsPath" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+        <relationship name="olympiadLevels" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="OlympiadLevel" inverseName="child" inverseEntity="OlympiadLevel" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+        <relationship name="olympiadTasks" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="OlympiadTask" inverseName="child" inverseEntity="OlympiadTask" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+        <relationship name="parent" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Parent" inverseName="childs" inverseEntity="Parent" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+        <relationship name="postFBAccount" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="AccountFB" inverseName="child" inverseEntity="AccountFB" syncable="YES"/>
+        <relationship name="schemes" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Scheme" inverseName="child" inverseEntity="Scheme" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+        <relationship name="sendStatisticsAccounts" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="AccountMail" inverseName="child" inverseEntity="AccountMail" syncable="YES"/>
+        <relationship name="tasks" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Task" inverseName="child" inverseEntity="Task" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+    </entity>
+    <entity name="Game" representedClassName="Game" syncable="YES">
+        <attribute name="earnedScore" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="findExpressionCount" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="findSolutionsCount" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="hasProgress" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="maxEasyTaskID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="maxHardTaskID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="secondsAverageSpeed" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="secondsTimeInApp" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="solvedTasksCount" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <relationship name="child" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Child" inverseName="game" inverseEntity="Child" syncable="YES"/>
+        <relationship name="openedLevel" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Level" inverseName="game" inverseEntity="Level" syncable="YES"/>
+    </entity>
+    <entity name="HelpPage" representedClassName="HelpPage" syncable="YES">
+        <attribute name="animation" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="boardText" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="boyPhrase" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="exampleImages" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="girlPhrase" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pageNum" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="pageType" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="child" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Child" inverseName="helpPages" inverseEntity="Child" syncable="YES"/>
+    </entity>
+    <entity name="Level" representedClassName="Level" syncable="YES">
+        <attribute name="countSolvedTasks" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="countStartedTasks" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="currentScore" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="identifier" value="identifierString"/>
+                <entry key="mappedKeyName" value="identifierString"/>
+            </userInfo>
+        </attribute>
+        <attribute name="image" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="isAllTasksSolved" optional="YES" attributeType="Integer 16" defaultValueString="NO" syncable="YES"/>
+        <attribute name="isSelected" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="isTest" optional="YES" attributeType="Boolean" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="lastChangeDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="levelScore" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="pointX" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="pointY" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <relationship name="child" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Child" inverseName="levels" inverseEntity="Child" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+        <relationship name="game" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Game" inverseName="openedLevel" inverseEntity="Game" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+        <relationship name="path" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="LevelsPath" inverseName="levels" inverseEntity="LevelsPath" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+        <relationship name="tasks" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Task" inverseName="level" inverseEntity="Task" syncable="YES"/>
+    </entity>
+    <entity name="LevelsPath" representedClassName="LevelsPath" syncable="YES">
+        <attribute name="color" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="identifier" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES">
+            <userInfo>
+                <entry key="identifier" value="identifierNumber"/>
+                <entry key="mappedKeyName" value="identifierNumber"/>
+            </userInfo>
+        </attribute>
+        <attribute name="isAllLevelsSolved" optional="YES" attributeType="Integer 16" defaultValueString="NO" syncable="YES"/>
+        <attribute name="lastChangeDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="levelNumber" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="olympiadLocalText" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="transitionErrors" optional="YES" attributeType="Transformable" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <relationship name="child" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Child" inverseName="levelsPaths" inverseEntity="Child" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+        <relationship name="levels" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Level" inverseName="path" inverseEntity="Level" syncable="YES"/>
+    </entity>
+    <entity name="OlympiadAction" representedClassName="OlympiadAction" syncable="YES">
+        <attribute name="answers" optional="YES" attributeType="Transformable" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="identifier" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES">
+            <userInfo>
+                <entry key="identifier" value="identifierNumber"/>
+                <entry key="mappedKeyName" value="identifierNumber"/>
+            </userInfo>
+        </attribute>
+        <attribute name="isCorrect" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="numOfToolsToFill" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <relationship name="hints" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="OlympiadHint" inverseName="action" inverseEntity="OlympiadHint" syncable="YES"/>
+        <relationship name="task" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="OlympiadTask" inverseName="actions" inverseEntity="OlympiadTask" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+    </entity>
+    <entity name="OlympiadHint" representedClassName="OlympiadHint" syncable="YES">
+        <attribute name="baseUserInput" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="baseUserInput" value="userInput"/>
+            </userInfo>
+        </attribute>
+        <attribute name="hasUserInput" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="hintString" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="identifier" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES">
+            <userInfo>
+                <entry key="identifier" value="identifierNumber"/>
+                <entry key="mappedKeyName" value="identifierNumber"/>
+            </userInfo>
+        </attribute>
+        <attribute name="userInput" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <relationship name="action" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="OlympiadAction" inverseName="hints" inverseEntity="OlympiadAction" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+    </entity>
+    <entity name="OlympiadLevel" representedClassName="OlympiadLevel" syncable="YES">
+        <attribute name="identifier" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="identifier" value="identifierString"/>
+                <entry key="mappedKeyName" value="identifierString"/>
+            </userInfo>
+        </attribute>
+        <attribute name="image" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="isAllTasksSolved" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="lastChangeDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <relationship name="child" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Child" inverseName="olympiadLevels" inverseEntity="Child" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+        <relationship name="tasks" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="OlympiadTask" inverseName="level" inverseEntity="OlympiadTask" syncable="YES"/>
+    </entity>
+    <entity name="OlympiadTask" representedClassName="OlympiadTask" syncable="YES">
+        <attribute name="alignmentTypeNumber" optional="YES" attributeType="Integer 16" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="baseTools" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="currentScore" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES">
+            <userInfo>
+                <entry key="identifier" value="identifierNumber"/>
+                <entry key="mappedKeyName" value="identifierNumber"/>
+            </userInfo>
+        </attribute>
+        <attribute name="isAnyAnswerApplicable" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="lastChangeDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="numberTask" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="objective" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="points" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="solutionHint" optional="YES" attributeType="Transformable" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="statusNumber" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="tools" optional="YES" attributeType="Transformable" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="tryCounter" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <relationship name="actions" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="OlympiadAction" inverseName="task" inverseEntity="OlympiadAction" syncable="YES"/>
+        <relationship name="child" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Child" inverseName="olympiadTasks" inverseEntity="Child" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+        <relationship name="level" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="OlympiadLevel" inverseName="tasks" inverseEntity="OlympiadLevel" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+    </entity>
+    <entity name="Parent" representedClassName="Parent" syncable="YES">
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fbID" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="password" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="childs" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Child" inverseName="parent" inverseEntity="Child" syncable="YES"/>
+    </entity>
+    <entity name="Scheme" representedClassName="Scheme" syncable="YES">
+        <attribute name="identifier" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="child" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Child" inverseName="schemes" inverseEntity="Child" syncable="YES"/>
+        <relationship name="elements" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="SchemeElement" inverseName="scheme" inverseEntity="SchemeElement" syncable="YES"/>
+    </entity>
+    <entity name="SchemeElement" representedClassName="SchemeElement" syncable="YES">
+        <attribute name="identifier" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="isFilled" optional="YES" attributeType="Boolean" defaultValueString="0" syncable="YES"/>
+        <attribute name="position_x" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="position_y" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="typeNumber" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="scheme" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Scheme" inverseName="elements" inverseEntity="Scheme" syncable="YES"/>
+    </entity>
+    <entity name="Task" representedClassName="Task" syncable="YES">
+        <attribute name="animation" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="answer" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="countSolvedActions" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="currentScore" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="expressions" optional="YES" attributeType="Transformable" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="formula" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="hint" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="identifier" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="identifier" value="identifierString"/>
+                <entry key="mappedKeyName" value="identifierString"/>
+            </userInfo>
+        </attribute>
+        <attribute name="isAnimationSelected" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="isHelpSelected" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="isPencilSelected" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="isSchemeSelected" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="lastChangeDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="letters" optional="YES" attributeType="Transformable" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="literal" optional="YES" attributeType="Boolean" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="numberTask" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="objective" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="score" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="secondsPerTask" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="solutions" optional="YES" attributeType="String" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <attribute name="statusNumber" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="taskType" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </attribute>
+        <relationship name="actions" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Action" inverseName="task" inverseEntity="Action" syncable="YES"/>
+        <relationship name="child" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Child" inverseName="tasks" inverseEntity="Child" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+        <relationship name="level" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Level" inverseName="tasks" inverseEntity="Level" syncable="YES">
+            <userInfo>
+                <entry key="shouldSkip" value="1"/>
+            </userInfo>
+        </relationship>
+    </entity>
+    <elements>
+        <element name="AccountFB" positionX="0" positionY="0" width="128" height="88"/>
+        <element name="AccountMail" positionX="0" positionY="0" width="128" height="88"/>
+        <element name="Action" positionX="0" positionY="0" width="128" height="195"/>
+        <element name="Child" positionX="0" positionY="0" width="128" height="525"/>
+        <element name="Game" positionX="0" positionY="0" width="128" height="225"/>
+        <element name="HelpPage" positionX="0" positionY="0" width="128" height="180"/>
+        <element name="Level" positionX="0" positionY="0" width="128" height="300"/>
+        <element name="LevelsPath" positionX="0" positionY="0" width="128" height="195"/>
+        <element name="OlympiadAction" positionX="0" positionY="0" width="128" height="135"/>
+        <element name="OlympiadHint" positionX="0" positionY="0" width="128" height="135"/>
+        <element name="OlympiadLevel" positionX="0" positionY="0" width="128" height="150"/>
+        <element name="OlympiadTask" positionX="0" positionY="0" width="128" height="285"/>
+        <element name="Parent" positionX="0" positionY="0" width="128" height="120"/>
+        <element name="Scheme" positionX="0" positionY="0" width="128" height="90"/>
+        <element name="SchemeElement" positionX="0" positionY="0" width="128" height="135"/>
+        <element name="Task" positionX="0" positionY="0" width="128" height="420"/>
+    </elements>
+</model>

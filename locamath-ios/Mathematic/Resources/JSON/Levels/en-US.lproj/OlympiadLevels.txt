@@ -1,0 +1,54 @@
+{
+    "levels": {
+        "9-0-1-1": {
+            "Name": "Olympiad Level 1",
+            "Image": "Cup_1_lev-1_st@2x.png"
+        },
+        "9-0-1-2": {
+            "Name": "Olympiad Level 2",
+            "Image": "Cup_1_lev-2_st@2x.png"
+        },
+        "9-0-1-3": {
+            "Name": "Olympiad Level 3",
+            "Image": "Cup_1_lev-3_st@2x.png"
+        },
+        
+        "9-0-2-1": {
+            "Name": "Olympiad Level 1",
+            "Image": "Cup_2_lev-1_st@2x.png"
+        },
+        "9-0-2-2": {
+            "Name": "Olympiad Level 2",
+            "Image": "Cup_2_lev-2_st@2x.png"
+        },
+        "9-0-2-3": {
+            "Name": "Olympiad Level 3",
+            "Image": "Cup_2_lev-3_st@2x.png"
+        },
+        
+        "9-0-3-1": {
+            "Name": "Olympiad Level 1",
+            "Image": "Cup_3_lev-1_st@2x.png"
+        },
+        "9-0-3-2": {
+            "Name": "Olympiad Level 2",
+            "Image": "Cup_3_lev-2_st@2x.png"
+        },
+        "9-0-3-3": {
+            "Name": "Olympiad Level 3",
+            "Image": "Cup_3_lev-3_st@2x.png"
+        },
+        "9-0-4-1": {
+            "Name": "Olympiad Level 1",
+            "Image": "Cup_4_lev-1_st@2x.png"
+        },
+        "9-0-4-2": {
+            "Name": "Olympiad Level 2",
+            "Image": "Cup_4_lev-2_st@2x.png"
+        },
+        "9-0-4-3": {
+            "Name": "Olympiad Level 3",
+            "Image": "Cup_4_lev-3_st@2x.png"
+        }
+    }
+}

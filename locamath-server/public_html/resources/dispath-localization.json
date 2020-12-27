@@ -1,0 +1,25 @@
+{
+  "en": {
+    "task" : "task",
+    "training_task" : "training"
+  },
+  "en-US": {
+    "task" : "task",
+    "training_task" : "training"
+  },
+  "ru": {
+    "task" : "задача",
+    "training_task" : "обучающая"
+  },
+  "es": {
+    "task" : "problema",
+    "training_task" : "entrenamiento"
+  },
+  "de": {
+    "task" : "aufgabe",
+    "training_task" : "training"
+  },
+  "ar": {
+    "training_task" : "تدريب"
+  }
+}

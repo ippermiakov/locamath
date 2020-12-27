@@ -1,0 +1,33 @@
+.kiketable-colsizable {}
+.kiketable-colsizable td,
+.kiketable-colsizable th {}
+.kiketable-th {}
+.kiketable-th-text{
+	height: 100%;
+	overflow: hidden;
+	}
+.kiketable-colsizable-handler{
+	float: right;
+	cursor: e-resize;
+	height: 20px;
+	border-left:2px outset white;
+	border-right:2px inset white;
+	}
+html > body .kiketable-colsizable-handler{
+	border-right:1px outset white;
+	}
+.kiketable-colsizable-dragLine{
+	position: absolute;
+	width: 2px;
+	cursor: e-resize;
+	background-color: red;	/* value safe to change */
+	}
+.kiketable-colsizable-dragArea{
+	position: absolute;
+	cursor: e-resize;
+	background-color:red;	/* value safe to change */
+	}
+.kiketable-colsizable-minimized{
+	background-color: #ffd; /* value safe to change */
+	color: #bbb;			/* value safe to change */
+}

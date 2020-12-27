@@ -1,0 +1,108 @@
+{
+        "1-E-1": [
+            {
+                "pageType": "static",
+                "girlPhrase": "¡Hola! ¡Te ayudaremos con la solución de los problemas!",
+                "boyPhrase": "¡En esta sección están los problemas de alejamiento de dos objetos!",
+                "board": "Los problemas de alejamiento de dos objetos",
+                "exampleImages": [
+                    "scheme_1-E-1-Ex1.png",
+                    "scheme_1-E-1-Ex2.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "El primer liebre a una velocidad de 3 km/h, resulta que recorre 3 km en una hora, el segundo tiene la velocidad de 2 km/h!",
+                "boyPhrase": "Si adicionamos las distancias que recorren en una hora, cuánto se alejan uno de otro en una hora: 3+2. ¡Tienes que calcular la solución tú mismo!",
+                "board": "ejemplo 1",
+                "animation": "1_e1_11_N.swf"
+            }
+        ],
+        "1-E-2": [
+            {
+                "pageType": "static",
+                "girlPhrase": "¡Hola! ¡Continuamos con los problemas de alejamiento de dos objetos!",
+                "boyPhrase": "¡En esta sección hemos complicado los problemas!",
+                "board": "Los problemas de alejamiento de dos objetos",
+                "exampleImages": [
+                    "scheme_1-E-2-Ex1.png",
+                    "scheme_1-E-2-Ex2_ESP.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Sabemos que el primer zorro ha recorrido 4 km en una hora y el segundo zorro ha recorrido 2 km más que el primero en una hora. Calcularemos qué distancia ha recorrido el segundo en una hora: 4+2.",
+                "boyPhrase": "Para calcular la distancia de su alejamiento en una hora hay que adicionar las distancias que han recorrido: 4+(4+2). ¡Tienes que calcular la solución tú mismo!",
+                "board": "ejemplo 1",
+                "exampleImages": [
+                    "scheme_1-E-2-Ex1_INT.png"
+                ]
+            }
+        ],
+        "1-E-3": [
+            {
+                "pageType": "static",
+                "girlPhrase": "¡Hola! ¡En esta sección hemos complicado los problemas más!",
+                "boyPhrase": "¡Lee atentamente, en la condición puede estar un mala pasada!",
+                "board": "Los problemas de alejamiento de dos objetos",
+                "exampleImages": [
+                    "scheme_1-E-3-Ex1_ESP.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "Sabemos que Carlos ha recorrido 4 km y la distancia entre los chicos es de 7 km.",
+                "boyPhrase": "Para calcular cuánto ha recorrido Paco hay que restar de toda la distancia la  que ha recorrido Carlos: 7-4. ¡Tienes que calcular la solución tú mismo!",
+                "board": "ejemplo 1",
+                "animation": "1_e3_11_N.swf"
+            }
+        ],
+        "1-E-4": [
+            {
+                "pageType": "static",
+                "girlPhrase": "¡Hola! ¡Vences perfectamente! ¡Los problemas hacen más complicados!",
+                "boyPhrase": "Primeramente tienes que calcular la distancia en algunas partes de la distancia antes de calcular toda la distancia!",
+                "board": "Los problemas de alejamiento de dos objetos",
+                "exampleImages": [
+                    "scheme_1-E-4-Ex1.png",
+                    "scheme_1-E-4-Ex1.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "Sabemos que Rosa ha recorrido 3 km y María ha recorrido 4 km en una hora. Hay que calcular cuánto han recorrido juntas en dos horas.",
+                "boyPhrase": "Calcularemos cuánro han recorrido juntas en una hora y calcularemos cuánto han recorrido en la segunda hora y adicionaremos esas distancias: (3+4)+(3+4). ¡Tienes que calcular la solución tú mismo!",
+                "board": "ejemplo 1",
+                "animation": "11_e4_11_N.swf"
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "Sabemos que Ramón ha recorrido 2 km y Roberto ha recorrido 3 km. En total tienen que alejarse uno de otro a 9 km.",
+                "boyPhrase": "Para calcular cuánto les queda para recorrer,hay que restar de toda la distancia la que han recorrido ya: 9-(2+3). ¡Tienes que calcular la respuesta tú mismo!",
+                "board": "ejemplo 2",
+                "animation": "1_e4_12_N.swf"
+            }
+        ],
+        "1-E-5": [
+            {
+                "pageType": "static",
+                "girlPhrase": "¡Hola! ¡Ha llegado el tiempo de comprobarse!",
+                "boyPhrase": "En los problemas de test puedes comprobar cómo has comprendido los problemas!",
+                "board": "Los problemas de alejamiento de dos objetos",
+                "exampleImages": [
+                    "scheme_1-E-1-Ex1.png",
+                    "scheme_1-E-2-Ex1.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "¡Hemos sustituido las cifras por las letras! No tienes que calcular pero comprobarás cómo entiendes la condición de los problemas!",
+                "boyPhrase": "¡Apunta en la solución lo que tienes en la resolución!",
+                "board": "Los problemas de alejamiento de dos objetos",
+                "exampleImages": [
+                    "scheme_1-E-3-Ex1_ESP.png",
+                    "scheme_1-E-4-Ex2.png"
+                ]
+            }
+        ]
+}

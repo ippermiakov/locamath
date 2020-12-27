@@ -1,0 +1,109 @@
+{
+        "1-B-1": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Hello! We’re going to help you learn how to solve problems!",
+                        "boyPhrase": "In this part we are going to solve problems with sequential movement on different parts of a route!",
+                        "board": "Sequential movement on different parts of a route",
+                        "exampleImages": [
+                                          "scheme_1-B-1-Ex1.png",
+                                          "scheme_1-B-1-Ex2.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "animation",
+                        "girlPhrase": "We know how much a snail crawled on the first day. We also know how much more the snail covered on the second day than on the first day! How much did the snail crawl IN TOTAL?",
+                        "boyPhrase": "In order to find out the TOTAL distance we need to add the distance it covered on the first day to the distance it covered on the second day: (7+3)+7. Now you do the math!",
+                        "board": "example 1",
+                        "animation": "1_b1_11_N.swf"
+                    }
+                    ],
+        "1-B-2": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Hello! Let’s continue solving problems on sequential movement on different parts of a route!",
+                        "boyPhrase": "In this part we are going to make it a bit more difficult by dividing the route into three parts!",
+                        "board": "Sequential movement on different parts of a route",
+                        "exampleImages": [
+                                          "scheme_1-B-2-Ex1.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "We know how much a group of tourists walked on the first day and how much they walked on the second day. On the third day the group of tourists flew on a helicopter a distance that totals the amount that they covered on the first two days. What is the TOTAL distance that they covered?",
+                        "boyPhrase": "To find the total distance we are going to add the distances that the tourists covered on the first and on the second day to the distance that they covered on the third day: 12+7+(12+7). Now you do the math!",
+                        "board": "example 1",
+                        "exampleImages": [
+                                          "scheme_1-B-2-Ex1_INT.png"
+                                          ]
+                    }
+                    ],
+        "1-B-3": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Hi! This time we’re going to try to confuse you!",
+                        "boyPhrase": "It’s the same kind of motion problems as before, but be careful! This might be a bit trickier!",
+                        "board": "Sequential movement on different parts of a route",
+                        "exampleImages": [
+                                "scheme_1-B-3-Ex1.png",
+                                "scheme_1-B-3-Ex2.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "animation",
+                        "girlPhrase": "We know how much a snail crawled during the day and how much it crawled during the night. We need to find the TOTAL distance.",
+                        "boyPhrase": "In order to find out the total distance we need to add the distance the snail covered during the day to the distance it covered during the night: 5+3. Now you do the math!",
+                        "board": "example 1",
+                        "animation": "1_b3_11_N.swf"
+                    },
+                    {
+                        "pageType": "animation",
+                        "girlPhrase": "We know how much a snail crawled up a tree during the day and how much it slides down during the night. We need to find out what the distance between the snail and the ground be in the morning.",
+                        "boyPhrase": "In order to find the distance we need to subtract from the distance that it crawled from the distance that it slid down: 5 - 3. Now you do the math!",
+                        "board": "example 2",
+                        "animation": "1_b3_12_N.swf"
+                    }
+                    ],
+        "1-B-4": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Hello! You’re doing great! The problems are getting more difficult!",
+                        "boyPhrase": "Now we will have to first find the distance of separate parts of a route before we can find out the total distance!",
+                        "board": "Sequential movement on different parts of a route",
+                        "exampleImages": [
+                                          "scheme_1-B-4-Ex1.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "On the first day a group of tourists walked 3 miles, on the second they traveled on a boat a distance 2 miles more than the previous day when they walked. This means that on the second day they traveled: 3+2.",
+                        "boyPhrase": "On the third day the tourists traveled a distance that totals the distance which they traveled on the first two days 3+(3+2). In order to find out the total distance which the tourists covered in total add together all the distances: 3+(3+2)+(3+(3+2)). Now you do the math!",
+                        "board": "example 1",
+                        "exampleImages": [
+                                          "scheme_1-B-4-Ex1_INT.png"
+                                          ]
+                    }
+                    ],
+        "1-B-5": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Hello! It’s time for you to test yourself!",
+                        "boyPhrase": "When completing the test problems you will see how well you understand the problems!",
+                        "board": "Sequential movement on different parts of a route",
+                        "exampleImages": [
+                                          "scheme_1-B-1-Ex1.png",
+                                          "scheme_1-B-1-Ex2.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "We have used letters instead of numbers! You won’t need to count and you will be able to see how well you understand the problems and how to solve them!",
+                        "boyPhrase": "Good luck!",
+                        "board": "Sequential movement on different parts of a route",
+                        "exampleImages": [
+                                          "scheme_1-B-3-Ex1.png",
+                                          "scheme_1-B-2-Ex1.png"
+                                          ]
+                    }
+         ]
+}

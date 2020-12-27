@@ -1,0 +1,35 @@
+//
+// Prefix header for all source files of the 'MathematicUnitTests' target in the 'MathematicUnitTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+	#import "Constants.h"
+    #import <CoreData/CoreData.h>
+    #define MR_SHORTHAND
+    #import "CoreData+MagicalRecord.h"
+    #import "CorePlot-CocoaTouch.h"
+    #if __IPHONE_OS_VERSION_MIN_REQUIRED
+    #import <SystemConfiguration/SystemConfiguration.h>
+    #import <MobileCoreServices/MobileCoreServices.h>
+    #else
+    #import <SystemConfiguration/SystemConfiguration.h>
+    #import <CoreServices/CoreServices.h>
+    #endif
+
+    #import "ParselableActionProtocol.h"
+    #import "AFNetworking.h"
+    #import "SoundManager.h"
+    #import "MTFileParser.h"
+    #import "MTHTTPClient.h"
+    #import <BlocksKit.h>
+    #import "UIAlertView+Error.h"
+    #import "DKPredicateBuilder.h"
+    #import "DataUtils.h"
+    #import "UIView+OverlayForMovableViews.h"
+    #import "UIColor+Mathematic.h"
+    #import "SSToolkitDefines.h"
+    #import "NSError+String.h"
+    #import "BaseViewController+RegistrationAndLogin.h"
+#endif

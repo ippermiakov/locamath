@@ -1,0 +1,3088 @@
+{
+	"tasks": {
+		"1-A-1-1.1": {
+			"Score": "50",
+			"Animation": "1_a1_11_N.swf",
+			"Hint": "hizo la hormiga desde el hormiguero hasta el hongo",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "La hormiga se arrastró desde el hormiguero hasta la flor 7 dm, y desde la flor hasta el hongo otros 12 dm. ¿Qué distancia hizo la hormiga desde el hormiguero hasta el hongo?",
+			"Expressions": [
+    			"7+12"
+			],
+			"Answer": "19"
+			},
+		"1-A-1-1.2": {
+			"Score": "50",
+			"Animation": "1_a1_12_N.swf",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "La Caperucita Roja fue a su abuela. Fue caminando 2 horas en el bosque y 4 horas en el campo. ¿Cuánto tiempo estuvo de camino la Caperucita Roja?",
+			"Expressions": [
+    			"2 + 4"
+			],
+			"Answer": "6"
+			},
+		"1-A-1-1.3": {
+			"Score": "50",
+			"Animation": "1_a1_13_N.swf",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El caracol tiene que hacer 16 cm. Ya ha hecho la distancia en 9 cm. ¿Cuántos centímetros se le quedan a hacer?",
+			"Expressions": [
+    			"16-9"
+			],
+			"Answer": "7"
+			},
+		"1-A-1-1.4": {
+			"Score": "50",
+			"Animation": "",
+			"Hint": "(мин) осталось времени у мальчика.",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Vasia tiene que llegar a la escuela en 20 minutos. Él está en el camino durante 14 minutos. ¿Cuánto tiempo se le queda estar en el camino?",
+			"Expressions": [
+    			"20-14"
+			],
+			"Answer": "6"
+			},
+		"1-A-1-2.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Masha fue caminando 12 minutos de la escuela a casa, subió en el ascensor durante 6 minutos hasta el apartamento. ¿Cuánto tiempo Masha estaba de camino desde la escuela hasta la casa?",
+			"Expressions": [
+    			"12+6"
+			],
+			"Answer": "18"
+			},
+		"1-A-1-2.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "La rana nadó contra la corriente 5 minutos, y siguió la corriente 9 minutos. ¿Cuánto tiempo nadó la rana?",
+			"Expressions": [
+    			"5+9"
+			],
+			"Answer": "14"
+			},
+		"1-A-1-2.3": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El coche fue 2 horas a lo largo del camino vecinal, y 4 horas por la carretera. ¿Cuántas horas fue en camino el coche?",
+			"Expressions": [
+    			"2+4"
+			],
+			"Answer": "6"
+			},
+		"1-A-1-2.4": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El gato corrió rápido 12 minutos, y luego lentamente 8 minutos. ¿Cuántos minutos corrió el gato?",
+			"Expressions": [
+    			"12+8"
+			],
+			"Answer": "20"
+			},
+		"1-A-1-2.5": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "La flor el primer día creció 3 cm, y el segundo día 4 cm ¿Cuántos centímetros creció la flor durante 2 días?",
+			"Expressions": [
+    			"3+4"
+			],
+			"Answer": "7"
+			},
+		"1-A-1-2.6": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "La niña fue caminando 3 metros del cajón con arena hasta los columpios, y 5 metros desde los columpios hasta el tiovivo. ¿ Cuántos metros hizo la niña desde el cajón con arena hasta el tiovivo?",
+			"Expressions": [
+    			"3+5"
+			],
+			"Answer": "8"
+			},
+		"1-A-1-2.7": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El coche de la ciudad A hasta la ciudad B hizo 12 km y desde la ciudad B hasta la ciudad C hizo 8 km. ¿Cuántos kilómetros hizo el coche desde la ciudad A hasta la ciudad C?",
+			"Expressions": [
+    			"12+8"
+			],
+			"Answer": "20"
+			},
+		"1-A-1-2.8": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El ratón corrió desde la madriguera hasta el campo  9 metros, y desde el campo hasta el río 8 metros más. ¿Cuántos metros corrió el ratón?",
+			"Expressions": [
+    			"9+8"
+			],
+			"Answer": "17"
+			},
+		"1-A-1-2.9": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El oso come un tarro de miel durante 15 minutos. Está comiendo durante 7 minutos. ¿Dentro de cuántos minutos el tarro estará vacío?",
+			"Expressions": [
+    			"15-7"
+			],
+			"Answer": "8"
+			},
+		"1-A-1-2.10": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Superman está atando los cordones de los zapatos durante 17 segundos, 7 segundos gasta en atar los cordones del zapato derecho. ¿Cuántos segundos gasta en atar los cordones del zapato izquierda?",
+			"Expressions": [
+    			"17-7"
+			],
+			"Answer": "10"
+			},
+		"1-A-1-2.11": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El peque Roo puede saltar sin parar 19 minutos, ya salta durante 7 minutos, ¿Dento de cuántos minutos se detendrá?",
+			"Expressions": [
+    			"19-7"
+			],
+			"Answer": "12"
+			},
+		"1-A-1-2.12": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Misha gasta 14 minutos en llegar a la tienda. ¿Cuántos minutos se le quedan para llegar si está en camino durante 5 minutos?",
+			"Expressions": [
+    			"14-5"
+			],
+			"Answer": "9"
+			},
+		"1-A-1-2.13": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dasha suele llegar a la escuela de música en 12 minutos. Está en camino duarnte 7 minutos. ¿Cuántos minutos todavía estará en camino Dasha?",
+			"Expressions": [
+    			"12-7"
+			],
+			"Answer": "5"
+			},
+        "1-A-1-2.14": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El tractor hizo en el campo 10 km, y en el camino - 7 km. ¿Cuál es la trayectoria recorrida por el tractor?",
+			"Expressions": [
+    			"10+7"
+			],
+			"Answer": "17"
+			},
+        "1-A-1-2.15": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Ksenia gasta 5  minutos en llegar de la casa hacia la tienda. En el camino de Xenia vió a su amiga Ana y conversó con ella. ¿Cuánto tiempo conversaron las chicas si Ksenia gastó 12 minutos en el camino hasta la tienda?",
+			"Expressions": [
+				"12-5"
+			],
+			"Answer": "7"
+			},
+        "1-A-1-2.16": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El primer año un árbol creció 3 metros, y el segundo año - 13 m. ¿Cuántos metros creció el árbol en 2 años?",
+			"Expressions": [
+				"3+13"
+			],
+			"Answer": "16"
+			},
+        "1-A-1-2.17": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Un coche fue por el camino rural durante 2 horas y por una carretera - 4 horas. ¿Cuántas horas el coche estuvo de camino?",
+			"Expressions": [
+				"2+4"
+			],
+			"Answer": "6"
+			},
+        "1-A-1-2.18": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Un gato corrió rápidamente durante 12 minutos y luego corrió lentamente durante 8 minutos. ¿Cuántos minutos corrió el gato?",
+			"Expressions": [
+				"12+8"
+			],
+			"Answer": "20"
+			},
+		"1-A-2-1.1": {
+			"Score": "100",
+			"Animation": "11_a2_11_N.swf",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Kate corre a una velocidad de 7 kilómetros por hora, Dima corre a 2 km más rápido. ¿A qué velocidad corre Dima?",
+			"Expressions": [
+    			"7+2"
+			],
+			"Answer": "9"
+			},
+		"1-A-2-1.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El Winnie Pooh hizo 3 km y el Piatachok hizo 2 km más. ¿Cuántos kilómetros hizo el Piatachok?",
+			"Expressions": [
+    			"3+2"
+			],
+			"Answer": "5"
+			},
+		"1-A-2-1.3": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El barón Munchausen perseguió a la liebre durante 12 horas, y al zorro - 3 horas menos. ¿Cuánto tiempo Munchausen perseguió al Zorro?",
+			"Expressions": [
+    			"12-3"
+			],
+			"Answer": "9"
+			},
+        "1-A-2-1.4": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Malvina va a una velocidad de 4 km / h, y el perro lulú Artemón corre a una velocidad de 9 km/h  ¿Cuántos km / h la velocidad de Malvina es menor que la velocidad de Artemón?",
+			"Expressions": [
+    			"9-4"
+			],
+			"Answer": "5"
+			},
+		"1-A-2-2.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El ciclista va con una velocidad de 15 km / h, y el peatón va con una velocidad de 11 km / h más lento. ¿Qué velocidad tiene el peatón?",
+			"Expressions": [
+    			"15-11"
+			],
+			"Answer": "4"
+			},
+		"1-A-2-2.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Julia va de la escuela 6 minutos, y hasta la tienda 3 minutos más. ¿Cuántos minutos Julia va hasta la tienda?",
+			"Expressions": [
+    			"6+3"
+			],
+			"Answer": "9"
+			},
+		"1-A-2-2.3": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "La hormiga hizo 17 cm a lo largo del vástago, y a lo largo de la hoja - 12 cm menos. ¿Cuántos cm hizo la hormiga en la hoja? ",
+			"Expressions": [
+    			"17-12"
+			],
+			"Answer": "5"
+			},
+		"1-A-2-2.4": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El barco navegó por el lago 4 km, y por el río - 5 km más. ¿Cuántos kilómetros navegó el barco por el río?",
+			"Expressions": [
+    			"4+5"
+			],
+			"Answer": "9"
+			},
+		"1-A-2-2.5": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El guepardo corre a una velocidad de 6 m / seg, y el león - a una velocidad de 2 m / seg menos. ¿A qué velocidad corre el león?",
+			"Expressions": [
+    			"6-2"
+			],
+			"Answer": "4"
+			},
+		"1-A-2-2.6": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Petia estaba paseando al perro por la mañana alrededor de 8 minutos, y por la noche 3 minutos más. ¿Cuántos minutos Petia estaba paseando al perro por la noche?",
+			"Expressions": [
+    			"8+3"
+			],
+			"Answer": "11"
+			},
+		"1-A-2-2.7": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "La liebre corrió por el campo 3 km, y por el bosque - 4 km más. ¿Cuántos kilómetros corrió la liebre por el bosque?",
+			"Expressions": [
+    			"3+4"
+			],
+			"Answer": "7"
+			},
+		"1-A-2-2.8": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El viajero hizo 12 km el primer día, y el segundo día - 6 km más. ¿Cuántos kilómetros hizo el viajero el segundo día?",
+			"Expressions": [
+    			"12+6"
+			],
+			"Answer": "18"
+			},
+		"1-A-2-2.9": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Sergey va hasta la escuela 11 minutos, y Sasha va hasta la escuela 3 minutos menos. ¿Cuántos minutos va Sasha hasta la escuela?",
+			"Expressions": [
+    			"11-3"
+			],
+			"Answer": "8"
+			},
+		"1-A-2-2.10": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Los niños fueron de excursión. Hicieron 6 km antes del almuerzo, y después del almuerzo - 4 km. ¿Cuántos kilómetros menos hicieron los niños después del almuerzo?",
+			"Expressions": [
+    			"6-4"
+			],
+			"Answer": "2"
+			},
+        "1-A-2-2.11": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El barón Munchausen navegó 5 km en la ballena, y voló 4 km más en el pato. ¿Cuántos kilómetros hizo el barón Munchausen?",
+			"Expressions": [
+    			"5+4"
+			],
+			"Answer": "9"
+			},
+        "1-A-2-2.12": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Cheburashka camina con una velocidad de 2 km/h. El Cocodrilo Gena camina con una velocidad de 5 km/h. ¿En cuánto la velocidad de Cheburashka es menor que la velocidad de cocodrilo Gena?",
+			"Expressions": [
+    			"5-2"
+			],
+			"Answer": "3"
+			},
+        "1-A-2-2.13": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Carlson puede volar hasta el techo en 4 minutos. El niñosube las escaleras hasta el techo en 10 minutos. ¿Cuántos minutos menos necesita Carlson para subir al techo?",
+			"Expressions": [
+    			"10-4"
+			],
+			"Answer": "6"
+			},
+		"1-A-2-2.14": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "La velocidad de una golondrina es 3 m / seg, y de un vencejo - 5 m / seg. ¿Cuántos m / seg la velocidad del vencejo es mayor que la velocidad de la golondrina?",
+			"Expressions": [
+    			"5-3"
+			],
+			"Answer": "2"
+			},
+		"1-A-2-2.15": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Un camión puede llegar desde la ciudad A hasta la ciudad B en 7 horas, y el autobús - en 5 horas. ¿Cuántas horas más está en camino el camión?",
+			"Expressions": [
+    			"7-5"
+			],
+			"Answer": "2"
+			},
+        "1-A-2-2.16": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Los niños jugaron al escondite 8 minutos, y a los policías y ladrones - 7 minutos más. ¿Cuánto tiempo los niños jugaron a los policías y ladrones?",
+			"Expressions": [
+    			"8+7"
+			],
+			"Answer": "15"
+			},
+        "1-A-2-2.17": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "La hormiga buscó una paja durante 15 minutos, y luego la llevó al hormiguero durante 4 minutos menos. ¿Cuánto tiempo llevó la hormiga una paja?",
+			"Expressions": [
+    			"15-4"
+			],
+			"Answer": "11"
+			},
+		"1-A-2-2.18": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El gato jugó con el ratón durante 10 minutos, y tomó sol durante 7 minutos más. ¿Cuánto tiempo el gato tomó el sol?",
+			"Expressions": [
+    			"10+7"
+			],
+			"Answer": "17"
+			},
+		"1-A-2-2.19": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Slava con su madre caminaron en el parque 3 km, y navegaron en el tranvía acuático 2 km más. ¿Cuánto tiempo Slava navegó en el tranvía acuático?",
+			"Expressions": [
+    			"3+2"
+			],
+			"Answer": "5"
+			},
+		"1-A-2-2.20": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "La Cperucita Roja gastó 20 minutos en llegar a la abuela, y el lobo - 15 minutos. ¿Cuántos minutos antes el lobo llegó a la abuela?",
+			"Expressions": [
+    			"20-15"
+			],
+			"Answer": "5"
+			},
+		"1-A-2-2.21": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El zorro corre a una velocidad de 11 km / h, y el lobo por 3 km / h más rápido. ¿A qué velocidad corre el lobo?",
+			"Expressions": [
+    			"11+3"
+			],
+			"Answer": "14"
+			},
+		"1-A-2-2.22": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Ira caminó por el puente 18 m, y por una senda - 4 m menos. ¿Cuántos metros caminó Ira por la senda?",
+			"Expressions": [
+    			"18-4"
+			],
+			"Answer": "14"
+			},
+        "1-A-2-2.23": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El ratón corrió hacia el queso a una velocidad de 8 km / h, y llevó el queso hacia su madriguera a una velocidad de 6 km/h  ¿A cuántos km / h más rápido corrió el ratón hacia el queso?",
+			"Expressions": [
+    			"8-6"
+			],
+			"Answer": "2"
+			},
+		"1-A-2-2.24": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "La distancia hasta el lago por una carretera rural es 12 km, y por el bosque - 3 km menos. ¿Cuál es la distancia hasta el lago a través del bosque?",
+			"Expressions": [
+    			"12-3"
+			],
+			"Answer": "9"
+			},
+		"1-A-2-2.25": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dima caminó con una velocidad de 5 km/h  Luego empezó a llover y Dima corrió a una velocidad de 8 kmh  ¿Cuándo más rápido corrió Dima?",
+			"Expressions": [
+    			"8-5"
+			],
+			"Answer": "3"
+			},
+        "1-A-2-2.26": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El erizo recogió setas durante 3 horas, y las bayas - durante 2 horas más. ¿Cuánto tiempo el erizo recigió las bayas?",
+			"Expressions": [
+    			"3+2"
+			],
+			"Answer": "5"
+			},
+		"1-A-3-1.1": {
+			"Score": "150",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Katia corre a una velocidad de 6 km / h, que es de 2 km menos que la velocidad de Dima (La velocidad de Dima es 2 km más que la velocidad de Katia). ¿A qué velocidad corre Dima?",
+			"Expressions": [
+    			"6+2"
+			],
+			"Answer": "8"
+			},
+		"1-A-3-1.2": {
+			"Score": "150",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El perro Sharik corrió 12 kilómetros lo que es 7 km más que corrió el gato Matroskin. ¿Cuál es la distancia que corrió Matroskin?",
+			"Expressions": [
+    			"12-7"
+			],
+			"Answer": "5"
+			},
+		"1-A-3-1.3": {
+			"Score": "150",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Sergei va desde la escuela 17 minutos lo que es 8 minutos más de Artem. ¿Cuánto tiempo gasta Artem en llegar a casa?",
+			"Expressions": [
+    			"17-8"
+			],
+			"Answer": "9"
+			},
+        "1-A-3-1.4": {
+			"Score": "150",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Los turistas caminaron 8 horas, y navegaron en un bote 2 horas más. ¿Cuánto tiempo los turistas estaban en camino?",
+			"Expressions": [
+    			"8+(8+2)"
+			],
+			"Answer": "18"
+			},
+        "1-A-3-2.1": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El ciclista puede ir por la carretera a una velocidad de 13 km / h lo que es 4 km/h más de la velocidad del ciclista por el camino rural. ¿Con qué velocidad va el ciclista por el camino rural?",
+			"Expressions": [
+    			"13-4"
+			],
+			"Answer": "9"
+			},
+        "1-A-3-2.2": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Pasha está caminando y Sasha monta una bicicleta. La velocidad de Pasha es de 4 km / h lo que es 5 km/h menos que la velocidad de Sasha. ¿Con qué velocidad va Sasha?",
+			"Expressions": [
+    			"4+5"
+			],
+			"Answer": "9"
+			},
+		"1-A-3-2.3": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Katai fue a la biblioteca de la escuela 7 minutos, y desde la biblioteca hsta la casa durante 3 minutos más. ¿Cuánto tiempo Katia estaba en camino?",
+			"Expressions": [
+    			"7+(7+3)"
+			],
+			"Answer": "17"
+			},
+		"1-A-3-2.4": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El viajero voló en el avión 4 horas, y viajó en el tren 5 horas más. ¿Cuánto tiempo el viajero estaba en camino?",
+			"Expressions": [
+    			"4+(4+5)"
+			],
+			"Answer": "13"
+			},
+        "1-A-3-2.5": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El taxi hizo 7 km por la ciudad, lo que es 2 km más que hizo el peatón. ¿Cuántos kilómetros hizo el peatón?",
+			"Expressions": [
+    			"7-2"
+			],
+			"Answer": "5"
+			},
+        "1-A-3-2.6": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "La balsa navegó por el río 5 km, y por el lago 2 km más que por el río. ¿Cuántos kilómetros navegó la balsa?",
+			"Expressions": [
+    			"5+(5+2)"
+			],
+			"Answer": "12"
+			},
+        "1-A-3-2.7": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Valera gastó 8 minutos para la tarea en matemáticas, 2 minutos menos gastó para la lectura. ¿Cuántos minutos gastó Valera en hacer los deberes?",
+			"Expressions": [
+				"8+(8-2)"
+			],
+			"Answer": "14"
+			},
+		"1-A-4-1.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Los turistas decidieron hacer 20 km. El primer día hicieron 7 km, el segundo día - 5 km. ¿Cuántos kilómetros se les quedan a los turistas?",
+			"Expressions": [
+    			"20-7-5",
+    			"20-(7+5)"
+			],
+			"Answer": "8"
+			},
+        "1-A-4-1.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Tanya caminó a una velocidad de 4 km / h, y Masha a 2 km / h más rápido que Tanya. Y Sveta a 1 km / h más rápido que Masha. ¿Con qué velocidad caminó Sveta?",
+			"Expressions": [
+    			"(4+2)+1"
+			],
+			"Answer": "7"
+			},
+        "1-A-4-1.3": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Vasia corrió 7 km lo que es 3 km más que hizo en una bicicleta. ¿Qué distaciá recorrió Vasia?",
+			"Expressions": [
+    			"7+(7-3)"
+			],
+			"Answer": "11"
+			},
+        "1-A-4-2.1": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "La hormiga arrastró desde su hormiguero hasta el hongo durante 20 minutos. Primero arrastró 4 minutos hasta la flor, y luego 6 minutos hasta el abeto. ¿Cuánto tiempo arrastró la hormiga desde el abeto hasta el hongo?",
+			"Expressions": [
+    			"20-4-6",
+    			"20-(4+6)"
+			],
+			"Answer": "10"
+			},
+		"1-A-4-2.2": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Los turistas han decidido de ir 20 km. El primer día hicieron 7 km, el segundo día - 5 km. ¿Cuántos kilómetros se les quedan estar en camino?",
+			"Expressions": [
+    			"20-(7+5)",
+                "20-7-5"
+			],
+			"Answer": "8"
+			},
+		"1-A-4-2.3": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Winnie decidió comer 15 bombones, primero comió 3, y luego otros 5. ¿Cuántos bombones se le quedan para comer?",
+			"Expressions": [
+    			"15-3-5",
+                "15-(3+5)"
+			],
+			"Answer": "7"
+			},
+		"1-A-4-2.4": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "La balsa tiene que hacer 18 km hasta el muelle, el primer día hizo 7 km, el segundo día hizo 3 km. ¿Cuántos kilómetros se le quedan a hacer a la balsa hasta llegar al muelle?",
+			"Expressions": [
+    			"18-7-3",
+                "18-(7+3)"
+			],
+			"Answer": "8"
+			},
+		"1-A-4-2.5": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Ivan fue en la bicicleta a 2 km / h más rápido que caminó Misha, y Yura caminó a 1 km / h todavía más lento. ¿Qué velocidad tuvo Yura, si la velocidad de Misha fue 5 km/h?",
+			"Expressions": [
+    			"5+2-1"
+			],
+			"Answer": "6"
+			},
+        "1-A-4-2.6": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "La oruga hizo 4 metros en una hoja, y el caracol hizo 2 metros más. Una araña hizo 3 metros más que el caracol. ¿Cuántos metros hicieron la araña, caracol y oruga?",
+			"Expressions": [
+    			"4+(4+2)+(4+2+3)"
+			],
+			"Answer": "19"
+			},
+        "1-A-4-2.7": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Alesha tiene que hacer 14 km. Durante la primera hora de viaje hizo 3 km, durante la segunda hora - 2 km más que la primera hora. ¿Cuántos kilómetros se le quedan a pasar a Alesha?",
+			"Expressions": [
+    			"14-(3+(3+2))",
+                "14-3-(3+2)"
+			],
+			"Answer": "6"
+			},
+        "1-A-4-2.8": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Petia caminó 7 km a lo largo de un camino forestal lo que es 3 km más que por el campo. ¿Cuánto caminó Petia?",
+			"Expressions": [
+    			"7+(7-3)"
+			],
+			"Answer": "11"
+			},
+        "1-A-4-2.9": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Ana recogió setas durante 3 horas y bayas durante 2 horas más, y gastó para el camino a casa 3 horas menos que recogió bayas. ¿Cuánto tiempo gastó Ana en llegar a su casa?",
+			"Expressions": [
+				"(3+2)-3"
+			],
+			"Answer": "2"
+			},
+        "1-A-4-2.10": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Victor recorrió 7 kilómetros a pie, lo que es 3 km más que él recorrió en su bicicleta. ¿Qué distancia recorrió Victor en total?",
+			"Expressions": [
+				"7+(7-3)"
+			],
+			"Answer": "11"
+			},
+		"1-A-5-2.1": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "La hormiga se arrastró desde el hormiguero hasta la flor k dm, y desde la flor hasta el hongo otros 1 dm. ¿Qué distancia hizo la hormiga desde el hormiguero hasta el hongo?",
+			"Expressions": [
+    			"k+1"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.2": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "La Caperucita Roja fue a su abuela. Fue caminando a horas en el bosque y b horas en el campo. ¿Cuánto tiempo estuvo de camino la Caperucita Roja?",
+			"Expressions": [
+    			"a+b"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.3": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El caracol tiene que hacer c cm. Ya ha hecho la distancia en d cm. ¿Cuántos centímetros se le quedan a hacer?",
+			"Expressions": [
+    			"c-d"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.4": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Vasia tiene que llegar a la escuela en m minutos. Él está en el camino durante 5 minutos. ¿Cuánto tiempo se le queda estar en el camino?",
+			"Expressions": [
+    			"m-5"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.5": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Kate corre a una velocidad de x kilómetros por hora, Dima corre a y km más rápido. ¿A qué velocidad corre Dima?",
+			"Expressions": [
+    			"x+y"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.6": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El Winnie Pooh hizo a km y el Piatachok hizo b km más. ¿Cuántos kilómetros hizo el Piatachok?",
+			"Expressions": [
+    			"a+b"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.7": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El barón Munchausen perseguió a la liebre durante 6 horas, y al zorro - d horas menos. ¿Cuánto tiempo Munchausen perseguió al Zorro?",
+			"Expressions": [
+    			"6-d"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.8": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Katia corre a una velocidad de k km / h, que es de n km menos que la velocidad de Dima (La velocidad de Dima es n km más que la velocidad de Katia). ¿A qué velocidad corre Dima?",
+			"Expressions": [
+    			"k+n"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.9": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El perro Sharik corrió n kilómetros lo que es h km más que corrió el gato Matroskin. ¿Cuál es la distancia que corrió Matroskin?",
+			"Expressions": [
+    			"n-h"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.10": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Sergei va desde la escuela x minutos lo que es y minutos más de Artem. ¿Cuánto tiempo gasta Artem en llegar a casa?",
+			"Expressions": [
+    			"x-y"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.11": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El barón Munchausen navegó a km en la ballena, y voló b km más en el pato. ¿Cuántos kilómetros hizo el barón Munchausen?",
+			"Expressions": [
+    			"a+b"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.12": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Los turistas caminaron h horas, y navegaron en un bote t horas más. ¿Cuánto tiempo los turistas estaban en camino?",
+			"Expressions": [
+    			"h+(h+t)"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.13": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Los turistas decidieron hacer c km. El primer día hicieron a km, el segundo día - b km. ¿Cuántos kilómetros se les quedan a los turistas",
+			"Expressions": [
+    			"c-a-b",
+			"c-(a+b)"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.14": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "La hormiga arrastró desde su hormiguero hasta el hongo durante t minutos. Primero arrastró k minutos hasta la flor, y luego n minutos hasta el abeto. ¿Cuánto tiempo arrastró la hormiga desde el abeto hasta el hongo?",
+			"Expressions": [
+ 			"t-k-n",
+			"t-(k+n)"
+			],
+			"Answer": "t-(k+n)"
+			},
+		"1-A-5-2.15": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Tanya caminó a una velocidad de v km / h, y Masha a m km / h más rápido que Tanya. Y Sveta a d km / h más rápido que Masha. ¿Con qué velocidad caminó Sveta?",
+			"Expressions": [
+    			"(v+m)+d"
+			],
+			"Answer": "v+(m+d)"
+			},
+		"1-A-5-2.16": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Vasia corrió l km lo que es b km más que hizo en una bicicleta. ¿Qué distaciá recorrió Vasia?",
+			"Expressions": [
+    			"l+(l-b)"
+			],
+			"Answer": "l+(l-b)"
+			},
+		"1-B-1-1.1": {
+			"Score": "50",
+			"Animation": "1_b1_11_N.swf",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El primer día el caracol arrastró 7 m, y el segundo - 3 m. ¿Cuántos metros arrastró el caracol en 2 días?",
+			"Expressions": [
+				"7+(7+3)"
+			],
+			"Answer": "17"
+			},
+		"1-B-1-2.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Desde la casa hasta la escuela Masha caminó por una camino breve e hizo 2 km, y regresó a casa por un camino largo e hizo 1 km más. ¿Cuántos kilómetros hizo Masha?",
+			"Expressions": [
+				"2+2+1"
+			],
+			"Answer": "5"
+			},
+		"1-B-1-2.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Por la mañana la hormiga arrastró 7 metros, y por la tarde - 2 metros menos. ¿Cuántos metros en total arrastró la hormiga?",
+			"Expressions": [
+				"7+(7-2)"
+			],
+			"Answer": "12"
+			},
+		"1-B-1-2.3": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Una abeja recogió la miel en los arbustos de frambuesa 7 minutos, y en el campo azulino - durante 10 minutos más. ¿Cuánto tiempo recogió la abeja la miel?",
+			"Expressions": [
+				"7+(7+10)"
+			],
+			"Answer": "24"
+			},
+		"1-B-1-2.4": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El osito caminó por el bosque al norte durante 3 minutos, y luego giró a la derecha en dirección del este y caminó durante 15 minutos más. ¿Cuánto tiempo caminó el osito por el bosque?",
+			"Expressions": [
+				"3+(3+15)"
+			],
+			"Answer": "21"
+			},
+		"1-B-1-2.5": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Henry montó la bicicleta el lunes durante 3 horas, y el miércoles - durante 1 hora menos que el lunes. ¿Cuánto tiempo Henry montó la bicicleta?",
+			"Expressions": [
+				"3+(3-1)"
+			],
+			"Answer": "5"
+			},
+		"1-B-2-1.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El primer día la tortuga arrastró 5 metros, el segundo día - 3 m, y el tercer día arrastró la misma distancia que el primer día y el segundo a la vez. ¿Cuál es la distancia que arrastró la tortuga en 3 días?",
+			"Expressions": [
+				"5+3+(5+3)"
+			],
+			"Answer": "16"
+			},
+		"1-B-2-1.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El perro Sharik corrió por el bosques 6 km, y por el pantano 3 km más, y 4 km más corrió por el prado. ¿Cuál es la distancia que corrió Sharik?",
+			"Expressions": [
+				"6+(6+3)+4"
+			],
+			"Answer": "19"
+			},
+		"1-B-2-2.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "преодолели туристы за три дня.",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Los turistas el primer día navegaron en el barco 12 km, el segundo día caminaron 7 km, y el tercer día volaron en un helicóptero la misma distancia que hicieron el primer día y el segundo a la vez. ¿Cuántos kilómetros hicieron los turistas en tres días?",
+			"Expressions": [
+				"12+7+(12+7)"
+			],
+			"Answer": "38"
+			},
+		"1-B-2-2.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": " всего проехал Миша на самокате в этот день.",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Misha montó el motopatín por la mañana e hizo 1 km, por la tarde hizo otros 2 km, y por la noche hizo la misma distancia que durante todo el día. ¿Cuántos kilómetros hizo Misha en el motopatín este día?",
+			"Expressions": [
+				"1+2+(1+2)"
+			],
+			"Answer": "6"
+			},
+		"1-B-2-2.3": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Marina caminó hacia su abuela por un sendero 8 metros, luego por el puente a través del arroyo 2 metros más, y luego la misma cantidad por el prado que por el sendero y puente a la vez. ¿Cuántos metros caminó Marina hacia la casa de su abuela?",
+			"Expressions": [
+				"8+2+(8+2)"
+			],
+			"Answer": "20"
+			},
+		"1-B-2-2.4": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El ciclista hizo por la ciudad 3 km, por la carretera hizo 2  km más, y por el pueblo 6 km. ¿Cuántos kilómetros hizo el ciclista?",
+			"Expressions": [
+				"3+(3+2)+6"
+			],
+			"Answer": "14"
+			},
+		"1-B-2-2.5": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El perro lulú corrió hasta el hueso 3 metros, lo agarró y corrió con él hasta la perrera 3 metros. Ocultando el hueso el perro lulú corrió hacia el arroyo 2 metros más que hasta el hueso. ¿Cuántos kilómetros corrió el perro lulú?",
+			"Expressions": [
+				"3+3+(3+2)"
+			],
+			"Answer": "11"
+			},
+		"1-B-2-2.6": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "La libélula voló del azulejo hasta el lirio 3 metros, y del lirio hasta la rosa 2 metros más, y luego voló desde la rosa hasta el lirio y atrás. ¿Cuánto voló la libélula en total?",
+			"Expressions": [
+				"3+(3+2)+(3+2)"
+			],
+			"Answer": "13"
+			},
+		"1-B-2-2.7": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El elefantito buscó su madre. Al principio corrió hacia el gran elefante gris 4 metros, luego corrió hacia el pequeño elefante 7 metros más, y luego vio a su madre y corrió 5 metros. ¿Cuántos metros corrió el elefante?",
+			"Expressions": [
+				"4+(4+7)+5"
+			],
+			"Answer": "20"
+			},
+		"1-B-2-2.8": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El tractor hizo en el campo el primer día 3 kilómetros más que el segundo y tercer día juntos. ¿Cuántos kilómetros hizo el tractor, si el segundo día hizo 5 kilómetros, y el tercer día 6 kilómetros?",
+			"Expressions": [
+				"(5+6+3)+5+6"
+			],
+			"Answer": "25"
+			},
+		"1-B-2-2.9": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El niño corrió en la pista: desde el tiovivohasta los columpios 9 metros, y desde los columpios hasta el ascensor 3 metros más, y desde el ascensor hacia el cajón con arena 4 metros. ¿Cuántos metros corrió el niño?",
+			"Expressions": [
+				"9+(9+3)+4"
+			],
+			"Answer": "25"
+			},
+		"1-B-2-2.10": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "La vaca comió la hierba en el prado, al principio hizo 4 metros, y luego otros 5 metros, y luego hizo la misma distancia que la primera y segunda vez juntas. ¿Cuántos metros hizo la vaca?",
+			"Expressions": [
+				"4+5+(4+5)"
+			],
+			"Answer": "18"
+			},
+		"1-B-3-1.1": {
+			"Score": "150",
+			"Animation": "1_b3_11_N.swf",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El caracol al día arrastra para arriba en el árbol 5 m, y por la noche baja 3 m. ¿Qué distancia hace el caracol por día (día + noche)?",
+			"Expressions": [
+				"5+3"
+			],
+			"Answer": "8"
+			},
+        "1-B-3-1.2": {
+			"Score": "150",
+			"Animation": "1_b3_12_N.swf",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Un caracol por la mañana recorre 5 m para arriba por el árbol, y por la noche baja 3 m. ¿A qué distancia estará el caracol de la tierra en un día?",
+			"Expressions": [
+				"5-3"
+			],
+			"Answer": "2"
+			},
+		"1-B-3-1.3": {
+			"Score": "150",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El labrador Butch tiene que correr 20 km. 6 km - por el bosque, 3 km - por el pantano, y el resto de la distancia - por el prado. ¿Cuántos kilómetros tiene que correr Butch por el prado?",
+			"Expressions": [
+				"20-6-3",
+				 "20-(6+3)"
+			],
+			"Answer": "11"
+			},
+		"1-B-3-2.1": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El caracol arrastra de una flor a la otra. Durante la primera hora arrastró 6 cm, durante la segunda hora - 5 cm ¿Cuánto se le queda al caracol, si la distancia entre las flores es 17 cm?",
+			"Expressions": [
+				"17-6-5",
+				 "17-(6+5)"
+			],
+			"Answer": "6"
+			},
+		"1-B-3-2.2": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Los turistas estuvieron en el museo 2 horas, en la exposición - 3 horas, y luego simplemente pasearon por la ciudad. ¿Cuánto tiempo los turistas pasearon por la ciudad si su viaje duró 8 horas?",
+			"Expressions": [
+				"8-2-3",
+				 "8-(2+3)"
+			],
+			"Answer": "3"
+			},
+		"1-B-3-2.3": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "En busca de setas el erizo hizo al norte 12 m y al este 5 m menos. ¿Cuántos metros hizo el erizo?",
+			"Expressions": [
+				"12+(12-5)"
+			],
+			"Answer": "14"
+			},
+		"1-B-3-2.4": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El mono subió a una palmera 10 m, y luego bajó 5 metros ¿Cuántos metros hizo el mono?",
+			"Expressions": [
+				"10+5"
+			],
+			"Answer": "15"
+			},
+		"1-B-3-2.5": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Vanya hizo 3 ronda alrededor del estadio, para la primera ronda gastó 6 minutos, para la segunda - 5 minutos. Vanya gastó 16 minutos en total. ¿Cuanós minutos gastró Vanya para correr la tercera ronda?",
+			"Expressions": [
+				"16-6-5",
+				 "16-(6+5)"
+			],
+			"Answer": "5"
+			},
+		"1-B-3-2.6": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Sergei caminó hacia la tienda 7 minutos, luego hacia la farmacia - 5 minutos. Hacia la casa tiene que caminar 2 minutos menos que hacia la farmacia. ¿Cuánto tiempo caminó Sergei?",
+			"Expressions": [
+				"7+5+(5-2)"
+			],
+			"Answer": "15"
+			},
+		"1-B-3-2.7": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "La distancia de la aldea hasta la ciudad es 20 km. El camino va por la carretera rural 5 km, por el bosque - 2 km más, y el resto del camino - por la carretera. ¿Cuántos kilómetros son por la carretera?",
+			"Expressions": [
+				"20-5-(5+2)",
+                "20-(5+(5+2))"
+			],
+			"Answer": "8"
+			},
+		"1-B-3-2.8": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Olga tiene que hacer 17 km. Durante la primera hora hizo 4 kilómetros, durante la segunda hora - 3 km. ¿Cuántos kilómetros se le quedan a hacer a Olga?",
+			"Expressions": [
+				"17-4-3",
+				 "17-(4+3)"
+			],
+			"Answer": "10"
+			},
+		"1-B-3-2.9": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Los niños plantaron el jardín. A lo largo de 3 km plantaron los manzanos, a lo largo de 4 km - los perales, y en el resto - las cerezas. La longitud total del jardín es 14 km. ¿Cuántos kilómetros ocuparon las cerezas?",
+			"Expressions": [
+				"14-(3+4)",
+                "14-3-4"
+			],
+			"Answer": "7"
+			},
+		"1-B-4-1.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Los turistas caminaron 3 kilómetros, navegaron en un barco 2 kilómetros más, y luego hicieron en la bicicleta tanto cuanto caminaron y navegaron en un barco a la vez. ¿Qué distancia hicieron los turistas?",
+			"Expressions": [
+				"3+(3+2)+(3+(3+2))"
+			],
+			"Answer": "16"
+			},
+        "1-B-4-1.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "км преодолели туристы",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "En total unos turistas recorrieron 20 km. 6 km - a pie, lo que es 2 km más que recorrieron en un barco, y lo restante recorrieron en bicicletas. ¿Qué distancia recorrieron los turistas?",
+			"Expressions": [
+				"20-(6+(6-2))",
+				"20 - 6-(6-2)"
+			],
+			"Answer": "10"
+            },
+		"1-B-4-2.1": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El ratón corrió hacia la mesa 5 metros, luego hacia la silla - 2 metros más, y hacia la madriguera corrió tanto cuánto corrió hacia la silla. ¿Cuánto corrió el ratón?",
+			"Expressions": [
+				"5+(5+2)+(5+2)"
+			],
+			"Answer": "19"
+			},
+		"1-B-4-2.2": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "км преодолели туристы",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Un liebre recorrió 17 km en total. 5 km por un bosque, lo que es 2 km menos que por un campo, y lo restante recorrió por un jardin. ¿Qué distancia recorrió el liebre?",
+			"Expressions": [
+				"17-(5+(5+2))",
+				"17-5-(5+2)"
+			],
+			"Answer": "5"
+            },
+		"1-B-4-2.3": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El coche pasó por la ciudad 6 km, por la carretera - 2 km menos, y por el camino rural pasó la misma distancia que recorrió por la ciudad y por la carretera a la vez. ¿Cuántos kilómetros hizo el coche?",
+			"Expressions": [
+				"6+(6-2)+6+(6-2)"
+			],
+			"Answer": "20"
+			},
+		"1-B-4-2.4": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Desde el punto A hasta el punto B el coche hizo 4 kilómetros, del punto B hasta el punto B - 2 km más después de que regresó en el punto A en el mismo camino. ¿Qué distacia recorrió el coche?",
+			"Expressions": [
+				"4+(4+2)+4+(4+2)"
+			],
+			"Answer": "20"
+			},
+        "1-B-4-2.5": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Unos turistas recorrieron a pie 3 kilómetros, lo que era 2 km menos que luego navegaron en un barco. Despues, recorrieron en una bicicleta la misma distancia que caminaron a pie y navegaron a la vez. ¿Qué distancia superaron los turistas?",
+			"Expressions": [
+				"3+(3+2)+(3+(3+2))"
+			],
+			"Answer": "16"
+			},
+		"1-B-5-2.1": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El primer día el caracol arrastró l m, y el segundo - m m. ¿Cuántos metros arrastró el caracol en 2 días?",
+			"Expressions": [
+				"l+(l+m)"
+			],
+			"Answer": ""
+			},
+		"1-B-5-2.2": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El primer día la tortuga arrastró a metros, el segundo día - b m, y el tercer día arrastró la misma distancia que el primer día y el segundo a la vez. ¿Cuál es la distancia que arrastró la tortuga en 3 días?",
+			"Expressions": [
+				"a+b+(a+b)"
+			],
+			"Answer": ""
+			},
+		"1-B-5-2.3": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El perro Sharik corrió por el bosques c km, y por el pantano d km más, y k km más corrió por el prado. ¿Cuál es la distancia que corrió Sharik?",
+			"Expressions": [
+				"c+(c+d)+k"
+			],
+			"Answer": ""
+			},
+		"1-B-5-2.4": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El caracol al día arrastra para arriba en el árbol m m, y por la noche baja n m. ¿Qué distancia hace el caracol por día (día + noche)?",
+			"Expressions": [
+				"m+n"
+			],
+			"Answer": ""
+			},
+		"1-B-5-2.5": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El labrador Butch tiene que correr v km. h km - por el bosque, s km - por el pantano, y el resto de la distancia - por el prado. ¿Cuántos kilómetros tiene que correr Butch por el prado?",
+			"Expressions": [
+				"v-h-s",
+				 "v-(h+s)"
+			],
+			"Answer": ""
+			},
+		"1-B-5-2.6": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Los turistas caminaron m kilómetros, navegaron en un barco n kilómetros más, y luego hicieron en la bicicleta tanto cuanto caminaron y navegaron en un barco a la vez. ¿Qué distancia hicieron los turistas?",
+			"Expressions": [
+				"m+(m+n)+(m+(m+n))"
+			],
+			"Answer": ""
+			},
+		"1-C-1-1.1": {
+			"Score": "50",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "De dos hormigueros salieron 2 hormigas una al encuentro de la otra. La velocidad de la primera hormiga es 6 m / h, de la segunda - 8 m / h. ¿Cuánto se acercan durante 1 hora?",
+			"Expressions": [
+				"6+8"
+			],
+			"Answer": "14"
+			},
+		"1-C-1-1.2": {
+			"Score": "50",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "De dos colmenas salieron 2 obejas una al encuentro de la otra. Una abeja voló 8 m, y la segunda - 7 metros. ¿En cuántos metros se acercaron las abejas?",
+			"Expressions": [
+				"8+7"
+			],
+			"Answer": "15"
+			},
+		"1-C-1-2.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Desde los puntos A y B salieron el ciclista y el motociclista uno al encuentro del otro. El ciclista viaja a una velocidad de 8 km / h, y el motociclista - a una velocidad de 12 km/h. ¿En cuántos kilómetros se acercaron el ciclista y el motociclista en 1 hora?",
+			"Expressions": [
+				"8+12"
+			],
+			"Answer": "20"
+			},
+		"1-C-1-2.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Cheburashka y el cocodrilo Gena salieron uno al encuentro del otro. Cheburashka hizo 7 metros, y Gena hizo 6 m. ¿En cuántos kilómetros se acercaron los amigos?",
+			"Expressions": [
+				"7+6"
+			],
+			"Answer": "13"
+			},
+		"1-C-1-2.3": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "De las dos ciudades salieron dos trenes el uno al encuentro del otro. Un tren viajó 9 km, el segundo - 7 km. ¿En cuántos kilómetros se acercaron los trenes?",
+			"Expressions": [
+				"9+7"
+			],
+			"Answer": "16"
+			},
+		"1-C-1-2.4": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos topos decidieron cavar un túnel entre sus madrigueras. Un topo excava a una velocidad de 6 cm / h, el segund0 - a una velocidad de 7 cm / h. ¿Cuántos centímetros excavan los ambos topos durante 1 hora?",
+			"Expressions": [
+				"6+7"
+			],
+			"Answer": "13"
+			},
+		"1-C-1-2.5": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Bob Esponja y Patrick salieron el uno al encuentro del otro. La velocidad de Bob Esponja es de 5 km / h, y la velocidad de Patrick es de 4 km/h. ¿En cuántos kilómetros se reducirá la distancia entre los amigos dentro de 1 hora?",
+			"Expressions": [
+				"5+4"
+			],
+			"Answer": "9"
+			},
+		"1-C-1-2.6": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Katia va a la tienda, y su madre va a su encuentro. Katia hizo 8 y su mamá hizo 9 m. ¿En cuántos metros se redujo la distancia entre Katia y su madre?",
+			"Expressions": [
+				"8+9"
+			],
+			"Answer": "17"
+			},
+		"1-C-1-2.7": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos liebres corren el uno al encuentro del otro a un bancal de repollo. La velocidad de la primera liebre es de 8 km / h, y de la segunda - 10 km / h. ¿En cuántos kilómetros las liebres se acercarán en 1 hora?",
+			"Expressions": [
+				"8+10"
+			],
+			"Answer": "18"
+			},
+		"1-C-1-2.8": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos barcos navegan por el lago el uno al encuentro del otro. La velocidad de cada barco es 7 km/h. ¿En cuántos kilómetros se acercarán los barcos en 1 hora?",
+			"Expressions": [
+				"7+7"
+			],
+			"Answer": "14"
+			},
+		"1-C-1-2.9": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos hormigas se arrastran  a un hormiguero desde diferentes lados. A velocidad de la primera hormiga es 4m/min, de la segunda - 5 m / min. ¿En cuántos metros se acercarán las hormigas en 1 minuto?",
+			"Expressions": [
+				"4+5"
+			],
+			"Answer": "9"
+			},
+		"1-C-1-2.10": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Sasha y Sergei salieron el uno al encuentro del otro. Sasha hizo 11 metros y Sergei - 8 metros. ¿En cuántos metros de redujo la distancia entre los chicos?",
+			"Expressions": [
+				"11+8"
+			],
+			"Answer": "19"
+			},
+        "1-C-1-2.11": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos perros corren uno hacia el otro a una velocidad de 7 km/h. ¿Cuántos kilómetros se acercarán durante una hora?",
+			"Expressions": [
+				"7+7"
+			],
+			"Answer": "14"
+			},
+		"1-C-2-1.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Winnie  Pooh y Piatachok salieron el uno al encuentro del otro. La velocidad de Piatachok es 8 m / min, y la velocidad de Winnie Pooh es 2 metros por minuto más. ¿En cuántos metros por minuto se acercan los amigos?",
+			"Expressions": [
+				"8+(8+2)"
+			],
+			"Answer": "18"
+			},
+		"1-C-2-1.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos amigos salieron el uno al encuentro del otro. El primer hizo 9 km, y el segundo hizo 2 km menos. ¿En cuántos kilómetros se acercaron los amigos?",
+			"Expressions": [
+				"9+(9-2)"
+			],
+			"Answer": "16"
+			},
+		"1-C-2-2.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos zorros salieron corriendo de sus madrigueras el uno al encuentro del otro. El primer zorro corre a una velocidad de 4 m / min, y el segundo - a 1 m / min más rápido. ¿En cuántos metros se acercaron los zorros en 1 minuto?",
+			"Expressions": [
+				"4+(4+1)"
+			],
+			"Answer": "9"
+			},
+		"1-C-2-2.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El Pinocho y Papa Carlo van el uno al encuentro del otro. El Pinocho hizo 8 m, y Papa Carlo - 2 m menos. ¿En cuántos metros se redujo la distancia entre Pinocho y Papa Carlo?",
+			"Expressions": [
+				"8+(8-2)"
+			],
+			"Answer": "14"
+			},
+		"1-C-2-2.3": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos barcos navegan el uno al encuentro del otro. La velocidad del primer barco es 10 km/h, y la del segundo - a 2 km/h menos. ¿En cuántos kilómetros se acercaron los barcos en 1 hora?",
+			"Expressions": [
+				"10+(10-2)"
+			],
+			"Answer": "18"
+			},
+		"1-C-2-2.4": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "De las dos ciudades salieron dos trenes el uno al encuentro del otro. El primer tren hizo 12 km, y el segundo 4 km menos. ¿En cuántos kilómetros se redujo la distancia entre los trenes?",
+			"Expressions": [
+				"12+(12-4)"
+			],
+			"Answer": "20"
+			},
+		"1-C-2-2.5": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos esquiadores salieron el uno al encuentro del otro. La velocidad del primer esquiador es 7 km / h, y del segundo es 3 km / h más. ¿En cuántos kilómetros se acercan los esquiadores en 1 hora?",
+			"Expressions": [
+				"7+(7+3)"
+			],
+			"Answer": "17"
+			},
+		"1-C-2-2.6": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Papá Noel y Blancanieves van el uno al encuentro de la otra. Papá Noel hizo 8 metros y la Blancanieves hizo 3 metros más. ¿En cuántos metros se redujo la distancia entre Papá Noel y Blancanieves?",
+			"Expressions": [
+				"8+(8+3)"
+			],
+			"Answer": "19"
+			},
+		"1-C-2-2.7": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos renacuajos flotan el uno al encuentro del otro. El primer renacuajo flota a una velocidad de 8 m / min, y el segundo - a 2 m / min más rápido. ¿En cuántos metros se reducirá la distancia entre los renacuajos en un minuto?",
+			"Expressions": [
+				"8+(8+2)"
+			],
+			"Answer": "18"
+			},
+		"1-C-2-2.8": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos escarabajos se arrastran en el árbol el uno al encuentro del otro. El primer escarabajo se arrastra a una velocidad de 2 dm / min más rápido que el segundo, y el segundo se arrastra a una velocidad de 9 dm / min. ¿En cuántos decimetros se reducirá la distancia entre los escarabajos en 1 minuto?",
+			"Expressions": [
+				"(2+9)+9"
+			],
+			"Answer": "20"
+			},
+		"1-C-2-2.9": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos excavadoras están excavando una zanja la una al encuentro de la otra. La primera excavadora en una hora excava 9 m, y la segunda - 1 m menos. ¿En cuántos metros se acercarán las excavadoras en 1 hora?",
+			"Expressions": [
+				"9+(9-1)"
+			],
+			"Answer": "17"
+			},
+		"1-C-2-2.10": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos grupos de turistas van el uno al encuentro del otro. El primer grupo hizo 5 km, y el segundo - 3 km más. ¿En cuántos kilómetros se acercaron los grupos de turistas?",
+			"Expressions": [
+				"5+(5+3)"
+			],
+			"Answer": "13"
+			},
+        "1-C-2-2.11": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos elefantes caminan el uno al encuentro del otro, el primer elefante va a una velocidad de 3 km / h más rápido que el segundo, y el segundo va a una velocidad de 8 km/h. ¿En cuántos kilómetros se acercaráne dos elefantes en una hora?",
+			"Expressions": [
+				"(8+3)+8"
+			],
+			"Answer": "19"
+			},
+		"1-C-3-1.1": {
+			"Score": "150",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El Perro Sharik y el gato Matroskin salieron el uno al encuentro del otro. La velocidad de Matroskina es 5 km / h lo que es a 2 km / h menos que la velocidad de Sharik. ¿En cuántos kilómetros se acercan el gato y el perro?",
+			"Expressions": [
+				"5+(5+2)"
+			],
+			"Answer": "12"
+			},
+		"1-C-3-1.2": {
+			"Score": "150",
+			"Animation": "1_c3_12_N.swf",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "La distancia entre las casitas del Niño y Carlson es 18 m. Los amigos salieron el uno al encuentro del otro. El Niño hizo ya 5 m y Carlson - 7 m. ¿Cuál es la distancia entre los amigos? (Animación para la tarea)",
+			"Expressions": [
+				"18-(5+7)",
+				"18-5-7"
+			],
+			"Answer": "6"
+			},
+		"1-C-3-2.1": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "De las dos ciudades, la distancia entre las cuales es 19 km, salieron dos peatones el uno al encuentro del otro. El primer peatón hizo 6 km, y el segundo - 7 km. ¿Cuál es la distancia entre los peatones?",
+			"Expressions": [
+				"19-(6+7)",
+				"19-6-7"
+			],
+			"Answer": "6"
+			},
+		"1-C-3-2.2": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Sergio va a la biblioteca a una velocidad de 5 km/h. María salió a su encuentro. Ella va a una velocidad de 2 km / h menos. ¿Cuántos kilómetros se disminuirá la distancia entre Sergio y María en una hora?",
+			"Expressions": [
+				"5+(5 -2)"
+			],
+			"Answer": "8"
+			},
+		"1-C-3-2.3": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Desde el punto A al punto B salió el ciclista a una velocidad de 12 km/h. Desde el punto B al punto A salió el peatón. La velocidad de movimiento del peatón es 8 km / h menos que la velocidad del ciclista. ¿En cuántos kilómetros se acercarán el peatón y el ciclista en 1 hora?",
+			"Expressions": [
+				"12+(12-8)"
+			],
+			"Answer": "16"
+			},
+		"1-C-3-2.4": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos hormigas salieron de los dos hormigueros una al encuentro de la otra. La distancia entre los hormigueros es 17 m. Cada hormiga hizo 5m. ¿Cuál es la distancia entre las hormigas?",
+			"Expressions": [
+				"17-(5+5)",
+				"17-5-5"
+			],
+			"Answer": "7"
+			},
+		"1-C-3-2.5": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Un perro y un gato van el uno al encuentro del otro. La velocidad del gato es 5 km/h lo que es 2 km/h menos que la velocidad del perro. ¿Cuántos kilómetros se habrán hacercado en una hora?",
+			"Expressions": [
+				"5+(5+2)"
+			],
+			"Answer": "12"
+			},
+		"1-C-3-2.6": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Casa y escuela distan 7 km. De los edificios mencionados salieron una madre y su hijo una hacia el otro. El hijo recorrió 3 km, su madre - 2 km. ¿Qué distancia les falta por recorrer para encontrarse?",
+			"Expressions": [
+				"7-(3+2)",
+				"7-3-2"
+			],
+			"Answer": "2"
+			},
+		"1-C-3-2.7": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Vasia y Petia van el uno al encuentro del otro. La velocidad de Vasia es de 4 km / h, y la velocidad de Petia es 2 km / h más. ¿En cuántos kilómetros se acercarán los niños en una hora?",
+			"Expressions": [
+				"4+(4+2)"
+			],
+			"Answer": "10"
+			},
+		"1-C-3-2.8": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El perro Sharik vuelve de caza del bosque a una velocidad de 6 km / h, el cartero Pechkin va a su encuentro por un sendero a una velocidad de 2 km / h menos que Sharik. ¿En cuántos kilómetros se reducirá la distancia entre el perro Sharik y Pechkin en una hora?",
+			"Expressions": [
+				"6+(6-2)"
+			],
+			"Answer": "10"
+			},
+		"1-C-3-2.9": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos serpientes se arrastran el uno al encuentro del otro de dos árboles. La distancia entre los árboles es 19 metros. La primera serpiente hizo 6 m, y la segunda - 8 m. ¿Cuál es la distancia entre las serpientes?",
+			"Expressions": [
+				"19-(6+8)",
+				"19-6-8"
+			],
+			"Answer": "5"
+			},
+		"1-C-3-2.10": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos mariposas vuelan la una al encuentro de la otra. La velocidad de la primera mariposa es 4 m / min, y de la segunda - 2 m / min más. ¿En cuántos metros de acercan las mariposas cada minuto?",
+			"Expressions": [
+				"4+(4+2)"
+			],
+			"Answer": "10"
+			},
+        "1-C-3-2.11": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Desde el punto A al punto B salío el peatón a una velocidad de 3 km/h. Desde el punto B al punto A salío el ciclista a una velocidad de 8 km/h. La distancia entre A y B es 19 km. ¿Cuál será la distancia entre el peatón y el ciclista en 1 hora?",
+			"Expressions": [
+				"19-(3+8)",
+				"19-3-8"
+			],
+			"Answer": "8"
+			},
+		"1-C-4-1.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El peque Roo y Christopher Robin viven a una distancia de 15 km entre sí. Fijaron una cita y salieron el uno al encuentro del otro. Christopher Robin hizo 4 km y el peque Roo - 5 km más. ¿Cuál es la distancia que se les queda por recorrer a los amigos hasta su encuentro?",
+			"Expressions": [
+				"15-(4+(4+5))",
+				"15-4-(4+5)"
+			],
+			"Answer": "2"
+			},
+		"1-C-4-1.2": {
+			"Score": "200",
+			"Animation": "1_c4_12_N.swf",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dima y Víctor salieron el uno al encuentro del otro. Dima fue a una velocidad de 3 km / h, y Victor - fue a una velocidad de 2 km/h. ¿En cuántos kilómetros se acercarán los amigos en 2 horas?",
+			"Expressions": [
+				"(3+2)+(3+2)"
+			],
+			"Answer": "10"
+			},
+		"1-C-4-2.1": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "De las dos ciudades salieron dos autobuses el uno al encuentro del otro. El primer autobús hizo 7 km, y el segundo - 2 km menos. ¿Cuántos kilómetros tienen que hacer los autobuses hasta su encuentro, si la distancia entre las ciudades es 16 km?",
+			"Expressions": [
+				"16-(7+(7-2))",
+				"16-7-(7-2)"
+			],
+			"Answer": "4"
+			},
+		"1-C-4-2.2": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Artemón y Malvina van el uno al encuentro de la otra. Artemón va a una velocidad de 6 km / h, y Malvina a una velocidad de 2 km / h menos. ¿En cuántos kilómetros se acercarán en 2 horas?",
+			"Expressions": [
+				"(6+(6-2))+(6+(6-2))"			
+                ],
+			"Answer": "20"
+			},
+		"1-C-4-2.3": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos ratones saliron corriendo de sus madrigueras el uno al encuentro del otro. El primer ratón corrió 5 m, y el segundo - 2 m menos. La distancia entre sus madrigueras es 15m. ¿Cuál es la distancia que se les queda hacer a los ratones hasta su encuentro?",
+			"Expressions": [
+				"15-(5+(5-2)",
+				"15-5-(5-2)"
+			],
+			"Answer": "7"
+			},
+		"1-C-4-2.4": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "De dos pueblos dos perros salieron corriendo el uno al encuentro del otro. La velocidad del primer perro es 4 km / h, y del segundo - 1 km / h más. ¿En cuántos kilómetros se acercan los perros en 2 horas?",
+			"Expressions": [
+				"(4+(4+1))+(4+(4+1))"
+			],
+			"Answer": "18"
+			},
+		"1-C-4-2.5": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos ballenas flotan la una al encuentro de la otra. La velocidad de la primera ballena es 3 m / min, de la segunda - 2 m / min. ¿En cuántos metros se acercarán las ballenas en 3 minutos?",
+			"Expressions": [
+				"(3+2)+(3+2)+(3+2)"
+			],
+			"Answer": "15"
+			},
+		"1-C-4-2.6": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El globo vuela hacia el encuentro del cuervo. La velocidad del cuervo es 4 m / min, y la del globo es 3 m / min menos. ¿En cuántos metros el cuervo se acercará al globo en 3 minutos?",
+			"Expressions": [
+				"(4+(4-3))+(4+(4-3))+(4+(4-3))"
+			],
+			"Answer": "15"
+			},
+		"1-C-4-2.7": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "La distancia entre los muelles es 18 km. Dos buques salieron desde los muelles el uno al encuentro del otro. El primer buque hizo 6 km y el segundo - 2 km más. ¿Cuál es la distancia entre los buques?",
+			"Expressions": [
+				"18-(6+(6+2))",
+				"18-6-(6+2)"
+			],
+			"Answer": "4"
+			},
+		"1-C-4-2.8": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos leones van el uno al encuentro del otro. El primer león va a una velocidad de 5 km / h, y el segundo - a una velocidad de 1 km / h menos. ¿En cuántos metros se acercan los leones en 2 horas?",
+			"Expressions": [
+				"(5+(5-1))+(5+(5-1))"
+			],
+			"Answer": "2"
+			},
+		"1-C-4-2.9": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Luda y Marina van la una al encuentro de la otra. Luda hizo 4 metros y Marina hizo 3 m más. Al principio la distancia entre las amigas fue 12 m. ¿Cuántos metros se les quedan a hacer hasta su encuentro?",
+			"Expressions": [
+				"12-(4+(4+3))",
+				"12-4-(4+3)"
+			],
+			"Answer": "1"
+			},
+		"1-C-4-2.10": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos cigüeñas salieron volando de sus nidos la una al encuentro de la otra. La distancia entre los nidos es 15 km. La primera cigüeña hizo 3 km, y la segunda - 3 km más. ¿Cuántos kilómetros tienen que volar las cigüeñas hasta su encuentro?",
+			"Expressions": [
+				"15-(3+(3+3))",
+				"15-3-(3+3)"
+			],
+			"Answer": "6"
+			},
+		"1-C-5-2.1": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "De dos hormigueros salieron 2 hormigas una al encuentro de la otra. La velocidad de la primera hormiga es v m / h, de la segunda - n m / h. ¿Cuánto se acercan durante 1 hora?",
+			"Expressions": [
+				"v+n"
+			],
+			"Answer": ""
+			},
+		"1-C-5-2.2": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "De dos colmenas salieron 2 obejas una al encuentro de la otra. Una abeja voló a m, y la segunda - b metros. ¿En cuántos metros se acercaron las abejas?",
+			"Expressions": [
+				"a+b"
+			],
+			"Answer": ""
+			},
+		"1-C-5-2.3": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Winnie  Pooh y Piatachok salieron el uno al encuentro del otro. La velocidad de Piatachok es x m / min, y la velocidad de Winnie Pooh es y metros por minuto más. ¿En cuántos metros por minuto se acercan los amigos?",
+			"Expressions": [
+				"x+(x+y)"
+			],
+			"Answer": ""
+			},
+		"1-C-5-2.4": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos amigos salieron el uno al encuentro del otro. El primer hizo a km, y el segundo hizo b km menos. ¿En cuántos kilómetros se acercaron los amigos?",
+			"Expressions": [
+				"a+(a-b)"
+			],
+			"Answer": ""
+			},
+		"1-C-5-2.5": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El Perro Sharik y el gato Matroskin salieron el uno al encuentro del otro. La velocidad de Matroskina es c km / h lo que es a d km / h menos que la velocidad de Sharik. ¿En cuántos kilómetros se acercan el gato y el perro?",
+			"Expressions": [
+				"c+(c+d)"
+			],
+			"Answer": ""
+			},
+		"1-C-5-2.6": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "La distancia entre las casitas del Niño y Carlson es v km. Los amigos salieron el uno al encuentro del otro. El Niño hizo ya m km y Carlson - n km. ¿Cuál es la distancia entre los amigos? (Animación para la tarea)",
+			"Expressions": [
+				"v-(m+n)",
+				"v-m-n"
+			],
+			"Answer": ""
+			},
+		"1-C-5-2.7": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "El peque Roo y Christopher Robin viven a una distancia de d km entre sí. Fijaron una cita y salieron el uno al encuentro del otro. Christopher Robin hizo c km y el peque Roo - b km más. ¿Cuál es la distancia que se les queda por recorrer a los amigos hasta su encuentro?",
+			"Expressions": [
+				"d-(c+(c+b))",
+				"d-c-(c+b)"
+			],
+			"Answer": ""
+			},
+		"1-C-5-2.8": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dima y Víctor salieron el uno al encuentro del otro. Dima fue a una velocidad de x km / h, y Victor - fue a una velocidad de y km/h. ¿En cuántos kilómetros se acercarán los amigos en 2 horas?",
+			"Expressions": [
+				"(x+y)+(x+y)"
+			],
+			"Answer": ""
+			},
+		"1-E-1-1.1": {
+			"Score": "50",
+			"Animation": "1_e1_11_N.swf",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos liebres, asustándose la una de la otra, corrieron en direcciones opuestas. Una liebre corrió a una velocidad de 3 km / h, y la otra - 2 km/h. ¿En cuánto se alejarán en 1 hora?",
+			"Expressions": [
+				"3+2"
+			],
+			"Answer": "5"
+			},
+		"1-E-1-1.2": {
+			"Score": "50",
+			"Animation": "1_e1_12_N.swf",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos liebres, asustándose la una de la otra, corrieron en direcciones opuestas. La primera liebre corrió 3 km, y la segunda - 2 km. ¿Cuál resultó la distancia entre las liebres?",
+			"Expressions": [
+				"3+2"
+			],
+			"Answer": "5"
+			},
+		"1-E-1-2.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos trenes salieron de una estación en direcciones opuestas. El primer tren hizo 5 km, y el segundo - 7 km. ¿Cuál resultó la distancia entre los trenes?",
+			"Expressions": [
+				"5+7"
+			],
+			"Answer": "12"
+			},
+		"1-E-1-2.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Lena y Olga salieron de la biblioteca y se fueron en direcciones opuestas. Lena fue con una velocidad de 3 km / h, y Olga - 4 km/h. ¿Cuál resultó la distancia entre las chicas en una hora?",
+			"Expressions": [
+				"3+4"
+			],
+			"Answer": "7"
+			},
+		"1-E-1-2.3": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos grupos de esquiadores salieron de la base en direcciones opuestas. Un grupo hizo 8 km, el segundo - 11 km. ¿Cuál resultó la distancia entre los esquiadores?",
+			"Expressions": [
+				"8+11"
+			],
+			"Answer": "19"
+			},
+		"1-E-1-2.4": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos tractores salieron del pueblo en direcciones opuestas. El primer tractor se desplaza a una velocidad de 8 km / h, y el segundo - a una velocidad de 9 km/h. ¿Cuál resultó la distancia entre los tractores en una hora?",
+			"Expressions": [
+				"8+9"
+			],
+			"Answer": "17"
+			},
+		"1-E-1-2.5": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos caracoles se arrastran sobre una hoja en direcciones opuestas. El primer caracol se arrastra 4 cm por hora, y la segunda - 3 cm. ¿Cómo se alejarán los caracoles un del otro en 1 hora?",
+			"Expressions": [
+				"4+3"
+			],
+			"Answer": "7"
+			},
+		"1-E-1-2.6": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos aviones salieron del aeropuerto en direcciones opuestas. El primer avión voló 11 km, y el segundo - 8 km. ¿Cuál es la distancia ahora entre los aviones?",
+			"Expressions": [
+				"11+8"
+			],
+			"Answer": "19"
+			},
+		"1-E-1-2.7": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "D golondrinas salieron volando del nido volando en direcciones opuestas. La primera golondrinas vuela a una velocidad de 4 m / s, y la segunda - a una velocidad de 6 m / s.  ¿Cuál será la distancia entre las golondrinas en un segundo?",
+			"Expressions": [
+				"4+6"
+			],
+			"Answer": "10"
+			},
+		"1-E-1-2.8": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Kolia y Sasha salieron de la escuela y se fueron en direcciones opuestas. La velocidad de Kolia es 5 km / h, y la de Sasha - 4 km / h. ¿En cuántos kilómetros se alejarán los niños en 1 hora?",
+			"Expressions": [
+				"5+4"
+			],
+			"Answer": "9"
+			},
+		"1-E-1-2.9": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos barcos salieron simultáneamente del muelle. Un barco flotó aguas arriba 8 km, y el otro flotó contra la corriente 5 km. ¿Cuál resultó la distancia entre los barcos?",
+			"Expressions": [
+				"8+5"
+			],
+			"Answer": "13"
+			},
+		"1-E-1-2.10": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Elena y su madre salieron de la casa. Lena fue a la escuela, y su madre se fue a trabajar en la dirección opuesta. La velocidad de Lena es 3 km / h, y la de madre es 5 km/h. ¿En cuántos kilómetros se alejan madre y su hija en 1 hora?",
+			"Expressions": [
+				"3+5"
+			],
+			"Answer": "8"
+			},
+        "1-E-1-2.11": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Desde el aeróstato, que se eleva a una velocidad de 4 km / h, han echado el lastre. El lastre voló hacia abajo con una velocidad de 9 km/h. ¿Cuál será la distancia entre el aeróstato y el lastre en 1 hora?",
+			"Expressions": [
+				"4+9"
+			],
+			"Answer": "13"
+			},
+        "1-E-1-2.12": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Desde la base turística al mismo tiempo salieron dos grupos en direcciones opuestas. La velocidad de los dos grupos es la misma y es igual a 9 km/h. ¿Cuál será la distancia entre los grupos en una hora?",
+			"Expressions": [
+				"9+9"
+			],
+			"Answer": "18"
+			},
+        "1-E-1-2.13": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos grupos de turistas salieron de un hotel y se fueron en direcciones opuestas. Uno de los grupos recorrió 18 kilómetros, el segundo - 17 km. ¿Cuál es la distancia entre los turistas?",
+			"Expressions": [
+				"18+17"
+			],
+			"Answer": "35"
+			},
+		"1-E-2-1.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos zorros corrieron en direcciones opuestas. La velocidad de un zorro es 4 km / h y la del otro es 2 km / h más. ¿En cuántos kilómetros se alejarán los zorros uno del otro en una hora?",
+			"Expressions": [
+				"4+(4+2)"
+			],
+			"Answer": "10"
+			},
+		"1-E-2-1.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos chicos corrieron de la escuela en direcciones opuestas. Uno de ellos corrió 7 km, y el otro -  3 km menos. ¿Cuál es la distancia ahora entre los chicos?",
+			"Expressions": [
+				"7+(7-3)"
+			],
+			"Answer": "11"
+			},
+		"1-E-2-2.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El perro Sharik y el gato Matroskin salieron de la casa. Skarik se fue al bosque y Matroskin se fue a pescar en la dirección opuesta. Sharik va a un avelocidad de 6 km / h, y el gato a 2 km / h más lentamente. ¿En cuántos kilómetros se alejan el perro y el gato el uno del otro en 1 hora?",
+			"Expressions": [
+				"6+(6-2)"
+			],
+			"Answer": "10"
+			},
+		"1-E-2-2.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos camiones salieron de la ciudad en las direcciones opuestas. El primer camión hizo 8 km, y el segundo - 3 km más. ¿Cuál es la distancia ahora entre los camiones?",
+			"Expressions": [
+				"8+(8+3)"
+			],
+			"Answer": "19"
+			},
+		"1-E-2-2.3": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Papá Noel y Blancanieves se fueron a la fiesta de los niños en direcciones opuestas. Blancanieves hizo 7 km, y Papá Noel - 3 km más. ¿Cuál es la distancia ahora entre el abuelo y su nieta?",
+			"Expressions": [
+				"7+(7+3)"
+			],
+			"Answer": "17"
+			},
+		"1-E-2-2.4": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos osos salieron de la madriguera y se fueron en direcciones opuestas. Un oso camina a una velocidad de 11 km / h, y el segundo - a 4 km / h más lento. ¿En cuántos kilómetros los osos se elejarán el uno del otro en una hora?",
+			"Expressions": [
+				"11+(11-4)"
+			],
+			"Answer": "18"
+			},
+		"1-E-2-2.5": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Durante el juego a las escondidas Ana y Olga corrieron en direcciones opuestas. Ana corrió 6 m, y Olga corrió 3 m más. ¿A qué distancia una de la otra se escondieron las chicas?",
+			"Expressions": [
+				"6+(6+3)"
+			],
+			"Answer": "15"
+			},
+		"1-E-2-2.6": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos ciclistas salieron simultáneamente del pueblo en direcciones opuestas. El primer ciclista va a una velocidad de 9 km / h, y el segundo - a 2 km / h más rápido. ¿En cuántos kilómetros los ciclistas se alejan el uno del otro en una hora?",
+			"Expressions": [
+				"9+(9+2)"
+			],
+			"Answer": "20"
+			},
+		"1-E-2-2.7": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos trenes salieron al mismo tiempo desde la estación de trenes en direcciones opuestas. El primer tren hizo 6 km y el segundo hizo 5 km más. ¿Cuál es la distancia ahora entre los trenes?",
+			"Expressions": [
+				"6+(6+5)"
+			],
+			"Answer": "17"
+			},
+		"1-E-2-2.8": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Una balsa y un barco salieron al mismo tiempo del muelle. La balsa flotó aguas arriba 3 km, y el barco flotó contra corriente 12 km más que la balsa. ¿Cuál es la distancia actual entre la balsa y el barco?",
+			"Expressions": [
+				"3+(3+12)"
+			],
+			"Answer": "18"
+			},
+		"1-E-2-2.9": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Vintik y Shpuntik salieron de la casa en direcciones opuestas. Vintik condujo el coche a una velocidad de 12 km / h, y Shpuntik caminó a una velocidad de 8 km / h menos. ¿En cuántos",
+			"Expressions": [
+				"12+(12-8)"
+			],
+			"Answer": "16"
+			},
+		"1-E-2-2.10": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Masha y el oso salieron de la casa. Masha fue a recoger bayas a una velocidad de 4 km / h, y el oso se fue por la miel en la dirección opuesta. El oso va más rápido que Masha a 3 km/h. ¿Qué distancia será entre la niña y el oso en una hora?",
+			"Expressions": [
+				"4+(4+3)"
+			],
+			"Answer": "11"
+			},
+        "1-E-2-2.11": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Al oír al gato, dos ratones corrieron en direcciones opuestas. La velocidad del primer ratón es 3 m / s, y la del segundo es 1 m / s más. ¿En cuántos metros los ratones se alejan el uno del otro en 1 segundo?",
+			"Expressions": [
+				"3+(3+1)"
+			],
+			"Answer": "7"
+			},
+        "1-E-2-2.12": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Kolia y Artem salieron de la escuela y se fueron en diferentes direcciones. La velocidad de Kolia es 2 km / h menos que la velocidad de Artem. La velocidad de Artem es 3 km/h. ¿En cuántos kilómetros los niños se alejan el uno del otro en 1 hora?",
+			"Expressions": [
+				"3+(3-2)"
+			],
+			"Answer": "4"
+			},
+        "1-E-2-2.13": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "David y su madre salieron de su apartamento. La madre comenzó a subir las escaleras para visitar a su vecina y David comenzó a bajar las escaleras para salir a la calle. La madre iba a una velocidad de 3 pisos por minuto y David –  1 piso por minuto más rápido. ¿Cuántos pisos habrían entre David y su madre en 1 minuto?",
+			"Expressions": [
+				"3+(3+1)"
+			],
+			"Answer": "7"
+			},
+		"1-E-3-1.1": {
+			"Score": "150",
+			"Animation": "1_e3_11_N.swf",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Vasia y Petia, al salir del cine, se fueron en diferentes direcciones. Vasia hizo 4 km. ¿Cuántos kilómetros hizo Petia, si la distancia entre los chicos es 7 km?",
+			"Expressions": [
+				"7-4"
+			],
+			"Answer": "3"
+			},
+		"1-E-3-1.2": {
+			"Score": "150",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A una señal dos lobos corrieron del tocón en direcciones opuestas. La velocidad de un lobo es 6 km / h lo que es a 1 km / h más que la velocidad del segundo lobo. ¿En cuántos km/h los lobos se alejarán el uno del otro?",
+			"Expressions": [
+				"6+(6-1)"
+			],
+			"Answer": "11"
+			},
+		"1-E-3-2.1": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos coches  al mismo tiempo salieron de la ciudad en direcciones opuestas. El primer coche hizo 9 km. ¿Cuántos kilómetros hizo el segundo coche, si la distancia entre los coches es 17 kilómetros?",
+			"Expressions": [
+				"17-9"
+			],
+			"Answer": "8"
+			},
+		"1-E-3-2.2": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "David y Victor salieron de una tienda y se fueron en direcciones opuestas. David recorrió 9 km. ¿Cuántos kilómetros recorrió Victor, si la distancia entre los muchachos ahora es de 17 km?",
+			"Expressions": [
+				"17-9"
+			],
+			"Answer": "8"
+			},
+		"1-E-3-2.3": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos atletas corren en direcciones opuestas. La velocidad del primer atleta es 7 m/s lo que es 1 m/s más que la velocidad del segundo atleta. ¿En cuántos m se aumentó la distancia entre los atletas?",
+			"Expressions": [
+				"7+(7–1)"
+			],
+			"Answer": "13"
+			},
+		"1-E-3-2.4": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos aviones salieron volando desde el aeropuerto en diferentes direcciones. El primer avión voló 8 kilómetros. ¿Cuántos kilómetros ha hecho el segundo avión, si la distancia entre ellos es 19 km?",
+			"Expressions": [
+				"19-8"
+			],
+			"Answer": "11"
+			},
+		"1-E-3-2.5": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos tranvías acuáticos salieron del muelle. Un tranvía acuático navegó aguas arriba 5 km. ¿Cuántos kilómetros navegó contra corriente el segundo tranvía acuático, si ahora la distancia entre los tranvías es12 km?",
+			"Expressions": [
+				"12-5"
+			],
+			"Answer": "7"
+			},
+		"1-E-3-2.6": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos pollos se pelearon y se fueron en diferentes direcciones. El primer pollo hizo 6 m. ¿Cuántos metros hizo el segundo pollo, si la distancia entre ellos es 15 metros?",
+			"Expressions": [
+				"15-6"
+			],
+			"Answer": "9"
+			},
+        "1-E-3-2.7": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos ardillas salieron de los huecos. Una ardilla subió encima del árbol después de correr 8 m. La segunda ardilla bajó al suelo. ¿Cuántos metros corrió la segunda ardilla si la altura del árbol es 17 m?",
+			"Expressions": [
+				"17-8"
+			],
+			"Answer": "9"
+			},
+		"1-E-3-2.8": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Chipolino y la Cereza salieron de la casa de Calabaza y se fueron en direcciones opuestas. Ahora la distancia entre los chicos es 8 km. ¿Cuántos kilómetros hizo la Cereza, si Chipolino hizo 5 kilómetros?",
+			"Expressions": [
+				"8-5"
+			],
+			"Answer": "3"
+			},
+		"1-E-3-2.9": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos camiones de bomberos fueron en direcciones opuestas. El primer coche hizo 5 km. ¿Cuántos kilómetros hizo el segundo coche, si la distancia entre los incendios es 17 kilómetros?",
+			"Expressions": [
+				"17-5"
+			],
+			"Answer": "12"
+			},
+		"1-E-3-2.10": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El pétalo amarillo de la Flor Semitsvetik voló al oeste, y el rojo - al este. El pétalo amarillo está volando a una velocidad de 6 m / min, y el rojo - 1 m / min más rápido. ¿Qué será la distancia entre los pétalos en un minuto?",
+			"Expressions": [
+				"6+(6+1)"
+			],
+			"Answer": "13"
+			},
+		"1-E-4-1.1": {
+			"Score": "200",
+			"Animation": "1_e4_11_N.swf",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Después de salir de la tienda Katia Lena fueron en direcciones opuestas. Katia se fue a una velocidad de 3 km / h, y Lena - a 4 km/h. ¿Cuál será la distancia entre las chicas en 2 horas?",
+			"Expressions": [
+				"(3+4)+(3+4)"
+			],
+			"Answer": "14"
+			},
+		"1-E-4-1.2": {
+			"Score": "200",
+			"Animation": "1_e4_12_N.swf",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Igor y Sergei salieron de la casa y se fueron en direcciones opuestas. Igor hizo 2 km y Sergei hizo 3 kilómetros. ¿Cuántos kilómetros tienen que hacer los chicos para que la distancia entre ellos sea 9 km?",
+			"Expressions": [
+				"9-(2+3)",
+				"9-2-3"
+			],
+			"Answer": ""
+			},
+		"1-E-4-2.1": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos caracoles se arrastran de la flor en direcciones opuestas. El primer caracol se arrastra 3 m al día, y el segundo - 4 m. ¿Cuál será la distancia entre los caracoles en 2 días?",
+			"Expressions": [
+				"(3+4)+(3+4)"
+			],
+			"Answer": "14"
+			},
+		"1-E-4-2.2": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "El Lobo y la Caperucita Roja salieron de la casa de la abuela y se fueron en diferentes direcciones. El Lobo va a una velocidad de 5 km / h, y la Caperucita Roja - a 2 km / h más lentamente. ¿Qué distancia habrá entre la niña y el lobo en 2 horas?",
+			"Expressions": [
+				"(5+(5-2))+(5+(5-2))"
+			],
+			"Answer": "16"
+			},
+		"1-E-4-2.3": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos osos se metieron en la colmena. Una vez les mordieron las abejas, los osos corrieron en diferentes direcciones. El primer oso corrió 4 kilómetros, y el segundo - 3 kilómetros. ¿Cuántos kilómetros más tienen que correr los osos para que la distancia entre ellos sea 13 kilómetros?",
+			"Expressions": [
+				"13-(4+3)",
+				"13-4-3"
+			],
+			"Answer": "6"
+			},
+		"1-E-4-2.4": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Desde la estación salieron dos autobuses en direcciones opuestas. Un autobús hizo 5 kilómetros, y los otro - 6 kilómetros. ¿Cuántos kilómetros más tienen que hacer los autobuses para que la distancia entre ellos sea 19 km?",
+			"Expressions": [
+				"19-(5+6)",
+				"19-5-6"
+			],
+			"Answer": "8"
+			},
+		"1-E-4-2.5": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos peatones salieron del punto A en direcciones opuestas. La velocidad del primer peatón es 3 km / h, y la del segundo - 2 km / h más. ¿Cuál será la distancia entre los peatones en 2 horas?",
+			"Expressions": [
+				"(3+(3+2))+(3+(3+2))"
+			],
+			"Answer": "16"
+			},
+		"1-E-4-2.6": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos topos están cavando una madriguera en las direcciones opuestas. Un topo puede cavar 5 dm en una hora, y el segundo 1 dm menos. ¿En cuántos dm se aumentará la longitud del túnel en 2 horas?",
+			"Expressions": [
+				"5+(5-1)+5+(5-1)"
+			],
+			"Answer": "18"
+			},
+		"1-E-4-2.7": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Después del partido de fútbol Slava y Jenia salieron del estadio y se fueron en diferentes direcciones con la misma velocidad de 3 km/h. ¿Cuál será la distancia entre los chicos en 3 horas?",
+			"Expressions": [
+				"(3+3)+(3+3)+(3+3)"
+			],
+			"Answer": "18"
+			},
+		"1-E-4-2.8": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dos mariposas que revoloteaban por encima del azulejo, volaron en direcciones opuestas. La velocidad de la primera mariposa es 2 m / s, y la de la segunda - 3 m / s. ¿Cuál será la distancia entre mariposas en 4 segundos?",
+			"Expressions": [
+				"(2+3)+(2+3)"
+			],
+			"Answer": "10"
+			},
+		"1-E-5-2.1": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos liebres, asustándose la una de la otra, corrieron en direcciones opuestas. Una liebre corrió a una velocidad de x km / h, y la otra - y km/h. ¿En cuánto se alejarán en 1 hora?",
+			"Expressions": [
+				"x+y"
+			],
+			"Answer": ""
+			},
+		"1-E-5-2.2": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos liebres, asustándose la una de la otra, corrieron en direcciones opuestas. La primera liebre corrió a km, y la segunda - b km. ¿Cuál resultó la distancia entre las liebres?",
+			"Expressions": [
+				"a+b"
+			],
+			"Answer": ""
+			},
+		"1-E-5-2.3": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos zorros corrieron en direcciones opuestas. La velocidad de un zorro es c km / h y la del otro es d km / h más. ¿En cuántos kilómetros se alejarán los zorros uno del otro en una hora?",
+			"Expressions": [
+				"c+(c+d)"
+			],
+			"Answer": ""
+			},
+		"1-E-5-2.4": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dos chicos corrieron de la escuela en direcciones opuestas. Uno de ellos corrió n km, y el otro -  m km menos. ¿Cuál es la distancia ahora entre los chicos?",
+			"Expressions": [
+				"n+(n-m)"
+			],
+			"Answer": ""
+			},
+		"1-E-5-2.5": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Vasia y Petia, al salir del cine, se fueron en diferentes direcciones. Vasia hizo k km. ¿Cuántos kilómetros hizo Petia, si la distancia entre los chicos es v km?",
+			"Expressions": [
+				"v-k"
+			],
+			"Answer": ""
+			},
+		"1-E-5-2.6": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A una señal dos lobos corrieron del tocón en direcciones opuestas. La velocidad de un lobo es x km / h lo que es a y km / h más que la velocidad del segundo lobo. ¿En cuántos km/h los lobos se alejarán el uno del otro?",
+			"Expressions": [
+				"x+(x-y)"
+			],
+			"Answer": ""
+			},
+		"1-E-5-2.7": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Después de salir de la tienda Katia Lena fueron en direcciones opuestas. Katia se fue a una velocidad de b km / h, y Lena - a c km/h. ¿Cuál será la distancia entre las chicas en 2 horas?",
+			"Expressions": [
+				"(b+c)+(b+c)"
+			],
+			"Answer": ""
+			},
+		"1-E-5-2.8": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Igor y Sergei salieron de la casa y se fueron en direcciones opuestas. Igor hizo l km y Sergei hizo t kilómetros. ¿Cuántos kilómetros tienen que hacer los chicos para que la distancia entre ellos sea v km?",
+			"Expressions": [
+				"v-(l+t)",
+				"v-l-t"
+			],
+			"Answer": ""
+			}
+		}
+}

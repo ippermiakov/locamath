@@ -1,0 +1,143 @@
+{
+	"tasks": [
+            {
+              "Points" : "800",
+              "Level" : "9-0-1-1",
+              "Objective": "In einer Reihe sind 8 Steine 2 cm voneinander entfernt. In zweiter Reihe sind 15 Steine 1 cm voneinander entfernt. Welche Reihe ist länger?",
+              "Tools" : ["Die erste Reihe ist länger", "Die zweite Reihe ist länger", "Die erste Reihe ist kürzer", "Die zweite Reihe ist kürzer", "Beide Reihen sind gleich"],
+              "BaseTools" : ["the 1st is longer", "the 2nd is longer", "the 1st is shorter", "the 2nd is shorter", "the same lenght"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["Beide Reihen sind gleich"] ],
+              "isAnyAnswerApplicable" : "0", 
+              "numOfToolsToFill" : "1",
+              "alignmentType" : "2",
+              "Answers": [ ["Beide Reihen sind gleich"] ]
+            },
+            {
+              "Points" : "800",
+              "Level" : "9-0-1-1",
+              "Objective": "Drei Katzchen – Kasjanka, Tom und Plut – haben Plötze, Barsch und Karausche aufgegessen. Tom hat keine Plötze gegessen. Kasjanka – weder Plötze, noch Barsch. Welchen Fisch hat jedes Kätzchen aufgegessen?",
+              "Tools" : ["Plötze", "Barsch", "Karausche"],
+              "BaseTools" : ["tuna", "trout", "salmon"],
+              "Hint" : ["Kasjanka - ...", "Tom - ...", "Plut - ..."],
+              "SolutionHint" : [ ["Karausche"], ["Barsch"], ["Plötze"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "1",
+              "alignmentType" : "2",
+              "Answers": [ ["Kasjanka - Karausche"], ["Tom - Barsch"], ["Plut - Plötze"] ]
+            },
+            {
+              "Points" : "800",
+              "Level" : "9-0-1-1",
+              "Objective": "Wie viele Abwiegen in Schalenwaagen ohne Gewichte muss man machen, um unter 9 gleichen dem Ansehen nach Münzen eine falsche zu finden? Wir wissen, dass die falsche Münze leichter als andere ist.",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["2"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["2"] ]
+            },
+            {
+              "Points" : "800",
+              "Level" : "9-0-1-1",
+              "Objective": "Setze fehlende Vorzeichen + oder – ein",
+              "Tools" : ["+", "-"],
+              "Hint" : ["a) 5...4...3...2...1 = 3", "b) 5...4...3...2...1 = 5"],
+              "SolutionHint" : [ ["+", "-", "-", "-"], ["+", "-", "-", "+"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "1",
+              "Answers": [ ["a) 5+4-3-2-1 = 3", "a) 5-4+3-2+1 = 3"], ["b) 5+4-3-2+1 = 5", "b) 5-4+3+2-1 = 5"] ]
+            },
+            {
+              "Points" : "1000",
+              "Level" : "9-0-1-2",
+              "Objective": "Ein Gänseschwarm fliegt. Eine Gans ist allen voran und zwei hinterher. Eine Ganz fliegt hinterher und zwei andere voran. Eine Gans ist zwischen zwei anderen und drei fliegen hintereinander. Wie viele Gänse fliegen?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["3"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["3"] ]
+            },
+            {
+              "Points" : "1000",
+              "Level" : "9-0-1-2",
+              "Objective": "Es war 9 Papierbogen. Einige waren in drei Teile zerschnitten. Es gab insgesamt 15 Bogen. Wie viele Papierbogen waren zerschnitten?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["3"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["3"] ]
+            },
+            {
+              "Points" : "1000",
+              "Level" : "9-0-1-2",
+              "Objective": "In einem Zimmer gibt es 4 Ecken. In jeder Ecke sitzt eine Katze. Gegenüber jeder Katze sitzen drei Katzen. Wie viele Katzen gibt es im Zimmer?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["..."],
+              "SolutionHint" : [ ["4"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "3",
+              "Answers": [ ["4"] ]
+            },
+            {
+              "Points" : "1000",
+              "Level" : "9-0-1-2",
+              "Objective": "Danila hatte in zwei Taschen 20 Rubel. Als er aus einer Tasche in andere 6 Rubel hingelegt hat, in beiden Taschen waren Rubel in gleicher Summe. Wie viel Geld (in Rubel) hatte Danila in jeder Tasche am Anfang?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["...", "..."],
+              "SolutionHint" : [ ["16"], ["4"] ],
+              "isAnyAnswerApplicable" : "1",
+              "numOfToolsToFill" : "5",
+              "Answers": [ ["16"], ["4"] ]
+            },
+            {
+              "Points" : "1200",
+              "Level" : "9-0-1-3",
+              "Objective": "Vier Freunde haben untereinander 7 Flaschen mit Obstsaft in gleiche Teile geteilt. Die Umfänge der Flaschen waren 1 l., 2 l., 3 l., 4 l., 5 l., 6 l., 7 l. Wie haben sie die geteilt?",
+              "Tools" : ["1l", "2l", "3l", "4l", "5l", "6l", "7l"],
+              "BaseTools" : ["1L", "2L", "3L", "4L", "5L", "6L", "7L"],
+              "Hint" : ["...", "... und ...", "... und ...", "... und ..."],
+              "SolutionHint" : [ ["7l"], ["2l", "5l"], ["1l", "6l"], ["3l", "4l"] ],
+              "isAnyAnswerApplicable" : "1",
+              "numOfToolsToFill" : "1",
+              "alignmentType" : "2",
+              "Answers": [ ["7l"], ["2l und 5l", "5l und 2l"], ["1l und 6l", "6l und 1l"], ["3l und 4l", "4l und 3l"] ]
+            },
+            {
+              "Points" : "1200",
+              "Level" : "9-0-1-3",
+              "Objective": "Setze in leeren Quadratzellen Zahlen 4, 6, 9, 10, 11, 12 ein, damit das Quadrat „magisch“ wird. (Die Zahlensumme muss horizontal, vertikal und diagonal gleich sein.)",
+              "Tools" : ["4", "6", "9", "10", "11", "12"],
+              "Hint" : ["5......", "...8...", "7......"],
+              "SolutionHint" : [ ["10", "9"], ["12", "4"], ["6", "11"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "1",
+              "alignmentType" : "1",
+              "Answers": [ ["5109"], ["1284"], ["7611"] ]
+            },
+            {
+              "Points" : "1200",
+              "Level" : "9-0-1-3",
+              "Objective": "Setze anstatt Lücken solche Zahlen ein, damit die Summe jeder drei Zahlen, die nacheinander sind, 20 war.",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["3..................9"],
+              "SolutionHint" : [ ["9", "8", "3", "9", "8", "3"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "1",
+              "Answers": [ ["39839839"] ]
+            },
+            {
+              "Points" : "1200",
+              "Level" : "9-0-1-3",
+              "Objective": "In drei Vasen waren 27 Tulpen. Als man aus erster Vase 5 Tulpen in zweite und aus zweiter in dritte 3 Tulpen umgestellt hat,  in allen Vasen war gleiche Zahl der Tulpen. Wie viele Tulpen war es am Anfang?",
+              "Tools" : ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+              "Hint" : ["...", "...", "..."],
+              "SolutionHint" : [ ["14"], ["7"], ["6"] ],
+              "isAnyAnswerApplicable" : "0",
+              "numOfToolsToFill" : "5",
+              "Answers": [ ["14"], ["7"], ["6"] ]
+            }
+	]
+}

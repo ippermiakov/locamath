@@ -1,0 +1,3026 @@
+{
+	"tasks": {
+		"2-A-1-1.1": {
+			"Score": "50",
+			"Animation": "2_a1_13_N.swf",
+			"Hint": "ist das Mäuschen von der Höhle bis zum Feld durchgelaufen",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Das Mäuschenistvonder Höhlebiszur Tanne 20 m durchgelaufen, und von der Tanne bis zum Feld noch 34 m durchgelaufen. Welcher Abstand ist das Mäuschen von der Höhle bis zum Feld durchgelaufen.",
+			"Expressions": [
+				"20+34"
+			],
+			"Answer": "54"
+			},
+		"2-A-1-1.2": {
+			"Score": "50",
+			"Animation": "2-A-1-1.2",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Rotkäppchen will die Großmutter besuchen. Sie ist durch den Wald 30 Minuten gegangen und durch das Feld – 20 Minuten. Wie viele Minuten hat Rotkäppchen auf den ganzen Weg aufgewendet?",
+			"Expressions": [
+				"30+20"
+			],
+			"Answer": "50"
+			},
+		"2-A-1-1.3": {
+			"Score": "50",
+			"Animation": "2-A-1-1.3",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Der Zug muss 70 km fahren. Er ist schon 39 km durchgefahren. Wie viele Kilometer muss der Zug noch fahren?",
+			"Expressions": [
+				"70-39"
+			],
+			"Answer": "50"
+			},
+		"2-A-1-1.4": {
+			"Score": "50",
+			"Animation": "2-A-1-1.3",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Hans braucht für den Weg in die Schule 40 Minuten. Er geht schon 24 Minuten. Wie viele Minuten muss der Junge noch geht?",
+			"Expressions": [
+				"40-24"
+			],
+			"Answer": "16"
+			},
+		"2-A-1-2.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Baum ist für das erste Jahr um 3 mausgewachsen, und für das zweite Jahr – um 13 m. Um wie viele Meter ist der Baum für 2 Jahre gewachsen?",
+			"Expressions": [
+				"3+13"
+			],
+			"Answer": "16"
+			},
+		"2-A-1-2.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Das Mädchen ist vom Spielplatzbiszur Schaukel 33 m gegangen, und von der Schaukel bis zum Karussell - 57 m. Wie viele Meter ist das Mädchen vom Spielplatz bis zum Karussell durchgegangen?",
+			"Expressions": [
+				"33+57"
+			],
+			"Answer": "90"
+			},
+		"2-A-1-2.3": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Das Auto ist von der Stadt A bis zur Stadt B 37 km durchgefahren, und von der Stadt B bis zur Stadt C - 28 km. Wie viele Kilometer ist das Auto von der Stadt A bis zur Stadt C durchgefahren?",
+			"Expressions": [
+				"37+28"
+			],
+			"Answer": "65"
+			},
+		"2-A-1-2.4": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Flugzeug ist über das Meer 71 km durchgeflogen, und über das Land – 24 km. Welchen Abstand ist das Flugzeug durchgeflogen?",
+			"Expressions": [
+				"71+24"
+			],
+			"Answer": "95"
+			},
+		"2-A-1-2.5": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Helga ging aus der Schule bis zum Haus 23 Minuten, fuhr mit dem Fahrstuhl bis zur Wohnung 6 Minuten. Wie viele Minuten ist Helga von der Schule bis zur Wohnung gegangen?",
+			"Expressions": [
+				"23+6"
+			],
+			"Answer": "29"
+			},
+		"2-A-1-2.6": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Das Auto fuhr auf dem Feldweg 2 Stunden, auf der Autostraße – 4 Stunden. Wie viele Stunden ist das Auto gefahren?",
+			"Expressions": [
+				"2+4"
+			],
+			"Answer": "6"
+			},
+		"2-A-1-2.7": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Katze ist 12 Minuten schnell gelaufen, dann - 8 Minutenlangsam. Wie viele Minuten ist die Katze gelaufen?",
+			"Expressions": [
+				"12+8"
+			],
+			"Answer": "20"
+			},
+		"2-A-1-2.8": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Radfahrer ist 36 km für 2 Stunden gefahren. Mit welcher Geschwindigkeit ist der Radfahrer gefahren?",
+			"Expressions": [
+				"36/2"
+			],
+			"Answer": "18"
+			},
+		"2-A-1-2.9": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Junge ist 20 m für 10 Sekunden durchgelaufen. Mit welcher Geschwindigkeit ist der Junge gelaufen?",
+			"Expressions": [
+				"20/10"
+			],
+			"Answer": "2"
+			},
+		"2-A-1-2.10": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Für 3 Sekunden ist der Falke 78 m gelaufen. Welche Geschwindigkeit hat der Falke?",
+			"Expressions": [
+				"78/3"
+			],
+			"Answer": "26"
+			},
+		"2-A-1-2.11": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Schiläufer ist mit gleicher Geschwindigkeit 70 km für 5 Stunden gelaufen. Welche Geschwindigkeit hat der Schiläufer?",
+			"Expressions": [
+				"70/5"
+			],
+			"Answer": "14"
+			},
+		"2-A-1-2.12": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Schnellzug ist 450 km für 5 Stunden durchgefahren. Mit welcher Geschwindigkeit ist der Zug gefahren?",
+			"Expressions": [
+				"450/5"
+			],
+			"Answer": "90"
+			},
+		"2-A-1-2.13": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Für 2 Stunden ist der Hubschrauber 600 km durchgeflogen. Mit welcher Geschwindigkeit ist der Hubschrauber durchgeflogen?",
+			"Expressions": [
+				"600/2"
+			],
+			"Answer": "300"
+			},
+		"2-A-1-2.14": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Für 3 Tage ist das Kamel 240 km durchgegangen. Mit welcher Geschwindigkeit ist das Kamel gegangen?",
+			"Expressions": [
+				"240/3"
+			],
+			"Answer": "80"
+			},
+		"2-A-1-2.15": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Jäger ist ein Pferd 28 km geritten. DieGeschwindigkeitwar14 km/h. Wie viele Stunden hat er für den Weg aufgewendet?",
+			"Expressions": [
+				"28/14"
+			],
+			"Answer": "2"
+			},
+		"2-A-1-2.16": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Kreuzer ist 80 km mit der Geschwindigkeit 40 km/h geschwommen. Wie viele Stunden hat er aufgewendet?",
+			"Expressions": [
+				"80/40"
+			],
+			"Answer": "2"
+			},
+		"2-A-1-2.17": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Abstand zwischen der Stadt und der Siedlung ist 30 km. Wie viele Stunden braucht der Fußgänger, wenn seine Geschwindigkeit ist 6 km/h?",
+			"Expressions": [
+				"30/6"
+			],
+			"Answer": "5"
+			},
+		"2-A-1-2.18": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Saatkrähe ist 100 m mit der Geschwindigkeit 10 m/s durchgeflogen. Wie viele Sekunden ist sie geflogen?",
+			"Expressions": [
+				"100/10"
+			],
+			"Answer": "10"
+			},
+		"2-A-1-2.19": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Abstand von 240 km ist der Motorradfahrer mit der Geschwindigkeit von 40 km/h gefahren. Wieviele Stundenistder Motorradfahrergefahren?",
+			"Expressions": [
+				"240/40"
+			],
+			"Answer": "6"
+			},
+		"2-A-1-2.20": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Geschwindigkeitdes Lastzugesist 35 km/h. Der Zug ist 2 Stunden gefahren. Wie viele Kilometer ist er gefahren?",
+			"Expressions": [
+				"35*2"
+			],
+			"Answer": "70"
+			},
+		"2-A-1-2.21": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Adler ist mit der Geschwindigkeit von 30 m/s innerhalb von 6 s durchgeflogen. Wie viele Meter ist der Adler durchgeflogen?",
+			"Expressions": [
+				"30*6"
+			],
+			"Answer": "180"
+			},
+		"2-A-1-2.22": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Touristen sind 5 Stunden mit dem Boot mit der Geschwindigkeit von 12 km/h geschwommen. Welcher Abstand sind sie geschwommen?",
+			"Expressions": [
+				"5*12"
+			],
+			"Answer": "60"
+			},
+		"2-A-2-1.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Zug fährt mit der Geschwindigkeit von 64 km/h, und das Auto fährt mit der Geschwindigkeit um 2 km schneller. Mit welcher Geschwindigkeit fährt das Auto?",
+			"Expressions": [
+				"64+2"
+			],
+			"Answer": "66"
+			},
+		"2-A-2-1.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Vorortbahn ist 36 km durchgefahren, und der Passagierzug  ist um 16 km mehr durchgefahren. Wie viele Kilometer ist der Passagierzug  durchgefahren?",
+			"Expressions": [
+				"36+16"
+			],
+			"Answer": "52"
+			},
+		"2-A-2-1.3": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Vatervon Karlhat 27 Tage gearbeitet, und die Mutter hat um 6 Tage weniger gearbeitet. Wie viele Tage hat die Mutter gearbeitet?",
+			"Expressions": [
+				"27-6"
+			],
+			"Answer": "21"
+			},
+		"2-A-2-2.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Das Lastautofährtmitder Geschwindigkeitvon 46 km/h, und das Personenauto fährt um 32 km/h schneller. Mit welcher Geschwindigkeit fährt das Personenauto? ",
+			"Expressions": [
+				"46+32"
+			],
+			"Answer": "78"
+			},
+		"2-A-2-2.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Das Motorbootschwimmtmit der Geschwindigkeit von 36 km/h, und das Motorschiff – um 11 km/h langsamer. Mit welcher Geschwindigkeit schwimmt das Motorschiff?",
+			"Expressions": [
+				"36–11"
+			],
+			"Answer": "25"
+			},
+		"2-A-2-2.3": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Schwalbefliegtmitder Geschwindigkeit von 28 km/h, und der Kranich fliegt mit der Geschwindigkeit um 6 km/h langsamer. Mit welcher Geschwindigkeit fliegt der Kranich?",
+			"Expressions": [
+				"28–6"
+			],
+			"Answer": "22"
+			},
+		"2-A-2-2.4": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Das Auto fährt durch die Stadt mit der Geschwindigkeit von 52 km/h, und durch die Autostraße – um 23 km/h schneller. Mit welcher Geschwindigkeit fährt das Auto durch die Autostraße?",
+			"Expressions": [
+				"52+23"
+			],
+			"Answer": "75"
+			},
+		"2-A-2-2.5": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Passagierzug fährt mit der Geschwindigkeit von 64 km/h, und der Schnellzug– um 35 km/h schneller. Welche Geschwindigkeit hat der Schnellzug?",
+			"Expressions": [
+				"64+35"
+			],
+			"Answer": "99"
+			},
+		"2-A-2-2.6": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Reisende ist mit dem Zug 86 km gefahren, und mit dem Bus – um 23 km weniger. Wieviele Kilometerist der Reisendemit dem Bus gefahren?",
+			"Expressions": [
+				"86–23"
+			],
+			"Answer": "63"
+			},
+		"2-A-2-2.7": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Rotkäppchen ging durch den Wald 47 m, und durch das Feld – um 39 m mehr. Wieviele Kilometerging Rotkäppchen durch das Feld?",
+			"Expressions": [
+				"47+39"
+			],
+			"Answer": "86"
+			},
+		"2-A-2-2.8": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Karla muss zur Schule 72 m gehen, und Lina muss um 14 m weniger gehen. Wie viele Meter geht Lina zur Schule?",
+			"Expressions": [
+				"72–14"
+			],
+			"Answer": "58"
+			},
+		"2-A-2-2.9": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Schiläufer sind vor dem Mittag 57 km durchgelaufen, und nach dem Mittag sind sie um 31 km mehrdurchgelaufen. Wieviele Kilometersind die Schiläufernach dem Mittag durchgelaufen?",
+			"Expressions": [
+				"57+31"
+			],
+			"Answer": "88"
+			},
+		"2-A-2-2.10": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Abstandzwischenden Häusernvom Bär und Wolf ist 81 m, und der Abstand zwischen den Häusern vom Wolf und Fuchs ist um 27 m weniger. Wie viele Meter ist der Abstand zwischen den Häusern vom Wolf und Fuchs?",
+			"Expressions": [
+				"81–27"
+			],
+			"Answer": "54"
+			},
+		"2-A-2-2.11": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Kinderspielten Versteck 24 Minuten, und Dame spielten sie um 17 Minuten mehr. Wie viele Minuten spielten die Kinder Dame?",
+			"Expressions": [
+				"24+17"
+			],
+			"Answer": "41"
+			},
+		"2-A-2-2.12": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Briefträgerfährtmitdem Fahrradbiszum See 21 Minuten, und die Katze geht zu Fuß um 26 Minuten mehr. Wieviele Minutengehtdie Katze bis zum See?",
+			"Expressions": [
+				"21+26"
+			],
+			"Answer": "47"
+			},
+		"2-A-2-2.13": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Fuchskanndurchden Waldin 38 Minuten durchgelaufen, und der Hase braucht um 12 Minuten weniger. In wie viele Minuten kann der Hase durchden Wald laufen?",
+			"Expressions": [
+				"38–12"
+			],
+			"Answer": "26"
+			},
+		"2-A-2-2.14": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Aus der Sonnenstadt bis zur Blumenstadt kann man mit dem Auto fahren oder mit dem Luftballon fliegen. Das Automuss 34 Stundenfahren, und der Luftballon muss um 19 Stunden mehr fliegen. Wieviele Stundenmussder Luftballon fliegen?",
+			"Expressions": [
+				"34+19"
+			],
+			"Answer": "53"
+			},
+		"2-A-2-2.15": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Schnecke muss auf die Eichenspitze für 25 Tagen klettern, und auf die Kieferspitze für 37 Tagen. Um wie viele Tageweniger braucht die Schnecke, um auf die Eichenspitze zu klettern?",
+			"Expressions": [
+				"37–25"
+			],
+			"Answer": "12"
+			},
+		"2-A-3-1.1": {
+			"Score": "200",
+			"Animation": "2-A-3-1.1",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Das Motorradfährt mit der Geschwindigkeit von 36 km/h, das ist um 12 km weniger als die Geschwindigkeit vom Auto (« Die Geschwindigkeit vom Auto ist um 12 km mehr als die Geschwindigkeit vom Motorrad»).  Mit welcher Geschwindigkeit fährt das Auto?",
+			"Expressions": [
+				"36+12"
+			],
+			"Answer": "48"
+			},
+		"2-A-3-1.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Das Trockenfrachtschiff ist 54 km geschwommen, das ist um 7 km mehr, als Fahrgastschiff. Welcher Abstand ist Fahrgastschiff geschwommen?",
+			"Expressions": [
+				"54-7"
+			],
+			"Answer": "47"
+			},
+		"2-A-3-1.3": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Karlfährt zum Fußballspiel 36 Minuten, das ist um 8 Minuten mehr als Hans fährt. Wie viele Minuten braucht Hans für den Weg?",
+			"Expressions": [
+				"36-8"
+			],
+			"Answer": "28"
+			},
+		"2-A-3-1.4": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Supermann ist mit dem U-Boot 55 km geschwommen, und durch die Luft um 14 km mehr geflogen. Welcher Abstand hat der Supermann überwunden?",
+			"Expressions": [
+				"35+(35+14)"
+			],
+			"Answer": "84"
+			},
+		"2-A-3-1.5": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Touristen sin Duzfuß 18 Stunden gegangen, und mit dem Boot sind sie um 12 Stunden mehr geschwommen. Wie viele Stunden waren die Touristen unterwegs?",
+			"Expressions": [
+				"18+(18+12)"
+			],
+			"Answer": "48"
+			},
+		"2-A-3-2.1": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Drache fliegt mit der Geschwindigkeit von 39 km/h, das ist um 14 km/h weniger als die Geschwindigkeit vom fliegenden Teppich. Mit welcher Geschwindigkeit fliegt fliegender Teppich?",
+			"Expressions": [
+				"39+14"
+			],
+			"Answer": "53"
+			},
+		"2-A-3-2.2": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Schnellzug fährt mit der Geschwindigkeit von 87 km/h, das ist um 23 km/h schneller als die Geschwindigkeit von dem Passagierzug. Mit welcher Geschwindigkeit fährt der Passagierzug?",
+			"Expressions": [
+				"87–23"
+			],
+			"Answer": "64"
+			},
+		"2-A-3-2.3": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Schwalbe fliegt mit der Geschwindigkeit von 79 m/min, das ist um 32 m/min mehr als die Geschwindigkeit der Meise. Mit welcher Geschwindigkeit fliegt die Meise?",
+			"Expressions": [
+				"79–32"
+			],
+			"Answer": "47"
+			},
+		"2-A-3-2.4": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Schraube des Hubschraubers dreht sich mit der Geschwindigkeit von 16 Umdrehungen pro Sekunde (U. p. S.), das ist um 7 U. p. S. weniger als die die Geschwindigkeit der Schraube des Flugzeugs. Mit welcher Geschwindigkeit dreht sich die Schraube des Flugzeuges?",
+			"Expressions": [
+				"16+7"
+			],
+			"Answer": "23"
+			},
+		"2-A-3-2.5": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Briefträger ist mit dem Fahrrad 38 km durchgefahren, das ist um 15 km größer Abstand, der er zu Fuß gegangen ist. Wie viele Kilometer ist der Briefträger zu Fuß gegangen?",
+			"Expressions": [
+				"38–15"
+			],
+			"Answer": "23"
+			},
+		"2-A-3-2.6": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Traktorist durch das Feld 24 km durchgefahren, das ist um 13 km weniger, als durch den Feldweg. Wie viele Kilometer ist der Traktor durch den Feldweg gefahren?",
+			"Expressions": [
+				"24+13"
+			],
+			"Answer": "37"
+			},
+		"2-A-3-2.7": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Ameise ist durch den Stiel 31 cm gekrochen, das ist um 26 m größer Abstand, der sie durch das Blatt gekrochen ist. Wie viele Zentimeter ist die Ameise durch das Blatt gekrochen?",
+			"Expressions": [
+				"31–26"
+			],
+			"Answer": "5"
+			},
+		"2-A-3-2.8": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Fischer ist das Ufer des Sees entlang 84 m durchgegangen, und mit dem Boot ist er um 56 m weniger geschwommen. Wie viele Meter ist der Fischer mit dem Boot geschwommen?",
+			"Expressions": [
+				"84–56"
+			],
+			"Answer": "28"
+			},
+		"2-A-3-2.9": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Fuchsisst das Gebäck 28 Minuten, das ist um 6 Minuten mehr, als der Wolf braucht. Wie viele Minuten braucht der Wolf, um das Gebäck zu essen?",
+			"Expressions": [
+				"28+6"
+			],
+			"Answer": "34"
+			},
+		"2-A-3-2.10": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Helga geht ins Theater 26 Minuten, Klaus braucht um 9 Minuten weniger. Wie viele Minuten braucht Klaus?",
+			"Expressions": [
+				"26+9"
+			],
+			"Answer": "35"
+			},
+		"2-A-3-2.11": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Hans machte seine Hausaufgaben in Mathematik 16 Minuten, und das Gedicht lernte er um 8 Minuten mehr. Wie viele Minuten machte Hans seine Hausaufgaben?",
+			"Expressions": [
+				"16+(16+8)"
+			],
+			"Answer": "40"
+			},
+		"2-A-3-2.12": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Das Motorboot ist durch den See 13 km durchgefahren, das ist um 26 km weniger als durch den Fluss. Wie viele Kilometer ist das Motorboot gefahren?",
+			"Expressions": [
+				"13+(13+26)"
+			],
+			"Answer": "52"
+			},
+		"2-A-3-2.13": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Touristenfuhren mit den Fahrrädern 52 Minuten, zu Fuß gingen sie um 16 Minutenweniger. Wie viele Minuten waren die Touristen unterwegs?",
+			"Expressions": [
+				"52+(52–16)"
+			],
+			"Answer": "88"
+			},
+		"2-A-3-2.14": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Biene flog bis zum Kirchengarten 12 Minuten, sammelte den Nektar um 14 Minuten mehr und noch 15 Minuten kehrte sie in den Bienenstock. Wie viele Kilometer ist die Biene geflogen?",
+			"Expressions": [
+				"12+(12+14)+15"
+			],
+			"Answer": "53"
+			},
+		"2-A-3-2.15": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Das Mammutschwammmit der Eisscholle 14 Tage, das ist um 8 Tage weniger, als es nach seiner Mutter in den Dschungel suchte. Wie viele Tagesuchte das Mammutnach seiner Mutter?",
+			"Expressions": [
+				"14+(14+8)"
+			],
+			"Answer": "36"
+			},
+		"2-A-3-2.16": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Das Kätzchen spielte mit dem Knäuel 17 Minuten, dann neckte er den Hund um 6 Minuten weniger, und noch 12 Minuten sonnte es sich. Wie viele Minuten spielte das Kätzchen?",
+			"Expressions": [
+				"17+(17–6)+12"
+			],
+			"Answer": "40"
+			},
+		"2-A-3-2.17": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Klaus fuhr mit dem Bus 30 km. Dieser Abstandistum 17 km weniger, alsermitdem Zuggefahren ist. Dann flog Klaus mit dem Flugzeug so viel, wie mit dem Bus und mit dem Zug fuhr zusammen. Wie viele km ist Klaus mit dem Flugzeug geflogen?",
+			"Expressions": [
+				"30+(30+17)"
+			],
+			"Answer": "77"
+			},
+		"2-A-3-2.18": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Rallye geht in drei Etappen. Die Länge der ersten Etappe ist 33 km, der zweiten – um 7 km weniger als die Länge der ersten, und der dritten – um 9 km mehr als des zweiten. Welcher Abstand ist dieser drei Etappen der Rallye?",
+			"Expressions": [
+				"33+(33–7)+(33–7+9)"
+			],
+			"Answer": "94"
+			},
+		"2-A-3-2.19": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Rotkäppchen ging zur Großmutter einen kurzen Weg von 8 km, und kehrte sie zurück einen langen Weg, der um 5 km mehr ist. Wie viele Kilometer ist Rotkäppchen gegangen?",
+			"Expressions": [
+				"8+(8+5)"
+			],
+			"Answer": "21"
+			},
+		"2-A-3-2.20": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Peter ist mit der Straßenbahn 16 km durchgefahren, das ist um 6 km mehr als mit dem Bus. Welcher Abstand ist Peter durchgefahren?",
+			"Expressions": [
+				"16+(16+6)"
+			],
+			"Answer": "38"
+			},
+		"2-A-4-1.1": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Die Touristen wollen 40 km durchgehen. Am 1. Tag sind sie 17 km durchgegangen, am zweiten Tag – 15 km. Wie viele km sind geblieben?",
+			"Expressions": [
+				"40-17-15",
+				 "40-(17+15)"
+			],
+			"Answer": "8"
+			},
+		"2-A-4-1.2": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Die Ameise kroch von ihrem Ameisen Haufen bis zum Pilz 47 Minuten. Zuerst kroch sie 14 Minuten bis zur Blume, dann 26 Minuten bis zur Tanne. Wie viele Minuten kroch die Ameise von der Tanne bis zum Pilz?",
+			"Expressions": [
+				"47-14-26",
+				 "47-(26+14)"
+			],
+			"Answer": "7"
+			},
+		"2-A-4-1.3": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Das gelbe Auto fuhr mit der Geschwindigkeit von 44 km/h, und das rote Auto fuhr um 12 km/h schneller. Das blaue Auto fuhr um 11 km/h schneller als das rote. Mit welcher Geschwindigkeit fuhr das blaue Auto?",
+			"Expressions": [
+				"(44+12)+11",
+				 "44+(12+11)"
+			],
+			"Answer": "67"
+			},
+		"2-A-4-1.4": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Paul ist 7 km durchgelaufen, mit dem Fahrrad ist er um 3 km mehr durchgefahren. Welchen Abstand hat Paul überwunden?",
+			"Expressions": [
+				"7+(7-3)"
+			],
+			"Answer": "11"
+			},
+		"2-A-4-2.1": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Radfahrer fährt mit der Geschwindigkeit von 19 km/h, der Motorradfahrer fährt um 26 km/h schneller als der Radfahrer, und das Lastauto fährt um 13 km/h schneller als der Motorradfahrer. Mit welcher Geschwindigkeit fährt das Lastauto?",
+			"Expressions": [
+				"(19+26)+13"
+			],
+			"Answer": "58"
+			},
+		"2-A-4-2.2": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Abstand zwischen zwei Anlegestellen ist 62 km. Für die erste Stunde ist das Motorboot 16 km durchgefahren, für die zweite Stunde – um 2 km mehr. Wie viele Kilometer sind bis zur zweiten Anlegestelle geblieben?",
+			"Expressions": [
+				"62–(16+(16+2))"
+			],
+			"Answer": "28"
+			},
+		"2-A-4-2.3": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Schnecke kriecht durch den Baum. Fürdenersten Tag ist sie 4 m gekrochen, für den zweiten – um 1mweniger, für den dritten – um 2 m mehr als für den zweiten. Wie viele m sind geblieben, wenn die Höhe des Baumes 22 m ist?",
+			"Expressions": [
+				"22–(4+(4–1)+(4–1+2))"
+			],
+			"Answer": "10"
+			},
+		"2-A-4-2.4": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Die Längeder Schipiste  ist 25 km. Für die erste Stunde ist der Schiläufer 8 km durchgelaufen, für die zweite Stunde – um 1 km weniger. Wie viele km sind geblieben?",
+			"Expressions": [
+				"25–(8+(8–1))",
+				 "25–8–(8–1)"
+			],
+			"Answer": "10"
+			},
+		"2-A-4-2.5": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Pu der Bär geht zum Geburtstag zum Esel. In 5 km hat er das Schweingetroffen, sie sind zusammen gegangen. Noch in 3 km haben sie das Kaninchen getroffen, und in 2 km den Tiger. Wie viele km sind geblieben, wenn der Abstand zwischen dem Haus von Pu der Bär und der Hütte vom Esel 24 km ist?",
+			"Expressions": [
+				"24–(5+3+2)",
+				 "24–5–3–2"
+			],
+			"Answer": "14"
+			},
+		"2-A-4-2.6": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Der Held ist zu Fuß 12 Wersten durchgegangen, und ein Pferd ist er um 19 Wersten mehr geritten. Welcher Abstand ist geblieben, wenn der Abstand zwischen seiner Siedlung und der Höhle des Drachens 67 Wersten ist?",
+			"Expressions": [
+				"67–(12+(12+19))",
+				 "67–12–(12+19)"
+			],
+			"Answer": "24"
+			},
+		"2-A-4-2.7": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Der Briefträger wollte seinen Freund in der Stadt besuchen. Durch den Feldweg ist er 18 km durchgefahren, dann durch die Autostraße, durch die Stadt ist er um 12 km weniger als durch den Feldweg gefahren. Wie viele Kilometer ist der Briefträger gefahren, wenn der Abstand von seiner Siedlung bis zum Haus seines Freundes 62 km ist?",
+			"Expressions": [
+				"62–(18+(18–12))",
+				 "62–18–(18-12)"
+			],
+			"Answer": "38"
+			},
+		"2-A-4-2.8": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Der Passagier zugfährt um 13 km/h langsamer als der Schnellzug, aber um 18 km/h schneller als die Vorortbahn. Welche Geschwindigkeit hat die Vorortbahn, wenn die Geschwindigkeit des Schnellzugs 94 km/h ist.",
+			"Expressions": [
+				"(94–13)–18",
+				 "94–(13+18)"
+			],
+			"Answer": "63"
+			},
+		"2-A-4-2.9": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Die Geschwindigkeit des Seglers ist weniger als die Geschwindigkeit der Schwalbe um 6 m/min, aber schneller als die Geschwindigkeit des Spatzes um 7 m/min. Welche Geschwindigkeit hat die Schwalbe, wenn die Geschwindigkeit des Spatzes56 m/min ist?",
+			"Expressions": [
+				"(56+7)+6",
+				 "56+(6+7)"
+			],
+			"Answer": "69"
+			},
+		"2-A-4-2.10": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Der Hamsterkann das Feld in 36 Stundenhinüberlaufen, und die Maus– um 4 Stundenweniger. Der Hase kann das Feld um 12Stunden schneller als die Maushinüberlaufen. In wie viele Stunden kann der Hase das Feld hinüberlaufen?",
+			"Expressions": [
+				"(36–4)–12",
+				 "36–(4+12)"
+			],
+			"Answer": "20"
+			},
+		"2-A-4-2.11": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Touristen gingen zu Fuß 5 Stunden, fuhren mit den Fahrrädern um 8 Stunden mehr. Und mit dem Bus fuhr ensiesoviel, wie zu Fuß gingen und mit den Fahrrädern fuhren zusammen. Wie viele Stunden waren die Touristen unterwegs?",
+			"Expressions": [
+				"5+(5+8)+(5+(5+8))"
+			],
+			"Answer": "36"
+			},
+		"2-A-4-2.12": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Frosch sprang durch den Pfad 27 Minuten, durch den Sumpf– um 5 Minuten mehr, und durch den Wald – um 6 Minuten mehr als durch den Sumpf. Wie viele Minuten sprang er durch den Wald?",
+			"Expressions": [
+				"(27–5)+6"
+			],
+			"Answer": "28"
+			},
+		"2-A-4-2.13": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Karl, Wolfgang und Hans sind die besten Läufer in der Schule. Karl kann 500 m für 67 Sekundendurchlaufen, Wolfgang braucht um 3 Sekunden mehr als Karl, und Klaus braucht um 4 Sekunden mehr als Wolfgang. Wie viele Sekunden läuft Klaus 500 m?",
+			"Expressions": [
+				"(67+3)+4"
+			],
+			"Answer": "74"
+			},
+		"2-A-4-2.14": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Der Tiger ist 15 Minuten durch den Dschungeldurchgelaufen, das Ufer entlang – um 4 Minuten weniger als durch den Dschungel, innerhalb von übrigen Zeit hat er den Fluss überschwommen. Wie viele Minuten hat der Tiger den Flussüber schwömmen, wenn er für die Suche nach dem Wild  34 Minuten brauchte?",
+			"Expressions": [
+				"34–(15+(15–4))",
+				 "34–15–(15–4)"
+			],
+			"Answer": "8"
+			},
+		"2-A-4-2.15": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Um den Bast Korb der Erdbeeren zu sammeln, braucht Anna 42 Minuten, den Krug – um 14 Minuten weniger als den Bast Korb, den Korb – um 29 Minuten mehr als den Krug Wie viele Minuten kann Anna den Korb sammeln?",
+			"Expressions": [
+				"(42–14)+29"
+			],
+			"Answer": "57"
+			},
+		"2-A-4-2.16": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Hubschrauber ist über der Stadt 8 km geflogen, über dem Wald um 3 km mehr als über die Stadt, machte einen Kreis von 6 km  über dem See und kehrte in die Stadt zurück. Wie viele Kilometer ist der Hubschrauber durchgeflogen?",
+			"Expressions": [
+				"8+(8+3)+6+(8+3)"
+			],
+			"Answer": "36"
+			},
+		"2-A-4-2.17": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Schiläufer ist 2 Stunden mit der Geschwindigkeit 7 km/h gelaufen, 1 Stunde mit der Geschwindigkeit von 9 km/h und drei Stunden – mit der Geschwindigkeit von 8 km/h. Wie viele Kilometer ist der Schiläufergelaufen?",
+			"Expressions": [
+				"(7+7)+9+(8+8+8)"
+			],
+			"Answer": "47"
+			},
+		"2-A-4-2.18": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Drachen flog über dem Vulkan 13 Minuten, über dem Wasserfall– um 7 Minuten weniger, über dem Bergfluss so viele, wie über dem Vulkan und über dem Wasserfall zusammen. Wie viele Stunden flog der Drachen?",
+			"Expressions": [
+				"13+(13–7)+(13+(13–7))"
+			],
+			"Answer": "38"
+			},
+		"2-A-4-2.19": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Baron Münchhausen reiste durch Afrika 14 Tage, durch Indien  – um 3 Tage mehr als durch Afrika, und im Norden reiste er so viele Tage, wie durch Afrika und Indien zusammen. Wie viele Tagereiste Baron Münchhausen im Norden?",
+			"Expressions": [
+				"14+(14+3)"
+			],
+			"Answer": "31"
+			},
+		"2-A-4-2.20": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Baba Jaga geht mit der Geschwindigkeit von 3 km/h, fliegt mit dem Mörser um 26 km/h schneller, und verlagert sich mit der Hütteum19 km/h langsamer als mit dem Mörser. Welche Geschwindigkeit hat die Hütte?",
+			"Expressions": [
+				"(3+26)–19"
+			],
+			"Answer": "10"
+			},
+		"2-A-5-2.1": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Das Mäuschen ist von der Höhlebiszur Tanne x m durchgelaufen, und von der Tanne bis zum Feld noch y m durchgelaufen. Welcher Abstand ist das Mäuschen von der Höhle bis zum Feld durch gelaufen.",
+			"Expressions": [
+				"x+y"
+			],
+			"Answer": ""
+			},
+		"2-A-5-2.2": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Rotkäppchen will die Großmutter besuchen. Sie ist durch den Wald a Minuten gegangen und durch das Feld – b Minuten. Wie viele Minuten hat Rotkäppchen auf den ganzen Weg aufgewendet?",
+			"Expressions": [
+				"a+b"
+			],
+			"Answer": ""
+			},
+		"2-A-5-2.3": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Zug muss c km fahren. Er ist schon d km durchgefahren. Wie viele Kilometer muss der Zug noch fahren?",
+			"Expressions": [
+				"c–d"
+			],
+			"Answer": ""
+			},
+		"2-A-5-2.4": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Hans braucht für den Weg in die Schule t Minuten. Er geht schon k Minuten. Wie viele Minuten muss der Junge noch geht?",
+			"Expressions": [
+				"t–k"
+			],
+			"Answer": ""
+			},
+		"2-A-5-2.5": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Zug fährt mit der Geschwindigkeit von n km/h, und das Auto fährt mit der Geschwindigkeit um m km schneller. Mit welcher Geschwindigkeit fährt das Auto?",
+			"Expressions": [
+				"n+m"
+			],
+			"Answer": ""
+			},
+		"2-A-5-2.6": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Vorortbahn ist v km durchgefahren, und der Passagierzug  ist um k km mehr durchgefahren. Wie viele Kilometer ist der Passagierzug  durchgefahren?",
+			"Expressions": [
+				"v+k"
+			],
+			"Answer": ""
+			},
+		"2-A-5-2.7": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Vatervon Karlhat a Tage gearbeitet, und die Mutter hat um c Tage weniger gearbeitet. Wie viele Tage hat die Mutter gearbeitet?",
+			"Expressions": [
+				"a–c"
+			],
+			"Answer": ""
+			},
+		"2-A-5-2.8": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Das Motorradfährt mit der Geschwindigkeit von x km/h, das ist um d km weniger als die Geschwindigkeit vom Auto.  Mit welcher Geschwindigkeit fährt das Auto?",
+			"Expressions": [
+				"x+d"
+			],
+			"Answer": ""
+			},
+		"2-A-5-2.9": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Das Trockenfrachtschiff ist y km geschwommen, das ist um v km mehr, als Fahrgastschiff. Welcher Abstand ist Fahrgastschiff geschwommen?",
+			"Expressions": [
+				"y–v"
+			],
+			"Answer": ""
+			},
+		"2-A-5-2.10": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Karlfährt zum Fußballspiel t Minuten, das ist um c Minuten mehr als Hans fährt. Wie viele Minuten braucht Hans für den Weg?",
+			"Expressions": [
+				"t–c"
+			],
+			"Answer": ""
+			},
+		"2-A-5-2.11": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Der Supermann ist mit dem U-Boot f km geschwommen, und durch die Luft um e km mehr geflogen. Welcher Abstand hat der Supermann überwunden?",
+			"Expressions": [
+				"f+(f+e)",
+				"2f+e"
+			],
+			"Answer": ""
+			},
+		"2-A-5-2.12": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Die Touristen sin Duzfuß p Stunden gegangen, und mit dem Boot sind sie um s Stunden mehr geschwommen. Wie viele Stunden waren die Touristen unterwegs?",
+			"Expressions": [
+				"p+(p+s)",
+				"2p+s"
+			],
+			"Answer": ""
+			},
+		"2-A-5-2.13": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Die Touristen wollen l km durchgehen. Am 1. Tag sind sie m km durchgegangen, am zweiten Tag – n km. Wie viele km sind geblieben?",
+			"Expressions": [
+				"(l–m)–n",
+				"l–(m+n)"
+			],
+			"Answer": ""
+			},
+		"2-A-5-2.14": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Die Ameise kroch von ihrem Ameisen Haufen bis zum Pilz a Minuten. Zuerst kroch sie b Minuten bis zur Blume, dann c Minuten bis zur Tanne. Wie viele Minuten kroch die Ameise von der Tanne bis zum Pilz?",
+			"Expressions": [
+				"(a–b)–c",
+				"a–(b+c)"
+			],
+			"Answer": ""
+			},
+		"2-A-5-2.15": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Das gelbe Auto fuhr mit der Geschwindigkeit von s km/h, und das rote Auto fuhr um t km/h schneller. Das blaue Auto fuhr um r km/h schneller als das rote. Mit welcher Geschwindigkeit fuhr das blaue Auto?",
+			"Expressions": [
+				"(s+t)+r",
+				"s+(t+r)"
+			],
+			"Answer": ""
+			},
+		"2-A-5-2.16": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Paul ist y km durchgelaufen, mit dem Fahrrad ist er um x km mehr durchgefahren. Welchen Abstand hat Paul überwunden?",
+			"Expressions": [
+				"y+(y–x)=2y–x"
+			],
+			"Answer": ""
+			},
+		"2-B-1-1.1": {
+			"Score": "50",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Am ersten Tag ist die Eidechse 27 m gekrochen, und am zweiten – um 13 m mehr. Wie viele Meter ist die Eidechse für 2 Tage gekrochen?",
+			"Expressions": [
+				"27+(27+13)"
+			],
+			"Answer": "67"
+			},
+		"2-B-1-2.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Schiläufersindvordem Mittag 53 km durchgegangen, und nach dem Mittag – um 16 km weniger. Wie viele Kilometer sind die Schiläufer für den Tag gelaufen?",
+			"Expressions": [
+				"53+(53–16)"
+			],
+			"Answer": "90"
+			},
+		"2-B-1-2.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Sabina ist vom Geschäft bis zum Hause 47 m durchgegangen, und stieg die Treppe um 19 m weniger hinauf. Wie viele Meter ist Sabina durchgegangen?",
+			"Expressions": [
+				"47+(47–19)"
+			],
+			"Answer": "75"
+			},
+		"2-B-1-2.3": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Wolf ging durch den Wald 16 km, und durch das Feld – um 12 km mehr. Wie viele Kilometer ist der Wolf durchgegangen?",
+			"Expressions": [
+				"16+(16+12)"
+			],
+			"Answer": "44"
+			},
+		"2-B-1-2.4": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Bagger gräbt den Graben. Für den ersten Tag hat er 35 m gegraben, und für den zweiten – um 12 m mehr. Wie lang ist der Graben?",
+			"Expressions": [
+				"35+(35+12)"
+			],
+			"Answer": "82"
+			},
+		"2-B-1-2.5": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Vom Punkt Abis zum Punkt Bist das Auto 46 km durchgefahren, und vom Punkt B bis zum Punkt C – um 11 km weniger. Wie viele Kilometer ist das Auto durchgefahren?",
+			"Expressions": [
+				"46+(46-11)"
+			],
+			"Answer": "81"
+			},
+		"2-B-2-1.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Am ersten Tag ist der Zug 25 km durchgefahren, und am zweiten – 33 km, am dritten – so viele, wie am ersten und zweiten zusammen. Welchen Abstand ist der Zug für 3 Tage durchgefahren.",
+			"Expressions": [
+				"25+33+(25+33)"
+			],
+			"Answer": "116"
+			},
+		"2-B-2-1.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Wolf lief durch den Wald 16 km, und durch den Sumpf – um 3 km mehr, durch die Wiese – noch 14 km. Welchen Abstand ist der Wolf durchgelaufen?",
+			"Expressions": [
+				"16+(16+3)+14"
+			],
+			"Answer": "59"
+			},
+		"2-B-2-2.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Traktor fuhrdurch den Feldweg 16 km, durch das Feld – um 3 km weniger, und dann wieder durch den Feldweg 12 km. Wie viele Kilometer ist der Traktor durchgefahren?",
+			"Expressions": [
+				"16+(16–3)+12"
+			],
+			"Answer": "41"
+			},
+		"2-B-2-2.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Nimmer klug ist mit dem Auto 28 km durch gefahren, mit dem Luftballon um 11 km weniger geflogen, und zu Fuß ist er um 5 km weniger gegangen, als mit dem Luftballon geflogen. Welcher Abstand hat Nimmer klug überwunden?",
+			"Expressions": [
+				"28+(28–11)+((28–11)–5)"
+			],
+			"Answer": "57"
+			},
+		"2-B-2-2.3": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Das Auto ist vom Punkt Abis zum Punkt B 36 km durchgefahren, vom Punkt B bis zum Punkt C – um 5 km mehr und noch einige Kilometer bis zum Punkt D. Welcher Abstand ist zwischen den Punkten C und D, wenn das Auto 96 m durchgefahren ist",
+			"Expressions": [
+				"96–(36+(36+5))"
+			],
+			"Answer": "19"
+			},
+		"2-B-2-2.4": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Wal ist für die erste Stunde 23 km geschwommen, für die zweite – um 4 km mehr, und für die dritte – um 3 km  weniger als für die zweite. Wie viele Kilometer ist der Wal für 3 Stunden geschwommen?",
+			"Expressions": [
+				"23+(23+4)+((23+4)–3)"
+			],
+			"Answer": "74"
+			},
+		"2-B-2-2.5": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Wolf begab sich zu Gast zum Fuchs. Er ist durch das violette Feld 27 km durchgegangen, durch das Mohn Feld– um 23 km weniger, und durch das grüne Feld – um 18 km mehr als durch das Mohn Feld. Wie viele Kilometer ist der Wolf durchgegangen?",
+			"Expressions": [
+				"27+(27–23)+((27–23)+18)"
+			],
+			"Answer": "53"
+			},
+		"2-B-2-2.6": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Um das Wasser beckenzuer reichen, geht Karl zu Fuß 6 Minuten, dann fährt er mit der Straßenbahn um 9 Minuten mehr, und den übrigen Teil des Wegs fährt Karl mit der U-Bahn. Wie viele Stunden fährt Karl mit der U-Bahn, wenn er für allen Weg 34 Minuten braucht?",
+			"Expressions": [
+				"34–(6+9)"
+			],
+			"Answer": "19"
+			},
+		"2-B-2-2.7": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Biber hat für den ersten Tag 24 m des Damms gebaut, für den zweiten Tag – um 2 m weniger als für den ersten Tag, und für den dritten Tag – so viel, wie für den zweiten Tag. Wie viele Meter hat der Biber gebaut?",
+			"Expressions": [
+				"24+(24–2)+(24–2)"
+			],
+			"Answer": "68"
+			},
+		"2-B-2-2.8": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Das Boothatabwärts 18 km geschwommen, durch den See – um 14 km weniger, und aufwärts – um 8 km mehr als durch den See. Wie viele Meter ist das Boot geschwommen?",
+			"Expressions": [
+				"18+(18–14)+((18–14)+8)"
+			],
+			"Answer": "34"
+			},
+		"2-B-2-2.9": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Um die Affen zu heilen, ist der Arzt mit dem Schiff 31 km geschwommen, mit dem Hubschrauber ist er um 12 km mehr geflogen und noch 7 km ist er zu Fuß gegangen. Welchen Abstand hat der Arzt überwunden?",
+			"Expressions": [
+				"31+(31+12)+7"
+			],
+			"Answer": "81"
+			},
+		"2-B-2-2.10": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Spitzmausgräbt den unterirdischen Gang. Sie hat für den ersten Tag 24 cm gegraben, für den zweiten Tag – um 4 cm weniger, und für den dritten – um 8 cm mehr als für den zweiten. Wie lang ist der unterirdische Gang?",
+			"Expressions": [
+				"24+(24–4)+((24–4)+8)"
+			],
+			"Answer": "72"
+			},
+		"2-B-3-1.1": {
+			"Score": "200",
+			"Animation": "2-B-3-1.1",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Schnecke kriecht für den Tagnachoben 15 m, und für die Nacht steigt sie um 3 m herunter. Welcher Abstand ist die Schnecke für den Tag und die Nacht gekrochen?",
+			"Expressions": [
+				"15+3"
+			],
+			"Answer": "18"
+			},
+		"2-B-3-1.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Aladin muss mit dem fliegenden Teppich 60 km fliegen. Über der Stadt - 15 km, über der Wüste- 33 km, und einige km in der Höhle. Wie viele km muss Aladin in der Höhle fliegen?",
+			"Expressions": [
+				"60-15-33",
+				 "60-(15+33)"
+			],
+			"Answer": "12"
+			},
+		"2-B-3-2.1": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Das MondfahrzeugistfürdenerstenTag 16 km durch gefahren, für den zweiten Tag – um 3 km weniger als für den ersten, und für den dritten – so viel, wie für den ersten und den zweiten zusammen. Wie viele Kilometer ist das Mondfahrzeug durchgefahren?",
+			"Expressions": [
+				"16+(16–3)+(16+(16–3))"
+			],
+			"Answer": "58"
+			},
+		"2-B-3-2.2": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Testflieger ist mit dem Flugzeug am ersten Tag 27 km durch geflogen, und am zweiten – um 4 km mehr als am ersten, und am dritten – um 6 km weniger als am zweiten. Wie viele Kilometer ist der Testflieger für 3 Tage durchgeflogen?",
+			"Expressions": [
+				"27+(27+4)+(27+4)–6))"
+			],
+			"Answer": "83"
+			},
+		"2-B-3-2.3": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Fallschirmspringer ist aus dem Flugzeug auf der Höhe von 4 km hinausgesprungen. Eröffnete den Fallschirm in 1 km. Dann ist er bis zum näheren Dorf um 6 km mehr durchgegangen, als mit dem Fallschirmgeflogen. Welchen Abstand hat der Fallschirmspringer überwunden?",
+			"Expressions": [
+				"4+(6+(4-1))"
+			],
+			"Answer": "13"
+			},
+		"2-B-4-1.1": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Touristen sind zu Fuß 3 km durchgegangen, mit dem Boot sind sie um 2 km mehrgeschwommen, und mit dem Fahrrad sind sie so viel gefahren, wie zu Fuß und mit dem Boot zusammen. Welchen Abstand haben die Touristen überwunden?",
+			"Expressions": [
+				"3+(3+2)+(3+(3+2))"
+			],
+			"Answer": "16"
+			},
+		"2-B-4-1.2": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Däumelinchen ist mit der Seerose 25 Metergeschwommen, mit dem Käfer um 4 Metermehrgeflogen, und zu Fuß so viel gegangen, wie mit der Seerose und mit dem Käfer. Welchen Abstand hat Däumelinchen überwunden.",
+			"Expressions": [
+				"25+(25+4)+(25+(25+4)"
+			],
+			"Answer": "108"
+			},
+		"2-B-4-2.1": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Schneeflocke ist von der Höhe 95 m innerhalb von 4 Minuten gefallen. Für die erste Minute ist sie 21 m durchgeflogen, für die zweite – um 3 m mehr als für die erste, und für die dritte – um 5 m mehr als für die zweite. Wie viele Meter ist die Schneeflocke für die vierte Minute durchgeflogen?",
+			"Expressions": [
+				"95–21–(21+4)–((21+4)+5))"
+			],
+			"Answer": "21"
+			},
+		"2-B-5-2.1": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Am ersten Tag ist die Eidechse p m gekrochen, und am zweiten – um s m mehr. Wie viele Meter ist die Eidechse für 2 Tage gekrochen?",
+			"Expressions": [
+				"p+(p+s)=2p+s"
+			],
+			"Answer": ""
+			},
+		"2-B-5-2.2": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Am ersten Tag ist der Zug f km durchgefahren, und am zweiten – g km, am dritten – so viele, wie am ersten und zweiten zusammen. Welchen Abstand ist der Zug für 3 Tage durchgefahren.",
+			"Expressions": [
+				"(f+g)+(f+g)",
+				"2f+2g"
+			],
+			"Answer": ""
+			},
+		"2-B-5-2.3": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Wolf lief durch den Wald m km, und durch den Sumpf – um n km mehr, durch die Wiese – noch l km. Welchen Abstand ist der Wolf durchgelaufen?",
+			"Expressions": [
+				"m+(m+n)+l=2m+n+l"
+			],
+			"Answer": ""
+			},
+		"2-B-5-2.4": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Schnecke kriecht für den Tagnachoben d m, und für die Nacht steigt sie um f m herunter. Welcher Abstand ist die Schnecke für den Tag und die Nacht gekrochen?",
+			"Expressions": [
+				"d+f"
+			],
+			"Answer": ""
+			},
+		"2-B-5-2.5": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Aladin muss mit dem fliegenden Teppich x km fliegen. Über der Stadt - y km, über der Wüste- z km, und einige km in der Höhle. Wie viele km muss Aladin in der Höhle fliegen?",
+			"Expressions": [
+				"(x–y)–z=x–y–z",
+				"x–(y+z)=x–y–z"
+			],
+			"Answer": ""
+			},
+		"2-B-5-2.6": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Touristen sind zu Fuß s km durchgegangen, mit dem Boot sind sie um t km mehrgeschwommen, und mit dem Fahrrad sind sie so viel gefahren, wie zu Fuß und mit dem Boot zusammen. Welchen Abstand haben die Touristen überwunden?",
+			"Expressions": [
+				"s+(s+t)+s+(s+t)=4s+2t"
+			],
+			"Answer": ""
+			},
+		"2-B-5-2.7": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Däumelinchen ist mit der Seerose a Metergeschwommen, mit dem Käfer um c Metermehrgeflogen, und zu Fuß so viel gegangen, wie mit der Seerose und mit dem Käfer. Welchen Abstand hat Däumelinchen überwunden.",
+			"Expressions": [
+				"a+(a+c)+a+(a+c)=4a+2c"
+			],
+			"Answer": ""
+			},
+		"2-C-1-1.1": {
+			"Score": "50",
+			"Animation": "2-C-1-1.1",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Aus zwei Städten sind entgegeneinan der zwei Radfahrerausgefahren. Die Geschwindigkeit des ersten ist 12 km/h, und die Geschwindigkeit des zweiten ist 9 km/h. Um wie viele Kilometer nähern sich die Radfahrer für 1 Stunde?",
+			"Expressions": [
+				"12+9"
+			],
+			"Answer": "21"
+			},
+		"2-C-1-1.2": {
+			"Score": "50",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Aus zwei Nestern sind 2 Nächtig allen entgegeneinan der ausgeflogen. Eine Nachtigall ist 38 m durchgelaufen,  und die zweite ist 17 Meter durchgelaufen. Um wie viele Kilometer haben sich die Nachtigallengenähert?",
+			"Expressions": [
+				"38+17"
+			],
+			"Answer": "55"
+			},
+		"2-C-1-2.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Wal und der Haifisch schwimmen entgegen einander. Die Geschwindigkeit des Wals ist 16 km/h,  und die Geschwindigkeit des Haifisches ist 29 km/h. Um wie viele Kilometer nähern sich der Wal und der Haifisch für 1 Stunde?",
+			"Expressions": [
+				"16+29"
+			],
+			"Answer": "45"
+			},
+		"2-C-1-2.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Matrosen gehenden egeneinander. Die Geschwindigkeit eines Matrosen ist 48 m/min, und des zweiten – 43 m/min. Um wie viele Kilometer nähern sich die Matrosen für 1 Minute?",
+			"Expressions": [
+				"48+43"
+			],
+			"Answer": "91"
+			},
+		"2-C-2-1.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Libellen fliegen entgegen einander. Die Geschwindigkeit der ersten Libelle ist 18 m/min, und die Geschwindigkeit der zweiten Libelle ist um 2 m/min schneller. Um wie viele Kilometer nähern sich die Libellen?",
+			"Expressions": [
+				"18+(18+2)"
+			],
+			"Answer": "38"
+			},
+		"2-C-2-1.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Züge sind entgegen einander ausgefahren. Ein Zug ist 39 km durchgefahren, und der zweite Zug ist um 6 km weniger durchgefahren. Um wie viele Kilometer haben sich die Züge genähert?",
+			"Expressions": [
+				"39+(39-6)"
+			],
+			"Answer": "72"
+			},
+		"2-C-2-2.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Hum melund der Maikäfer fliegen entgegen einander. Die Geschwindigkeit der Hummel ist 35 m/min, und die Geschwindigkeit des Maikäfers ist 38 m/min. Um wie viele Kilometer nähern sich die Hummel und der Maikäfer für 1 Minute?",
+			"Expressions": [
+				"35+38"
+			],
+			"Answer": "73"
+			},
+		"2-C-2-2.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Hasenlaufen entgegen einander. Die Geschwindigkeit eines Hasen ist 6 m/s, und die Geschwindigkeit des zweiten Hasen ist um 2 m/s mehr. Um wie viele Meter verringert sich der Abstand zwischen den Hasen für 2 Sekunden?",
+			"Expressions": [
+				"(6+(6+2))+(6+(6+2))"
+			],
+			"Answer": "28"
+			},
+		"2-C-3-1.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Katze und der Hund sind entgegen einander ausgegangen. Die Geschwindigkeit der Katze ist 5 km/h, das ist um 2 km/h weniger als die Geschwindigkeit des Hundes. Um wie viele Kilometer nähern sich die Katze und der Hund?",
+			"Expressions": [
+				"5+(5+2)"
+			],
+			"Answer": "12"
+			},
+		"2-C-3-1.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Deltagleiter fliegen entgegen einander. Die Geschwindigkeit des ersten Deltagleiters ist 18 km/h, das ist um 3 km/h weniger als die Geschwindigkeit des zweiten. Um wie viele km/h nähern sich die Deltagleiter?",
+			"Expressions": [
+				"18+(18+3)"
+			],
+			"Answer": "39"
+			},
+		"2-C-3-1.3": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Abstandzwischen der Märchen-Stadt und der Blumen-Stadt ist 67 km. Aus den Städten sind der Zauberer und die Fee entgegen einander ausgegangen. Der Zauberer ist schon 15 km  durchgegangen, und die Fee – 27 km. Welcher Abstand ist zwischen ihnen?",
+			"Expressions": [
+				"67-(15+27)",
+				"67-15-27"
+			],
+			"Answer": "25"
+			},
+		"2-C-4-1.1": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Das Aschenputtel und das Schneewitschen wohnen in einem Abstand von 35 km voneinander. Sie verständigten sich über das Treffen und gingen entgegen einander. Das Aschenputtel ist 14 км durchgegangen, und das Schneewitschen um 5 km mehr. Welcher Abstand ist bis zum Treffen geblieben?",
+			"Expressions": [
+				"35-(14+(14+5))",
+				 "35-14-(14+5)"
+			],
+			"Answer": "2"
+			},
+		"2-C-4-1.2": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Radfahrer Peter und Klaus sind entgegen einander ausgefahren. Peter ist mit der Geschwindigkeit von 13 km/h gefahren, und Klaus ist mit der Geschwindigkeit von 12 km/h gefahren. Um wie viele Kilometer nähern sich die Freunde für 2 Stunden?",
+			"Expressions": [
+				"(13+12)+(13+12)",
+				 "(13+13)+(12+12)"
+			],
+			"Answer": "50"
+			},
+		"2-C-5-2.1": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Aus zwei Städten sind entgegeneinan der zwei Radfahrerausgefahren. Die Geschwindigkeit des ersten ist s km/h, und die Geschwindigkeit des zweiten ist t km/h. Um wie viele Kilometer nähern sich die Radfahrer für 1 Stunde?",
+			"Expressions": [
+				"s+t"
+			],
+			"Answer": ""
+			},
+		"2-C-5-2.2": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Aus zwei Nestern sind 2 Nächtig allen entgegeneinan der ausgeflogen. Eine Nachtigall ist h m durchgelaufen,  und die zweite ist f Meter durchgelaufen. Um wie viele Kilometer haben sich die Nachtigallengenähert?",
+			"Expressions": [
+				"h+f"
+			],
+			"Answer": ""
+			},
+		"2-C-5-2.3": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Libellen fliegen entgegen einander. Die Geschwindigkeit der ersten Libelle ist a m/min, und die Geschwindigkeit der zweiten Libelle ist um l m/min schneller. Um wie viele Kilometer nähern sich die Libellen?",
+			"Expressions": [
+				"a+(a+l)",
+				 "2a+l"
+			],
+			"Answer": ""
+			},
+		"2-C-5-2.4": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Züge sind entgegen einander ausgefahren. Ein Zug ist x km durchgefahren, und der zweite Zug ist um y km weniger durchgefahren. Um wie viele Kilometer haben sich die Züge genähert?",
+			"Expressions": [
+				"x+(x–y)",
+				 "2x–y"
+			],
+			"Answer": ""
+			},
+		"2-C-5-2.5": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Die Katze und der Hund sind entgegen einander ausgegangen. Die Geschwindigkeit der Katze ist z km/h, das ist um r km/h weniger als die Geschwindigkeit des Hundes. Um wie viele Kilometer nähern sich die Katze und der Hund?",
+			"Expressions": [
+				"z+(z+r)",
+				 "2z+r"
+			],
+			"Answer": ""
+			},
+		"2-C-5-2.6": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Deltagleiter fliegen entgegen einander. Die Geschwindigkeit des ersten Deltagleiters ist b km/h, das ist um d km/h weniger als die Geschwindigkeit des zweiten. Um wie viele km/h nähern sich die Deltagleiter?",
+			"Expressions": [
+				"b+(b–d)",
+				 "2b–d"
+			],
+			"Answer": ""
+			},
+		"2-C-5-2.7": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Der Abstandzwischen der Märchen-Stadt und der Blumen-Stadt ist a km. Aus den Städten sind der Zauberer und die Fee entgegen einander ausgegangen. Der Zauberer ist schon n km  durchgegangen, und die Fee – m km. Welcher Abstand ist zwischen ihnen?",
+			"Expressions": [
+				"a–(n+m)",
+				 "(a–n)–m"
+			],
+			"Answer": ""
+			},
+		"2-C-5-2.8": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Das Aschenputtel und das Schneewitschen wohnen in einem Abstand von s km voneinander. Sie verständigten sich über das Treffen und gingen entgegen einander. Das Aschenputtel ist x км durchgegangen, und das Schneewitschen um y km mehr. Welcher Abstand ist bis zum Treffen geblieben?",
+			"Expressions": [
+				"s–(x+(x+y))",
+				 "(s–x)–(x+y)"
+			],
+			"Answer": ""
+			},
+		"2-C-5-2.9": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Radfahrer Peter und Klaus sind entgegen einander ausgefahren. Peter ist mit der Geschwindigkeit von f km/h gefahren, und Klaus ist mit der Geschwindigkeit von k km/h gefahren. Um wie viele Kilometer nähern sich die Freunde für 2 Stunden?",
+			"Expressions": [
+				"(f+k)+(f+k)",
+				 "(f+f)+(k+k)"
+			],
+			"Answer": ""
+			},
+		"2-E-1-1.1": {
+			"Score": "50",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Züge sind in die entgegengesetzten Richtungen gefahren. Ein Zugfuhrmit der Geschwindigkeit von 30 km/h, und der zweite mit der Geschwindigkeit von 20 km/h. Um wie viele Kilometer entfernen sie sich für 1 Stunde?",
+			"Expressions": [
+				"30+20"
+			],
+			"Answer": "50"
+			},
+		"2-E-1-1.2": {
+			"Score": "50",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Löwenerschrakensicheinander und liefen in die entgegengesetzten Richtungen. Ein Löwe ist 13 km durchgelaufen, und der zweite Löwe ist 22 km durchgelaufen. Welcher Abstand wurde zwischen den Löwen?",
+			"Expressions": [
+				"13+22"
+			],
+			"Answer": "35"
+			},
+		"2-E-1-2.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Taxis sind aus dem Taxi Betriebs Hof ausgefahren und in die entgegengesetzten Richtungen gefahren. Die Geschwindigkeit jedes Taxis ist 42 km/h. Welcher Abstand wird zwischen den Taxis in 1 Stunde?",
+			"Expressions": [
+				"42+42"
+			],
+			"Answer": "84"
+			},
+		"2-E-1-2.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Lina und Helga sind aus der Musikschule in die entgegengesetzten Richtungen gegangen. Lina ist 43 m durch gegangen, und Helga ist 35 m durchgegangen. Welcher Abstand ist jetzt zwischen den Mädchen?",
+			"Expressions": [
+				"43+35"
+			],
+			"Answer": "78"
+			},
+		"2-E-1-2.3": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Junge und das Mädchen sind aus dem Hausindie entgegengesetzten Richtungen gegangen. Die Geschwindigkeit des Junges ist 32 m/min, die Geschwindigkeit des Mädchens ist 41 m/min. Um wie viele Meter entfernen sich die Kinder voneinander für    1 Minute?",
+			"Expressions": [
+				"32+41"
+			],
+			"Answer": "73"
+			},
+		"2-E-1-2.4": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Aus dem Flug hafensind gleich zeitig Indie entgegen gesetzten Richtungen  zwei Flugzeuge geflogen. Ein Flugzeug ist 46 km durchgeflogen, und der zweite – 37 km. Welcher Abstand ist zwischen den Flugzeugen?",
+			"Expressions": [
+				"46+37"
+			],
+			"Answer": "83"
+			},
+		"2-E-1-2.5": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Giraffe und die Antilope haben sich bei der Tränke getroffen und sind in verschiedene Seiten gegangen. Die Giraffe geht mit der Geschwindigkeit von 19 km/h, und die Geschwindigkeit der Antilope ist 31 km/h. Welcher Abstand wird zwischen ihnen in 1 Stunde?",
+			"Expressions": [
+				"19+31"
+			],
+			"Answer": "50"
+			},
+		"2-E-1-2.6": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Jungen sind aus dem Haus in die entgegengesetzten Seiten gegangen. Ein Junge ist 23 m durchgegangen, und der zweite ist 15 m durchgegangen. Welcher Abstand ist jetzt zwischen den Freunden?",
+			"Expressions": [
+				"23+15"
+			],
+			"Answer": "38"
+			},
+		"2-E-1-2.7": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Von der Sonnenblume fliegen in verschiedene Seiten das Gottes kühchen und die Libelle. Die Geschwindigkeit des Gotteskühchens ist 28 m/min, und der Libelle – 53 m/min. Welcher Abstand wird zwischen ihnen in 1 Minute?",
+			"Expressions": [
+				"28+53"
+			],
+			"Answer": "81"
+			},
+		"2-E-1-2.8": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Aus der Siedlung sind in die entgegengesetzten Richtungen der Radfahrer und der Motorradfahrer ausgefahren. Der Radfahrer ist 14 km durchgefahren, und der Motorradfahrer – 61 km. Welcher Abstand ist jetzt zwischen dem Radfahrer und dem Motorradfahrer?",
+			"Expressions": [
+				"14+61"
+			],
+			"Answer": "75"
+			},
+		"2-E-1-2.9": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Aus dem Krankenhaus sind gleichzeitig in die entgegengesetzten Richtungen zwei Rettungswagen ausgefahren. Der erste Rettungswagen ist 24 km durchgefahren, und der zweite –27 km. Welcher Abstand ist zwischen den Rettungswagen?",
+			"Expressions": [
+				"24+27"
+			],
+			"Answer": "51"
+			},
+		"2-E-1-2.10": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Schwertfisch und der Sägefisch sind in die entgegengesetzten Richtungen von einer Grotte geschwommen. Die Geschwindigkeit des Schwertfisches ist 26 m/min, und die Geschwindigkeit des Sägefisches ist 31 m/min. Um wie viele Meter vergrößert sich der Abstand zwischen den Fischen in 1 Minute?",
+			"Expressions": [
+				"26+31"
+			],
+			"Answer": "57"
+			},
+		"2-E-2-1.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Störche fliegen in die entgegengesetzten Richtungen. Die Geschwindigkeit des ersten ist 24 km/h, und des zweiten – um 2km/h mehr. Um wie viele km/h entfernen sich die Störche voneinander?",
+			"Expressions": [
+				"24+(24+2)"
+			],
+			"Answer": "50"
+			},
+		"2-E-2-1.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Steinen rollten sich vom Berg in verschiedene Seiten. Ein Stein ist 17 m gerollt, und der zweite Stein ist um 3 m weniger gerollt. Welcher Abstand ist zwischen den Steinen?",
+			"Expressions": [
+				"17+(17–3)"
+			],
+			"Answer": "31"
+			},
+		"2-E-2-2.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Vaterund der Sohnsindausdem Hausindie entgegen gesetzten Richtungengegangen. Die Geschwindigkeit des Sohnes ist 36 m/min, und des Vaters – um 4 m/min weniger. Welcher Abstand wir dzwischenihnen in 1 Minute?",
+			"Expressions": [
+				"36+(36–4)"
+			],
+			"Answer": "68"
+			},
+		"2-E-2-2.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Bienen sind aus dem Bienenstock in verschiedene Seiten geflogen. Die erste Biene ist 24 m durchgeflogen, und die zweite ist um 3 m mehr durchgeflogen. Welcher  Abstand ist jetztzwischen ihnen?",
+			"Expressions": [
+				"24+(24+3)"
+			],
+			"Answer": "51"
+			},
+		"2-E-2-2.3": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Aus der Siedlung sind in die entgegengesetzten Richtungen das Lastauto und der Radfahrer ausgefahren. Die Geschwindigkeit des Lastautos ist 46 km/h, und des Radfahrers – um 25 km/h weniger. Welcher Abstand wird zwischen dem Lastauto und dem Radfahrer in 1 Stunde?",
+			"Expressions": [
+				"46+(46–25)"
+			],
+			"Answer": "67"
+			},
+		"2-E-2-2.4": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Gruppender Touristen sind aus dem Hotel in die entgegengesetzten Richtungen gegangen. Eine Gruppe ist 18 km durchgegangen, und die zweite – 17 km. Welcher Abstand ist zwischen den Touristen?",
+			"Expressions": [
+				"18+17"
+			],
+			"Answer": "35"
+			},
+		"2-E-2-2.5": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Von der Bäckerei sind in die entgegengesetzten Seiten zwei Wagen abgefahren. Der erste Wagen ist 43 km durchgefahren, und der zweite ist um 7 km weniger durchgefahren. Welcher Abstand ist jetzt zwischen den Wagen?",
+			"Expressions": [
+				"43+(43–7)"
+			],
+			"Answer": "79"
+			},
+		"2-E-2-2.6": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Fuchses in Daus der Höhle in verschiedene Seiten gelaufen. Der erste Fuchs läuft mit der Geschwindigkeit von 15 km/h, und der zweite – um 2 km/h schneller. Welcher Abstand wird zwischen den Füchsen in 1 Stunde?",
+			"Expressions": [
+				"15+(15+2)"
+			],
+			"Answer": "32"
+			},
+		"2-E-2-2.7": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Peter und Paul sind aus dem Krankenhaus in verschiedene Seiten gegangen. Peter ist 41 m durchgegangen, und Paul – um 5 m mehr. Welcher Abstand wurde zwischen den Jungen?",
+			"Expressions": [
+				"41+(41+5)"
+			],
+			"Answer": "87"
+			},
+		"2-E-2-2.8": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Aus dem Dorf sind die Ziege und die Kuh in die entgegen gesetzten Richtungen gegangen. Die Geschwindigkeit der Ziege ist 19 m/min, und der Kuh – um 3 m/min weniger. Welcher Abstand wird zwischen der Ziege und der Kuh in 1 Minute?",
+			"Expressions": [
+				"19+(19–3)"
+			],
+			"Answer": "35"
+			},
+		"2-E-2-2.9": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Schwalben sind aus dem Nest in verschiedene Seiten geflogen. Die erste Schwalbe ist 62 m durchgeflogen, und die zweite – um 29 m weniger. Welcher Abstand ist jetzt zwischen den Vögeln?",
+			"Expressions": [
+				"62+(62–29)"
+			],
+			"Answer": "95"
+			},
+		"2-E-2-2.10": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Karl und Peter fahren mit den Fahrrädern in verschiedene Seiten. Karlfährt mit der Geschwindigkeit von 33 m/min, und Peter – um 9 m/m in schneller. Welcher Abstand wird zwischen den Jungen in 1 Minute?",
+			"Expressions": [
+				"33+(33+9)"
+			],
+			"Answer": "75"
+			},
+		"2-E-3-1.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Hans und Karl sind aus dem Geschäft in verschiedene Seiten gegangen. Hans ist 9 km durchgegangen. Wie viele Kilometer ist Karl durchgegangen, wenn der Abstand zwischen den Jungen 17 km ist?",
+			"Expressions": [
+				"17–9"
+			],
+			"Answer": "8"
+			},
+		"2-E-3-1.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "2 Sprinter sind in die entgegengesetzte Richtungen gelaufen. Die Geschwindigkeit eines Sprinters ist 7 m/s, das ist um 1 m/s mehr als die Geschwindigkeit des zweiten Sprinters. Um wie viele m/s entfernen sich die Sprinter voneinander?",
+			"Expressions": [
+				"7+(7–1)"
+			],
+			"Answer": "13"
+			},
+		"2-E-3-2.1": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Vom Bahnhofsindgleichzeitigindieentgegengesetzten Richtungen zwei Vorortbahnenabgefahren. Die erste Vorortbahn ist 37 km durchgefahren. Wie viele Kilometer ist die zweite Vorortbahn durchgefahren, wenn der Abstand zwischen den Vorortbahnen 64 km ist?",
+			"Expressions": [
+				"64–37"
+			],
+			"Answer": "27"
+			},
+		"2-E-3-2.2": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Aus der Höhlung sind zwei Eichhörnchen hinausgesprungen und in verschiedene Seiten gesprungen. Das erste Eichhörnchen springt mit der Geschwindigkeit von 15 m/min, und das zweite – um 2 m/min schneller. Welcher Abstandwirdzwischenden Eichhörnchenin 1 Minute?",
+			"Expressions": [
+				"15+(15–2)"
+			],
+			"Answer": "28"
+			},
+		"2-E-3-2.3": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Klaus mit der Mutter sind aus der Wohnung ausgegangen. Die Mutter begann zur Nachbarin die Treppe hinaufzusteigen, und Klaus begann zu den Freunden die Treppe hinunterzusteigen. Die Mutter steigt mit der Geschwindigkeit von 3 Etagen pro Minute hinauf, und Klaus steigt um 1 Etage mehr hinunter. Wie viele Etagen werden zwischen der Mutter und Klaus in 1 Minute?",
+			"Expressions": [
+				"3+(3+1)"
+			],
+			"Answer": "7"
+			},
+		"2-E-3-2.4": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Ameisen sind aus dem Ameisenhaufen in die entgegengesetzten Richtungen gekrochen. Die erste Ameise ist 54 cm durchgekrochen. Wie viele Zentimeter ist die zweite Ameise gekrochen, wenn jetzt zwischen den Ameisen 83 cm sind?",
+			"Expressions": [
+				"83–54"
+			],
+			"Answer": "29"
+			},
+		"2-E-3-2.5": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Indian er sind aus der Hütte in die entgegengesetzten Seiten gegangen. Der erste Indianer ist 14 km durchgegangen. Wie viele Kilometer ist der zweite Indianer durchgegangen, wenn der Abstand zwischen ihnen jetzt 26 km ist?",
+			"Expressions": [
+				"26–14"
+			],
+			"Answer": "12"
+			},
+		"2-E-3-2.6": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Helga und Anna sind aus der Bibliothek in verschiedene Seiten gegangen. Helga geht 46 m pro Minute durch, und Anna – um 3m mehr. Welcher Abstand wird zwischen den Mädchen in 1 Minute?",
+			"Expressions": [
+				"46+(46+3)"
+			],
+			"Answer": "95"
+			},
+		"2-E-3-2.7": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Peter und Klaus sind aus der Werkstatt in verschiedene Seiten gegangen. Peter ist 52 m durchgegangen. Wie viele Kilometer ist Klaus durchgegangen, wenn der Abstand zwischen ihnen jetzt 91 m?",
+			"Expressions": [
+				"91–52"
+			],
+			"Answer": "39"
+			},
+		"2-E-3-2.8": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Aus der Stadt sind gleichzeitig in die entgegengesetzten Seiten das Motorrad und das Auto ausgefahren. Die Geschwindigkeit des Autos ist 47 km/h, und die Geschwindigkeit des Motorrads ist um 18 km/h weniger. Welcher Abstand wird zwischen dem Motorrad und dem Auto in 1 Stunde?",
+			"Expressions": [
+				"47+(47–18)"
+			],
+			"Answer": "76"
+			},
+		"2-E-3-2.9": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Flusspferde schwimmen in die entgegengesetzten Richtungen. Das erste Flusspferd ist 17 Meter geschwommen, und das zweite – um 6 Meter mehr. Wie viele Metermüssen die Flusspferde schwimmen, damit der Abstand zwischen ihnen 62 m war?",
+			"Expressions": [
+				"62–(17+(17+6))",
+				"62–17–(17+6)"
+			],
+			"Answer": "22"
+			},
+		"2-E-3-2.10": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Kaninchen haben den Fuchs gesehen und in verschiedene Seiten gelaufen. Das erste Kaninchenläuft 8 m/min, und das zweite – um 2 m/min mehr. Welcher Abstandwird zwischen den Kaninchen in 2 Minuten?",
+			"Expressions": [
+				"(8+(8+2))+(8+(8+2))"
+			],
+			"Answer": "36"
+			},
+		"2-E-4-1.1": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Aus der Stadt Аsind zwei Autos in die entgegengesetzten Seiten ausgefahren. Ein Auto ist mit der Geschwindigkeit von 24 km/h gefahren, und das zweite Auto ist mit der Geschwindigkeit von 30 km/h gefahren. Welcher Abstand wird zwischen ihnen in 2 Stunden?",
+			"Expressions": [
+				"(24+30)+(24+30)",
+				"24+24+30+30"
+			],
+			"Answer": "108"
+			},
+		"2-E-4-1.2": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Peter und Klaus sind aus dem Hausausgegangen und in die entgegengesetzten Seiten gefahren. Peter ist mit dem Bus 12 km durchgefahren, und Klaus – 30 km. Wie viele Kilometer müssen die Jungenfahren, um der Abstand zwischen ihnen 50 km war?",
+			"Expressions": [
+				"50–(12+30)",
+				"50–12–30"
+			],
+			"Answer": "8"
+			},
+		"2-E-4-2.1": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Fahrgastschiffe sind gleichzeitig vom Hafen in die entgegen gesetzten Richtun genab geschwommen. Die Geschwindigkeit des ersten Fahrgastschiffes ist 31 m/min, und des zweiten – um 14 m/min mehr. Welcher Abstand wird zwischen den Schiffen in 2 Minuten nach der Abfahrt?",
+			"Expressions": [
+				"(31+(31–13))+(31+(31–13))",
+				"31+31+(31–13)+(31–13)"
+			],
+			"Answer": "98"
+			},
+		"2-E-4-2.2": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Schlittschuhläufer sind in verschiedene Seiten gelaufen. Der erste Schlittschuhläufer ist 31 m durchgelaufen, und der zweite – um 12 m mehr. Wie viele Meter müssen die Sportler laufen, damit der Abstand zwischen ihnen 86 m wird?",
+			"Expressions": [
+				"86–(31+(31+12))",
+				"86–31–(31+12)"
+			],
+			"Answer": "12"
+			},
+		"2-E-4-2.3": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Vom Busbahnhof sind zwei Busse in die entgegengesetzten Seiten abgefahren. Die Geschwindigkeit je des Busses ist 11 m/s. Welcher Abstand wird zwischen den Bussen in 3 Sekunden nach der Abfahrt?",
+			"Expressions": [
+				"11+11+11"
+			],
+			"Answer": "33"
+			},
+		"2-E-4-2.4": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Hans und Klaus sind Indie entgegen gesetzten Seitenmit dem Schi gelaufen. Die Geschwindigkeit von Hans ist 9 km/h, und die Geschwindigkeit von Klaus ist um 2 km/h mehr. Welcher Abstand wird zwischen den Schiläufern in 3 Stunden?",
+			"Expressions": [
+				"(9+(9+2))+(9+(9+2))+(9+(9+2))",
+				"9+9+9+(9+2)+(9+2)+(9+2)"
+			],
+			"Answer": "60"
+			},
+		"2-E-4-2.5": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Kükensindausdem Hühnerstallindieentgegengesetzten Seitengelaufen. Die Geschwindigkeit eines Kükens ist 17 m/min, und des zweiten – um 2 m/min weniger. Welcher Abstand wird zwischen den Küken in 2 Minuten?",
+			"Expressions": [
+				" (17+(17–2))+(17+(17–2))",
+				"17+17+(17–2)+(17–2)"
+			],
+			"Answer": "64"
+			},
+		"2-E-4-2.6": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Aus dem Laboratorium sind Indie entgegen gesetzten Seitenzwei Roboter ausgefahren. Ein Roboterfährt 34 m/min, und der zweite – um 7 m/min mehr. Welcher Abstand wird zwischen den Robotern in 2 Minuten?",
+			"Expressions": [
+				"(34+(34+7))+(34+(34+7))",
+				"34+34+(34+7)+(34+7)"
+			],
+			"Answer": "150"
+			},
+		"2-E-4-2.7": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Kameles indvoneiner Oase Indie entgegen gesetzten Seitengegangen. Das erste Kamel geht mit der Geschwindigkeit von 6 km/h, und das zweite – um 1 km/h langsamer. Welcher Abstand wird zwischen den Kamelen in 4 Stunden?",
+			"Expressions": [
+				"(6+(6–1))+(6+(6–1))+(6+(6–1))+(6+(6-1))",
+				"6+6+6+6+(6–1)+(6–1)+(6–1)+(6–1)"
+			],
+			"Answer": "44"
+			},
+		"2-E-4-2.8": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Das Krokodil Gena und Tscheburaschka sind aus dem Haus von Chapeau Claque in verschiedene Seiten gegangen. Gena ist 35 m durchgegangen, und Tscheburaschka– um8 m weniger. Wie viele Meter müssen die Freunde gehen, damit der Abstand zwischen ihnen 84 Meter wird?",
+			"Expressions": [
+				"84–(35+(35–8))",
+				"84–35–(35–8)"
+			],
+			"Answer": "22"
+			},
+		"2-E-4-2.9": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Koschtschei und der Drachen sind aus der Hütte in die entgegengesetzten Richtungen gegangen. Koschtschei geht mit der Geschwindigkeit von 6 km/h, und der Drachen fliegt mit der Geschwindigkeit um 11 km/h schneller. Welcher Abstand wird zwischen Koschtschei und dem Drachen in 3 Stunden?",
+			"Expressions": [
+				"(6+(6+11))+(6+(6+11))+(6+(6+11))",
+				"6+6+6+(6+11)+(6+11)+(6+11)"
+			],
+			"Answer": "69"
+			},
+		"2-E-4-2.10": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Karl und Peter sind aus dem Haus in verschiedene Seiten gegangen. Karl ist 3 km zu Fuß durchgegangen und 8 km mit dem Auto gefahren. Peter ist um 2 km zu Fuß durchgegangen, als Peter mit dem Auto, und mit dem Auto ist er so viel gefahren, wie Karl zu Fuß und mit dem Auto zusammen. Welcher Abstand ist jetzt zwischen den Jungen?",
+			"Expressions": [
+				"(3+8)+(8–2)+(3+8)"
+			],
+			"Answer": "28"
+			},
+		"2-E-5-2.1": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Züge sind in die entgegengesetzten Richtungen gefahren. Ein Zugfuhrmit der Geschwindigkeit von a km/h, und der zweite mit der Geschwindigkeit von c km/h. Um wie viele Kilometer entfernen sie sich für 1 Stunde?",
+			"Expressions": [
+				"a+c"
+			],
+			"Answer": ""
+			},
+		"2-E-5-2.2": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Löwenerschrakensicheinander und liefen in die entgegengesetzten Richtungen. Ein Löwe ist x km durchgelaufen, und der zweite Löwe ist y km durchgelaufen. Welcher Abstand wurde zwischen den Löwen?",
+			"Expressions": [
+				"x+y"
+			],
+			"Answer": ""
+			},
+		"2-E-5-2.3": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Störche fliegen in die entgegengesetzten Richtungen. Die Geschwindigkeit des ersten ist n km/h, und des zweiten – um m km/h mehr. Um wie viele km/h entfernen sich die Störche voneinander?",
+			"Expressions": [
+				"n+(n+m)",
+				"2n+m"
+			],
+			"Answer": ""
+			},
+		"2-E-5-2.4": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Steinen rollten sich vom Berg in verschiedene Seiten. Ein Stein ist s m gerollt, und der zweite Stein ist um k m weniger gerollt. Welcher Abstand ist zwischen den Steinen?",
+			"Expressions": [
+				"s+(s–k)",
+				"2s–k"
+			],
+			"Answer": ""
+			},
+		"2-E-5-2.5": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Hans und Karl sind aus dem Geschäft in verschiedene Seiten gegangen. Hans ist d km durchgegangen. Wie viele Kilometer ist Karl durchgegangen, wenn der Abstand zwischen den Jungen f km ist?",
+			"Expressions": [
+				"f–d"
+			],
+			"Answer": ""
+			},
+		"2-E-5-2.6": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "2 Sprinter sind in die entgegengesetzte Richtungen gelaufen. Die Geschwindigkeit eines Sprinters ist l m/s, das ist um j m/s mehr als die Geschwindigkeit des zweiten Sprinters. Um wie viele m/s entfernen sich die Sprinter voneinander?",
+			"Expressions": [
+				"l+(l–j)",
+				"2l–j"
+			],
+			"Answer": ""
+			},
+		"2-E-5-2.7": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Aus der Stadt Аsind zwei Autos in die entgegengesetzten Seiten ausgefahren. Ein Auto ist mit der Geschwindigkeit von x km/h gefahren, und das zweite Auto ist mit der Geschwindigkeit von y km/h gefahren. Welcher Abstand wird zwischen ihnen in 2 Stunden?",
+			"Expressions": [
+				"(x+y)+(x+y)",
+				"2x+2y"
+			],
+			"Answer": ""
+			},
+		"2-E-5-2.8": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Peter und Klaus sind aus dem Hausausgegangen und in die entgegengesetzten Seiten gefahren. Peter ist mit dem Bus v km durchgefahren, und Klaus – z km. Wie viele Kilometer müssen die Jungenfahren, um der Abstand zwischen ihnen s km war?",
+			"Expressions": [
+				"s–(v+z)",
+				"s–v–z"
+			],
+			"Answer": ""
+			},
+		"2-F-1-1.1": {
+			"Score": "50",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Beiden Schaben ist der Wettlauf. Nachdem Schuss des Signalwerfers begannen sich die Schaben zu bewegen. Die Geschwindigkeit einer Schabe ist 18 cm/s, und der zweiten – 16 cm/s. Welcher Abstand wird zwischen ihnen in 1 Sekunde?",
+			"Expressions": [
+				"18-16"
+			],
+			"Answer": "2"
+			},
+		"2-F-1-1.2": {
+			"Score": "50",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Aus der Garage sind gleichzeitig 2 Autos in eine Richtung ausgefahren. In einige Zeit ist ein Auto 27 km durchgefahren, und das zweite – 35 km. Welcher Abstand ist jetzt zwischen den Autos?",
+			"Expressions": [
+				"35-27"
+			],
+			"Answer": "8"
+			},
+		"2-F-1-2.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Aus der Stadtsind gleich zeitig in eine Richtung das Lastauto und das Personenauto ausgefahren. Die Geschwind igkeit des Lastautos ist 56 km/h, und die Geschwindigkeit des Personenautos ist 73 km/h. Welcher Abstand wird zwischen ihnen in 1 Stunde?",
+			"Expressions": [
+				"73–56"
+			],
+			"Answer": "17"
+			},
+		"2-F-1-2.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Aus der Stadt ist das Auto mit der Geschwindigkeit von 42 km/h ausgefahren und der Luftballon mit der Geschwindigkeit von 16 km/h ausgeflogen. Welcher Abstand wird zwischen dem Auto und dem Luftballon in 1 Stunde?",
+			"Expressions": [
+				"42–16"
+			],
+			"Answer": "26"
+			},
+		"2-F-1-2.3": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Am Wettrennen mit den Hund Gespannen nehmen zwei Wagen teil. Das erste Gespann fährt mit der Geschwindigkeit von 86 m/min, und das zweite – mit der Geschwindigkeit von 79 m/min. Welcher Abstand wird zwischen den Gespannen in 1 Minute nach dem Start?",
+			"Expressions": [
+				"86–79"
+			],
+			"Answer": "7"
+			},
+		"2-F-1-2.4": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Aus dem Hafensindineine Richtung der Tanker und das U-Boot abgeschwommen. Die Geschwindigkeit des Tankers ist 42 km/h, und die Geschwindigkeit des U-Boots ist 78 km/h. Welcher Abstand wird zwischen den Schiffen in eine Stunde nach der Abfahrt?",
+			"Expressions": [
+				"78–42"
+			],
+			"Answer": "36"
+			},
+		"2-F-1-2.5": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Jäger und seine Hund verfolgen den Hasen. Die Geschwindigkeit des Jägers ist 45 m/min, und des Hundes – 82 m/min. Um wie viele Metervergrößertsich der Abstandzwischen dem Jäger und dem Hund jede Minute?",
+			"Expressions": [
+				"82–45"
+			],
+			"Answer": "37"
+			},
+		"2-F-1-2.6": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Aus der Schule sind nach dem Unterricht zwei Schüler in eine Richtung gegangen. Hans ist 75 m durchgegangen, und Peter ist 53 m durchgegangen. Welcher Abstand ist zwischen den Jungen?",
+			"Expressions": [
+				"75–53"
+			],
+			"Answer": "22"
+			},
+		"2-F-1-2.7": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Die Ente mit den Entenküken schwamm durch den See. Die Ente ist 27 m geschwommen, und die Entenküken sind 23 m geschwommen. Welcher Abstand ist zwischen der Ente und den Entenküken?",
+			"Expressions": [
+				"27–23"
+			],
+			"Answer": "4"
+			},
+		"2-F-1-2.8": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Mäuschen haben die Mutter gesehen und sind zu ihr gelaufen. Für 20 Sekunden ist das erste Mäuschen  34 m durchgelaufen, und das zweite – 27 m. Welcher Abstand ist zwischen den Mäuschen?",
+			"Expressions": [
+				"34–27"
+			],
+			"Answer": "7"
+			},
+		"2-F-1-2.9": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Karawanen gehen zur näheren Oase. Die erste Karawane ist 34 km durchgegangen, und die zweite ist 45 km durchgegangen. Welcher Abstand ist zwischen den Karawanen?",
+			"Expressions": [
+				"45–34"
+			],
+			"Answer": "11"
+			},
+		"2-F-1-2.10": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Wolf und der Fuchs verfolgen den Hasen. Die Geschwindigkeit des Wolfes ist 31 km/h, und die Geschwindigkeit des Fuchses ist 17 km/h. Um wie viele Kilometer vergrößert sich der Abstand zwischen dem Wolf und dem Fuchs für 1 Stunde?",
+			"Expressions": [
+				"31–17"
+			],
+			"Answer": "14"
+			},
+		"2-F-2-1.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Peter und Paul sind aus der Schule zum Stadion gegangen. Die Geschwindigkeit von Peter ist 5 km/h, und von Paul 3 km/h. Welcher Abstand wird zwischen den Jungen in 2 Stunden?",
+			"Expressions": [
+				"(5+5)-(3+3)"
+			],
+			"Answer": "4"
+			},
+		"2-F-2-1.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Hubschrauber fliegen aus London nach Manchester. Die Geschwindigkeit eines Hubschraubers ist 30 km/h, und des zweiten – 20 km/h. Welcher Abstand wird zwischen den Hubschraubern in 3 Stunden?",
+			"Expressions": [
+				"(30+30+30)-(20+20+20)"
+			],
+			"Answer": "30"
+			},
+		"2-F-2-2.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Am Rennennehmendasweiße Auto, das rote Auto und das gelbe Auto teil. Das weiße Auto fährt mit der Geschwindigkeit von 20 m/s, das rote Auto fährt mit der Geschwindigkeit von 27 m/s, und das gelbe mit der Geschwindigkeit um 2 m/s schneller als das weise Auto. Welcher Abstand wird zwischen dem gelben und roten Auto in 3 Sekunden nach dem Start?",
+			"Expressions": [
+				"(27-(20+2))+(27-(20+2))+(27-(20+2))"
+			],
+			"Answer": "15"
+			},
+		"2-F-2-2.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Der Polizist verfolgt die Verbrecher. Die Geschwindigkeit des Polizeifahrzeuges ist  78 km/h, und die Geschwindigkeit des Autos von Verbrechern ist 72 km/h. Um wie viele Kilometer verringert sich der Abstand zwischen den Verbrechern und den Polizisten für 2 Stunden?",
+			"Expressions": [
+				"(78–72)+(78–72)"
+			],
+			"Answer": "12"
+			},
+		"2-F-2-2.3": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Aus Moskau nach Sankt Petersburg sind gleichzeitig der Zug mit der Geschwindigkeit von 80 km/h und der Bus mit der Geschwindigkeit von 62 km/h abgefahren. Welcher Abstand wird zwischen dem Zug und dem Bus in 3 Stunden?",
+			"Expressions": [
+				"(80–62)+(80–62)+(80–62)"
+			],
+			"Answer": "54"
+			},
+		"2-F-2-2.4": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Ameisen kriechen über der Eiche. Die Geschwindigkeit der ersten Ameise ist 12 m/min, und der zweiten – 9 m/min. Welcher Abstand wird zwischen den Ameisen in 3 Minuten?",
+			"Expressions": [
+				"(12–9)+(12–9)+(12–9)"
+			],
+			"Answer": "9"
+			},
+		"2-F-2-2.5": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Chipand Chaphabenbeschlossenzuprüfen, wer schneller läuft. Nach dem Signal sind beide Preventertreppauf gelaufen, Chip lief mit der Geschwindigkeit von 30 Stufen pro Minute, und Chap lief mit der Geschwindigkeit von 27 Stufen pro Minute. Welcher Abstandwird zwischen den Preventern in 3 Minuten nach dem Start?",
+			"Expressions": [
+				"(30–27)+(30–27)+(30–27)"
+			],
+			"Answer": "9"
+			},
+		"2-F-2-2.6": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Vom Empfangsgebäude haben sichineine Richtung der Wasserbus und das Dampfschiff begeben. Die Geschwindigkeit des Wasserbusses ist 27 km/h, und die Geschwindigkeit des Dampfschiffes ist 23 km/h. Welcher Abstand wird zwischen ihnen in 2 Stunden?",
+			"Expressions": [
+				"(27–23)+(27–23)"
+			],
+			"Answer": "8"
+			},
+		"2-F-2-2.7": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Ausdem Punkt A inden Punkt B habensichgleichzeitigder RadfahrerundderFußgänger begeben. Die Geschwindigkeit des Radfahrers ist um 11 km/h mehr als die Geschwindigkeit des Fußgängers. Welcher Abstand wird zwischen ihnen in 4 Stunden?",
+			"Expressions": [
+				"11+11+11+11"
+			],
+			"Answer": "44"
+			},
+		"2-F-2-2.8": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Vom Eisberg haben sich zwei Eisschollen abgespaltet und sind in eine Richtung geschwommen. Die erste Eisscholle schwimmt mit der Geschwindigkeit von 36 m/min, und die zweite – 31 min. Welcher Abstand wird zwischen den Eisschollen in 3 Minuten?",
+			"Expressions": [
+				"(36–31)+(36–31)+(36–31)"
+			],
+			"Answer": "15"
+			},
+		"2-F-2-2.9": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Vom Bahnhofsindineine Richtung die Vorortbahn und der Passagierzugabgefahren. Die Geschwindigkeit der Vorortbahn ist um 12 km/h mehr als die Geschwindigkeit des Zuges. Welcher Abstandwird zwischen der Vorortbahn und dem Passagierzug in 2 Stunden?",
+			"Expressions": [
+				"12+12"
+			],
+			"Answer": "24"
+			},
+		"2-F-2-2.10": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Vom Durchgangsheim sind zwei Gruppen in eine Richtung gegangen. Die erste Gruppe geht zu Fuß mit der Geschwindigkeit von 4 km/h, die zweite Gruppe fährt mit den Fahrrädern mit der Geschwindigkeit von 18 km/h. Welcher Abstand wird zwischen den Touristen in 3 Stunden?",
+			"Expressions": [
+				"(18–4)+(18–4)+(18–4)"
+			],
+			"Answer": "42"
+			},
+		"2-F-3-2.1": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Beiden Schaben ist der Wettlauf. Nachdem Schuss des Signalwerfers begannen sich die Schaben zu bewegen. Die Geschwindigkeit einer Schabe ist m cm/s, und der zweiten – n cm/s. Welcher Abstand wird zwischen ihnen in 1 Sekunde?",
+			"Expressions": [
+				"m–n"
+			],
+			"Answer": ""
+			},
+		"2-F-3-2.2": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Aus der Garage sind gleichzeitig 2 Autos in eine Richtung ausgefahren. In einige Zeit ist ein Auto l km durchgefahren, und das zweite – k km. Welcher Abstand ist jetzt zwischen den Autos?",
+			"Expressions": [
+				"k–l"
+			],
+			"Answer": ""
+			},
+		"2-F-3-2.3": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Peter und Paul sind aus der Schule zum Stadion gegangen. Die Geschwindigkeit von Peter ist v km/h, und von Paul w km/h. Welcher Abstand wird zwischen den Jungen in 2 Stunden?",
+			"Expressions": [
+				"(v+v)+(w+w)=2v+2w"
+			],
+			"Answer": ""
+			},
+		"2-F-3-2.4": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Zwei Hubschrauber fliegen aus London nach Manchester. Die Geschwindigkeit eines Hubschraubers ist x km/h, und des zweiten – y km/h. Welcher Abstand wird zwischen den Hubschraubern in 3 Stunden?",
+			"Expressions": [
+				"(x–y)+(x–y)+(x–y)",
+				"(x+x+x)–(y+y+y)=3x–3y"
+			],
+			"Answer": ""
+			}
+		}
+}

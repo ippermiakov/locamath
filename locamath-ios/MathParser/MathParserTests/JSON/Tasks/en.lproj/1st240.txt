@@ -1,0 +1,3199 @@
+{
+	"tasks": {
+		"1-A-1-1.1": {
+			"Score": "50",
+			"Animation": "1_a1_11_N.swf",
+			"Hint": "The ant crawled from the ant hill to the mushroom ",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "An ant crawled 7 dm from an ant hill to a flower and another 12 dm from the flower to a mushroom. Which distance did the ant crawl from the ant hill to the mushroom?",
+			"Expressions": [
+				"7+12"
+			],
+			"Answer": "19"
+			},
+		"1-A-1-1.2": {
+			"Score": "50",
+			"Animation": "1_a1_12_N.swf",
+			"Hint": "Little Red Riding Hood spent on the whole journey.",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Little Red Riding Hood went to her granny. She was walking for 2 hours through the woods and for 4 hours through the field. How much time did Little Red Riding Hood spend on the whole journey?",
+			"Expressions": [
+			    "2+4"
+			],
+			"Answer": "6"
+			},
+		"1-A-1-1.3": {
+			"Score": "50",
+			"Animation": "1_a1_13_N.swf",
+			"Hint": "The snail has left to crawl.",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A snail needs to crawl 16 cm. It has already crawled 9 cm. How many cm does the snail have left to crawl?",
+			"Expressions": [
+			    "16-9"
+			],
+			"Answer": "7"
+			},
+		"1-A-1-1.4": {
+			"Score": "50",
+			"Animation": "",
+			"Hint": "The boy has left to reach school.",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Bob needs to get to school in 20 minutes. He has already been going for 14 minutes. How much time does the boy have left to reach school?",
+			"Expressions": [
+			    "20-14"
+			],
+			"Answer": "6"
+			},
+		"1-A-1-2.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "It took Maria 12 minutes to walk home from school and 6 minutes to get up in an elevator to reach her flat. How long did it take Maria to get home from school?",
+			"Expressions": [
+			    "12+6"
+			],
+			"Answer": "18"
+			},
+		"1-A-1-2.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A frog was swimming against the tide for 5 minutes and for 9 minutes downstream. How long was the frog swimming for in total?",
+			"Expressions": [
+			    "5+9"
+			],
+			"Answer": "14"
+			},
+		"1-A-1-2.3": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A car was going for 2 hours on a country road and for 4 hours on a highway. How many hours was the car going for?",
+			"Expressions": [
+			    "2+4"
+			],
+			"Answer": "6"
+			},
+		"1-A-1-2.4": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A cat was running quickly for 12 minutes, then slowly for 8 minutes. How long was the cat running for?",
+			"Expressions": [
+			    "12+8"
+			],
+			"Answer": "20"
+			},
+		"1-A-1-2.5": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A flower has grown 3 cm on the first day and 4 cm on the second day. How many cm has the flower grown in 2 days?",
+			"Expressions": [
+			    "3+4"
+			],
+			"Answer": "7"
+			},
+		"1-A-1-2.6": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A girl went 3 metres from a sandpit to the swings, and another 5 metres from the swings to a merry-go-round. What distance did the girl go from the sandpit to the merry-go-round?",
+			"Expressions": [
+			    "3+5"
+			],
+			"Answer": "8"
+			},
+		"1-A-1-2.7": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A car went 12 km from town A to town B, and the distance between town B and town C is 8 km. How many km did the car go from town A to town C?",
+			"Expressions": [
+			    "12+8"
+			],
+			"Answer": "20"
+			},
+		"1-A-1-2.8": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A mouse ran 9 metres from a mouse hole to the field, and another 8 metres from the field to the river. What distance did the mouse run in total?",
+			"Expressions": [
+			    "9+8"
+			],
+			"Answer": "17"
+			},
+		"1-A-1-2.9": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A bear eats the jar of honey for 15 minutes. It has already been eating it for 7 minutes. When is the jar going to be empty?",
+			"Expressions": [
+			    "15-7"
+			],
+			"Answer": "8"
+			},
+		"1-A-1-2.10": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A superman ties shoelaces for 17 seconds; he ties a right shoelace for 7 seconds, how long does it take him to tie a left shoelace?",
+			"Expressions": [
+			    "17-7"
+			],
+			"Answer": "10"
+			},
+		"1-A-1-2.11": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Baby Roo can jump non-stop for 19 minutes; he has already been jumping for 7 minutes, when is he going to stop?",
+			"Expressions": [
+			    "19-7"
+			],
+			"Answer": "12"
+			},
+		"1-A-1-2.12": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "It takes Michael 14 minutes to get to the shop, how many more minutes will he still need to go if he has already been going for 5 minutes?",
+			"Expressions": [
+			    "14-5"
+			],
+			"Answer": "9"
+			},
+		"1-A-1-2.13": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dora usually walks to music school for 12 minutes. She has already been going for 7 minutes. How many more minutes is Dora going to walk for?",
+			"Expressions": [
+			    "12-7"
+			],
+			"Answer": "5"
+			},
+        "1-A-1-2.14": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A tractor went 10 km through the field and 7 km on the road. How many kilometres did the tractor go in total?",
+			"Expressions": [
+			    "10+7"
+			],
+			"Answer": "17"
+			},
+        "1-A-1-2.15": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "It takes Margaret 5 minutes to get to the shop from her house. On her way, Margaret met her friend Hannah, and they chatted a bit. How long were the girls chatting for if it took Margaret 12 minutes to get to the shop?",
+			"Expressions": [
+				"12-5"
+			],
+			"Answer": "7"
+			},
+        "1-A-1-2.16": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A tree grew 3 m in the first year and 13 m in the second year. How many meters did the tree grow in 2 years?",
+			"Expressions": [
+				"3+13"
+			],
+			"Answer": "16"
+			},
+        "1-A-1-2.17": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A car went on a country road for 2 hours and 4 hours on a highway. How many hours was the car driving?",
+			"Expressions": [
+				"2+4"
+			],
+			"Answer": "6"
+			},
+        "1-A-1-2.18": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A cat ran quickly for 12 minutes, then it ran slowly for 8 minutes. How long did the cat run for?",
+			"Expressions": [
+				"12+8"
+			],
+			"Answer": "20"
+			},
+		"1-A-2-1.1": {
+			"Score": "100",
+			"Animation": "1_a2_11_N.swf",
+			"Hint": "The speed of Dan",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Kate is running at a speed of 7 km/h, and Dan is running 2 km faster. What is the speed of Dan?",
+			"Expressions": [
+			    "7+2"
+			],
+			"Answer": "9"
+			},
+		"1-A-2-1.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "Piglet went",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Winnie the Pooh went 3 km, and Piglet went 2 km more.  What distance did Piglet go?",
+			"Expressions": [
+			    "3+2"
+			],
+			"Answer": "5"
+			},
+		"1-A-2-1.3": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "Munchausen was following the fox ",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Baron Munchausen was following a hare for 12 hours and a fox for 3 hours less.  How much time was Munchausen following the fox for?",
+			"Expressions": [
+			    "12-3"
+			],
+			"Answer": "9"
+			},
+        "1-A-2-1.4": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Malvina is walking at a speed of 4 km/h, and the poodle Artemon is running at a speed of 9 km/h. How many km/h is Malvina's speed less than the speed of Artemon?",
+			"Expressions": [
+			    "9-4"
+			],
+			"Answer": "5"
+			},
+		"1-A-2-2.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A cyclist is going at a speed of 15 km/h, and a pedestrian is going 11 km/h slower. What is the speed of the pedestrian?",
+			"Expressions": [
+			    "15-11"
+			],
+			"Answer": "4"
+			},
+		"1-A-2-2.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "It takes Julie 6 minutes to get to school and 3 minutes more to get to the shop. How many minutes does Julie need to get to the shop?",
+			"Expressions": [
+			    "6+3"
+			],
+			"Answer": "9"
+			},
+		"1-A-2-2.3": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "An ant crawled 17 cm along the stem and 12 cm less along the leaf. What distance did the ant crawl along the leaf?",
+			"Expressions": [
+			    "17-12"
+			],
+			"Answer": "5"
+			},
+		"1-A-2-2.4": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A boat sailed 4 km on a lake and 5 km more on the river.  How many kilometres did the boat sail on the river?",
+			"Expressions": [
+			    "4+5"
+			],
+			"Answer": "9"
+			},
+		"1-A-2-2.5": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A cheetah is running at a speed of 6 m/s, and a lion 2 m/s slower.  What is the speed of the lion?",
+			"Expressions": [
+			    "6-2"
+			],
+			"Answer": "4"
+			},
+		"1-A-2-2.6": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Peter was walking with his dog for 8 minutes in the morning and for 3 minutes more in the evening. How many minutes was Peter walking with his dog in the evening?",
+			"Expressions": [
+			    "8+3"
+			],
+			"Answer": "11"
+			},
+		"1-A-2-2.7": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A hare ran 3 km through the field and 4 km more through the forest. How many kilometres did the hare run through the forest?",
+			"Expressions": [
+			    "3+4"
+			],
+			"Answer": "7"
+			},
+		"1-A-2-2.8": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A traveller has gone 12 km on the first day and 6 km more on the second day. How far has the traveller gone on the second day?",
+			"Expressions": [
+			    "12+6"
+			],
+			"Answer": "18"
+			},
+        "1-A-2-2.9": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "It takes Sergio 11 minutes to get to school, and it takes Alex to get to school 3 minutes less. How many minutes does Alex need to get to school?",
+			"Expressions": [
+			    "11-3"
+			],
+			"Answer": "8"
+			},
+        "1-A-2-2.10": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Children went hiking. They walked 6 km before lunch and 4 km after lunch. How many kilometres less did the children go after lunch?",
+			"Expressions": [
+			    "6-4"
+			],
+			"Answer": "2"
+			},
+        "1-A-2-2.11": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Baron Munchausen swam 5 km on a whale and flew 4 km more on a duck.  What distance did Baron Munchausen fly?",
+			"Expressions": [
+			    "5+4"
+			],
+			"Answer": "9"
+			},
+        "1-A-2-2.12": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Cheburashka is going at a speed of 2 km/h. Gena the Crocodile is going at a speed of 5 km/h. How many km/h is Cheburashka's speed less than the speed of Gena the Crocodile?",
+			"Expressions": [
+			    "5-2"
+			],
+			"Answer": "3"
+			},
+        "1-A-2-2.13": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Karlsson may reach the roof in 4 minutes. Lillebror is going up the stairs to the roof for 10 minutes. How many minutes less does Karlsson need to get to the roof?",
+			"Expressions": [
+			    "10-4"
+			],
+			"Answer": "6"
+			},
+		"1-A-2-2.14": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "The speed of a swallow is 3 m/sec, and the speed of a swift is 5 m/sec. For how many m/sec is the speed of the swift more than the speed of the swallow?",
+			"Expressions": [
+			    "5-3"
+			],
+			"Answer": "2"
+			},
+		"1-A-2-2.15": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A lorry may get in 7 hours from town A to town B, and a bus - in 5 hours. How many more hours will the lorry be going for?",
+			"Expressions": [
+			    "7-5"
+			],
+			"Answer": "2"
+			},
+        "1-A-2-2.16": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Children were playing hide-and-seek for 8 minutes and cops and robbers for 7 minutes more.  How much time were the children playing cops and robbers for?",
+			"Expressions": [
+			    "8+7"
+			],
+			"Answer": "15"
+			},
+        "1-A-2-2.17": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "An ant was looking for a straw for 15 minutes and then carried it to an ant hill for 4 minutes less. How much time was the ant carrying the straw for?",
+			"Expressions": [
+			    "15-4"
+			],
+			"Answer": "11"
+			},
+        "1-A-2-2.18": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A cat was playing with the mouse for 10 minutes and was basking in the sun for 7 minutes more. How much time was the cat basking in the sun for?",
+			"Expressions": [
+			    "10+7"
+			],
+			"Answer": "17"
+			},
+        "1-A-2-2.19": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Stuart walked 3 km in the park with his mum and went by river bus 2 km more.  How many kilometres did Stuart go by river bus?",
+			"Expressions": [
+			    "3+2"
+			],
+			"Answer": "5"
+			},
+        "1-A-2-2.20": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Little Red Riding Hood needs 20 minutes to get to her granny, and the Wolf needs 15 minutes. How many minutes earlier will the Wolf reach granny's house?",
+			"Expressions": [
+			    "20-15"
+			],
+			"Answer": "5"
+			},
+        "1-A-2-2.21": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A fox is running at a speed of 11 km/h, and a wolf is running 3 km/h faster. What is the speed of the wolf?",
+			"Expressions": [
+			    "11+3"
+			],
+			"Answer": "14"
+			},
+        "1-A-2-2.22": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Laura went 18 m upon the bridge and 4 m less on the road. How many meters did Laura go on the road?",
+			"Expressions": [
+			    "18-4"
+			],
+			"Answer": "14"
+			},
+        "1-A-2-2.23": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A mouse was running to get cheese at a speed of 8 km/h and was carrying it to the mouse hole at a speed of 6 km/h. How much faster was the mouse running to get cheese?",
+			"Expressions": [
+			    "8-6"
+			],
+			"Answer": "2"
+			},
+        "1-A-2-2.24": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "One needs to cover 12 km to get to the lake taking the country road and 3 km less to get there through the forest.  What distance does one need to cover in order to get to the lake through the forest?",
+			"Expressions": [
+			    "12-3"
+			],
+			"Answer": "9"
+			},
+        "1-A-2-2.25": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dan had been going on foot at a speed of 5 km/h. Then the rain started, and Dan began running at a speed of 8 km/h. How much faster did Dan begin running?",
+			"Expressions": [
+			    "8-5"
+			],
+			"Answer": "3"
+			},
+        "1-A-2-2.26": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A hedgehog was picking mushrooms for 3 hours and berries for 2 hours more. How much time was the hedgehog picking berries for?",
+			"Expressions": [
+			    "3+2"
+			],
+			"Answer": "5"
+			},
+		"1-A-3-1.1": {
+			"Score": "150",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Kate is running at a speed of 6 km/h, which is 2 km slower than the speed of Dan (The speed of Dan is 2 km more than the speed of Kate).  What is the speed of Dan?",
+			"Expressions": [
+			    "6+2"
+			],
+			"Answer": "8"
+			},
+		"1-A-3-1.2": {
+			"Score": "150",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Goofy ran 12 km, which is 7 km more than Tom Cat ran. What distance did Tom Cat run?",
+			"Expressions": [
+			    "12-7"
+			],
+			"Answer": "5"
+			},
+		"1-A-3-1.3": {
+			"Score": "150",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "It takes Sergio 17 minutes to return from school, which is 8 minutes more than it takes Albert to return.  How many minutes does it take Albert to return from school?",
+			"Expressions": [
+			    "17-8"
+			],
+			"Answer": "9"
+			},
+        "1-A-3-1.4": {
+			"Score": "150",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Tourists went 8 km on foot and rode a boat for 2 hours more.  How much time did the tourists travel in total?",
+			"Expressions": [
+			    "8+(8+2)"
+			],
+			"Answer": "18"
+			},
+        "1-A-3-2.1": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A cyclist can ride on a higway at a speed of 13 km/h, which is 4 km/h more than his speed on a country road. What is the speed of the cyclist on the country road?",
+			"Expressions": [
+			    "13-4"
+			],
+			"Answer": "9"
+			},
+        "1-A-3-2.2": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Paul is going on foot, and Alex is riding a bike. The speed of Paul is 4 km/h, which is 5 km/h less that the speed of Alex. What is the speed of Alex?",
+			"Expressions": [
+			    "4+5"
+			],
+			"Answer": "9"
+			},
+        "1-A-3-2.3": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "It took Kate 7 minutes to get from school to the library and 3 minutes more to get from the library to her house. How much time was Kate going for in total?",
+			"Expressions": [
+			    "7+(7+3)"
+			],
+			"Answer": "17"
+			},
+        "1-A-3-2.4": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A traveller was going by plane for 4 hours and for 5 hours more by train. How much time was the travelling going for in total?",
+			"Expressions": [
+			    "4+(4+5)"
+			],
+			"Answer": "13"
+			},
+		"1-A-3-2.5": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Taxi went 7 km across town, which is 2 km more than the distance that a pedestrian covered.  What distance did the pedestrian cover?",
+			"Expressions": [
+			    "7-2"
+			],
+			"Answer": "5"
+			},
+		"1-A-3-2.6": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A raft sailed 5 km on a river and 2 km more on a lake than on the river.  How many kilometres did the raft sail?",
+			"Expressions": [
+			    "5+(5+2)"
+			],
+			"Answer": "12"
+			},
+        "1-A-3-2.7": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Stanley was doing his maths homework for 8 minutes and his reading homework for 2 minutes less. How long was Stanley doing his homework for?",
+			"Expressions": [
+				"8+(8-2)"
+			],
+			"Answer": "14"
+			},
+		"1-A-4-1.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Tourists decided to walk 20 km. They have gone 7 km on the first day and 5 km on the second day. How many kilometres do the tourists have left to go?",
+			"Expressions": [
+			    "20-7-5",
+			    "20-(7+5)"
+			],
+			"Answer": "8"
+			},
+        "1-A-4-1.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Lucy went at a speed of 4 km/h, and Maria went 2 km/h faster than Lucy. Emily is 1 km/h faster than Maria. What is the speed of Emily?",
+			"Expressions": [
+			    "(4+2)+1"
+			],
+			"Answer": "7"
+			},
+        "1-A-4-1.3": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Bob ran 7 km, which is 3 km more than he rode on a bike. What distance did Bob cover?",
+			"Expressions": [
+			    "7+(7-3)"
+			],
+			"Answer": "11"
+			},
+        "1-A-4-2.1": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "An ant was crawling from his ant hill to a mushroom for 20 minutes. Initially, it was crawling to the flower for 4 minutes, and then it was crawling to the fir tree for another 6 minutes. How long was the ant crawling from the fir tree to the mushroom for?",
+			"Expressions": [
+			    "20-4-6",
+			    "20-(4+6)"
+			],
+			"Answer": "10"
+			},
+		"1-A-4-2.2": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Tourists decided to walk 20 km. They have gone 7 km on the first day and 5 km on the second day. How many kilometres do the tourists have left to go?",
+			"Expressions": [
+			    "20-(7+5)",
+                "20-7-5"
+			],
+			"Answer": "8"
+			},
+        "1-A-4-2.3": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Winnie the Pooh decided to eat 15 sweets; initially, he ate 3 sweets, and then 5 more, how many sweets are left?",
+			"Expressions": [
+			    "15-3-5",
+                "15-(3+5)"
+			],
+			"Answer": "7"
+			},
+        "1-A-4-2.4": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A raft needs 18 km to go to the quay; it has gone 7 km on the first day, 3 km on the second day, how many kilometres are left for the raft to reach the quay?",
+			"Expressions": [
+			    "18-7-3",
+                "18-(7+3)"
+			],
+			"Answer": "8"
+			},
+        "1-A-4-2.5": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Bob rode a bike 2 km/h faster than Michael went on foot, and George went another 1 km/h slower. What was the speed of George if the speed of Michael was 5 km/h?",
+			"Expressions": [
+			    "5+2-1"
+			],
+			"Answer": "6"
+			},
+        "1-A-4-2.6": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A caterpillar crawled 4 metres along the leaf, and a snail crawled 2 m more.  And a spider crawled 3 metres more than the snail.  What distance did the spider, the snail, and the caterpillar crawl in total?",
+			"Expressions": [
+			    "4+(4+2)+(4+2+3)"
+			],
+			"Answer": "19"
+			    },
+        "1-A-4-2.7": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Albert needs to walk 14 km. He has gone 3 km in the first hour and 2 km more in the second hour than in the first hour.  How many kilometres does Albert have left to go?",
+			"Expressions": [
+			    "14-(3+(3+2))",
+                "14-3-(3+2)"
+			],
+			"Answer": "6"
+			},
+        "1-A-4-2.8": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Peter went 7 km on the forest road, which is 3 km more than through the field. How many kilometres did Peter go in total?",
+			"Expressions": [
+			    "7+(7-3)"
+			],
+			"Answer": "11"
+			},
+        "1-A-4-2.9": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Hannah was picking mushrooms for 3 hours and berries for 2 hours more, and she was returning home for 3 hours less than picking berries. How long was Hannah returning home for?",
+			"Expressions": [
+				"(3+2)-3"
+			],
+			"Answer": "2"
+			},
+        "1-A-4-2.10": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Bob ran 7 km, which is 3 km more than he rode on a bike. What distance did Bob cover?",
+			"Expressions": [
+				"7+(7-3)"
+			],
+			"Answer": "11"
+			},
+		"1-A-5-2.1": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "An ant crawled k dm from an ant hill to a flower and another 1 dm from the flower to a mushroom. Which distance did the ant crawl from the ant hill to the mushroom?",
+			"Expressions": [
+			    "k+1"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.2": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Little Red Riding Hood went to her granny. She was walking for a hours through the woods and for b hours through the field.  How much time did Little Red Riding Hood spend on the whole journey?",
+			"Expressions": [
+			    "a+b"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.3": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A snail needs to crawl c cm. It has already crawled d cm. How many cm does the snail have left to crawl?",
+			"Expressions": [
+			    "c-d"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.4": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Bob needs to get to school in m minutes. He has already been going for 5 minutes. How much time does the boy have left to reach school?",
+			"Expressions": [
+			    "m-5"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.5": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Kate is running at a speed of x km/h, and Dan is running y km faster. What is the speed of Dan?",
+			"Expressions": [
+			    "x+y"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.6": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Winnie the Pooh went a km, and Piglet went b km more.  What distance did Piglet go?",
+			"Expressions": [
+			    "a+b"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.7": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Baron Munchausen was following a hare for 6 hours and a fox for d hours less.  How much time was Munchausen following the fox for?",
+			"Expressions": [
+			    "6-d"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.8": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Kate is running at a speed of k km/h, which is n km slower than the speed of Dan. What is the speed of Dan?",
+			"Expressions": [
+			    "k+n"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.9": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Goofy ran n km, which is h km more than Tom Cat ran. What distance did Tom Cat run?",
+			"Expressions": [
+			    "n-h"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.10": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "It takes Sergio x minutes to return from school, which is y minutes more than it takes Albert to return.  How many minutes does it take Albert to return from school?",
+			"Expressions": [
+			    "x-y"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.11": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Baron Munchausen swam a km on a whale and flew b km more on a duck.  What distance did Baron Munchausen fly?",
+			"Expressions": [
+			    "a+b"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.12": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Tourists went h km on foot and rode a boat for t hours more.  How much time did the tourists travel in total?",
+			"Expressions": [
+			    "h+(h+t)"
+			],
+			"Answer": ""
+			},
+		"1-A-5-2.13": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Tourists decided to walk c km. They have gone a km on the first day and b km on the second day. How many kilometres do the tourists have left to go?",
+			"Expressions": [
+				 "c-a-b",
+				"c-(a+b)"
+			],
+			"Answer": "c-(a+b)"
+			},
+		"1-A-5-2.14": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "An ant was crawling from his ant hill to a mushroom for t minutes. Initially, it was crawling to the flower for k minutes, and then it was crawling to the fir tree for another n minutes. How long was the ant crawling from the fir tree to the mushroom for?",
+			"Expressions": [
+				"t-k-n",
+				"t-(k+n)"
+			],
+			"Answer": "t-(k+n)"
+			},
+		"1-A-5-2.15": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Lucy went at a speed of v km/h, and Maria went m km/h faster than Lucy. Emily is d km/h faster than Maria. What is the speed of Emily?",
+			"Expressions": [
+				"(v+m)+d"
+			],
+			"Answer": "(v+m)+d"
+			},
+		"1-A-5-2.16": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Bob ran l km, which is b km more than he rode on a bike. What distance did Bob cover?",
+			"Expressions": [
+				"l+(l-b)"
+			],
+			"Answer": "l+(l-b)"
+			},
+
+		"1-B-1-1.1": {
+			"Score": "50",
+			"Animation": "1_b1_11_N.swf",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A snail has crawled 7 km on the first day and 3 km more on the second day. How many meters has the snail crawled in 2 days?",
+			"Expressions": [
+				"7+(7+3)"
+			],
+			"Answer": "17"
+			},
+		"1-B-1-2.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Maria took a short cut to get to her school from her house and went 2 km; on her way back, she walked 1 km more. How many kilometres did Maria go in total?",
+			"Expressions": [
+				"2+2+1"
+			],
+			"Answer": "5"
+			},
+		"1-B-1-2.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "An ant has crawled 7 metres in the morning and 2 meters less after lunch. How many meters has the ant crawled?",
+			"Expressions": [
+				"7+(7-2)"
+			],
+			"Answer": "12"
+			},
+		"1-B-1-2.3": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A bee was gathering honey above a raspberry bush for 7 minutes and above the cornflower field for 10 minutes more. How long was the bee gathering honey for?",
+			"Expressions": [
+				"7+(7+10)"
+			],
+			"Answer": "24"
+			},
+		"1-B-1-2.4": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A bear was going northwards for 3 minutes, then it turned right and went eastwards for 15 minutes more.  How long was the bear going around the forest for?",
+			"Expressions": [
+				"3+(3+15)"
+			],
+			"Answer": "21"
+			},
+		"1-B-1-2.5": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Henry was riding a bike for 3 hours on Monday and for 1 hour less on Wednesday than on Monday. How long was Henry riding a bike for?",
+			"Expressions": [
+				"3+(3-1)"
+			],
+			"Answer": "5"
+			},
+		"1-B-2-1.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A turtle has crawled 5 m on the first day, 3 m on the second day, and on the third day, it crawled the same distance as on the first and the second day put together.  What distance has the turtle covered in 3 days?",
+			"Expressions": [
+				"5+3+(5+3)"
+			],
+			"Answer": "16"
+			},
+		"1-B-2-1.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Goofy ran 6 km through the woods, and 3 km more across the swamp, and another 4 km through the meadow. What distance did Goofy run?",
+			"Expressions": [
+				"6+(6+3)+4"
+			],
+			"Answer": "19"
+			},
+		"1-B-2-2.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Tourists have ridden 12 km on a boat on the first day, they have gone 7 km on foot on the second day, and they have gone by helicopter the same distance as on the first and the second day put together.  How many kilometres have the tourists gone in three days?",
+			"Expressions": [
+				"12+7+(12+7)"
+			],
+			"Answer": "38"
+			},
+		"1-B-2-2.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Michael has ridden a scooter in the morning. He has ridden 1 km, then another 2 km after lunch and, in the evening, Michael has ridden the same distance as he had ridden the previous day. How many kilometres has Michael ridden that day?",
+			"Expressions": [
+				"1+2+(1+2)"
+			],
+			"Answer": "6"
+			},
+		"1-B-2-2.3": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Elizabeth walked 8 metres on the forest road to her granny, then another 2 metres upon the bridge across the brook, and then she walked across the glade the same distance that she had walked on the road and upon the bridge. What distance did Elizabeth walk to her granny's house in total?",
+			"Expressions": [
+				"8+2+(8+2)"
+			],
+			"Answer": "20"
+			},
+		"1-B-2-2.4": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A cyclist rode 3 km across town, and 2 km more on the highway, and 6 km across the village. How many kilometres did the cyclist ride in total?",
+			"Expressions": [
+				"3+(3+2)+6"
+			],
+			"Answer": "14"
+			},
+		"1-B-2-2.5": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A poodle ran 3 meters to the bone, snatched it and ran another 3 meters with it to the kennel. Having hidden the bone, the poodle ran 2 meters more to the brook than to the bone. How many meters did the poodle run in total?",
+			"Expressions": [
+				"3+3+(3+2)"
+			],
+			"Answer": "11"
+			},
+		"1-B-2-2.6": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A dragonfly flew 3 meters from a cornflower to a lily of the valley and 2 metres more from the lily of the valley to a rose, and then it flew back from the rose to the lily of the valley. How many meters did the dragonfly fly in total?",
+			"Expressions": [
+				"3+(3+2)+(3+2)"
+			],
+			"Answer": "13"
+			},
+		"1-B-2-2.7": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "An elephant calf was looking for its mum. Initially, it ran 4 metres to the big grey elephant, then it ran 7 metres more from that elephant to a small female elephant, and then it saw its mum and ran 5 metres to it. How many meters did the elephant calf run in total?",
+			"Expressions": [
+				"4+(4+7)+5"
+			],
+			"Answer": "20"
+			},
+		"1-B-2-2.8": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A tractor has gone through the field 3 km more on the first day than on the second and the third day put together. How many meters has the tractor gone in total if it had gone 5 km on the second day and 6 km on the third day?",
+			"Expressions": [
+				"(5+6+3)+5+6"
+			],
+			"Answer": "25"
+			},
+		"1-B-2-2.9": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A baby was running around the playground: It ran 9 metres from a merry-go-round to the swings, and 3 meters more from the merry-go-round to a slide, and another 4 meters from the slide to a sandpit.  How many meters did the baby run in total?",
+			"Expressions": [
+				"9+(9+3)+4"
+			],
+			"Answer": "25"
+			},
+		"1-B-2-2.10": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A cow was gathering grass on the meadow, initially, it went 4 metres, then another 5 metres, and then the same distance as on the first and on the second day put together. How many kilometres did the cow go in total?",
+			"Expressions": [
+				"4+5+(4+5)"
+			],
+			"Answer": "18"
+			},
+		"1-B-3-1.1": {
+			"Score": "150",
+			"Animation": "1_b3_11_N.swf",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A snail crawls 5 m up the tree per day and comes down 3 m overnight. What distance does the snail crawl during 24-hour period? (day + night?)",
+			"Expressions": [
+				"5+3"
+			],
+			"Answer": "8"
+			},
+        "1-B-3-1.2": {
+			"Score": "150",
+			"Animation": "1_b3_12_N.swf",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A snail crawls 5 m up a tree during the day and during the night the snail crawls 3 m. What will be the distance between the snail and the ground in the morning?",
+			"Expressions": [
+				"5-3"
+			],
+			"Answer": "2"
+			},
+		"1-B-3-1.3": {
+			"Score": "150",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "The Labrador Butch needs to run 20 km. He needs to run 6 km through the forest, 3 km across the swamp, and the rest through the meadow.  How many kilometres does Butch need to run through the meadow?",
+			"Expressions": [
+				"20-6-3",
+				 "20-(6+3)"
+			],
+			"Answer": "11"
+			},
+		"1-B-3-2.1": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A snail is crawling from one flower to another. It has crawled 6 cm in the first hour and 5 cm in the second one. How many centimetres does the snail have left to crawl if the distance between the flowers is 17 cm?",
+			"Expressions": [
+				"17-6-5",
+				 "17-(6+5)"
+			],
+			"Answer": "6"
+			},
+		"1-B-3-2.2": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Tourists spent 2 hours in the museum, 3 hours on an exhibition, and then they were just walking around town. How many hours were the tourists walking around town if the whole excursion time lasted for 8 hours?",
+			"Expressions": [
+				"8-2-3",
+				 "8-(2+3)"
+			],
+			"Answer": "3"
+			},
+		"1-B-3-2.3": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "While searching for mushrooms, a hedgehog went 12 m northwards and 5 m less eastwards. How many metres did the hedgehog go in total?",
+			"Expressions": [
+				"12+(12-5)"
+			],
+			"Answer": "19"
+			},
+		"1-B-3-2.4": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A monkey climbed 1 m up the tree and then went 5 m down. How many meters did monkey go in total?",
+			"Expressions": [
+				"10+5"
+			],
+			"Answer": "15"
+			},
+		"1-B-3-2.5": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Bob ran 3 circles around the stadium; it took him 6 minutes to run the first circle and 5 minutes to run the second one. Bob was running for 16 minutes in total. How many minutes did it take Bob to run the third circle?",
+			"Expressions": [
+				"16-6-5",
+				 "16-(6+5)"
+			],
+			"Answer": "5"
+			},
+		"1-B-3-2.6": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Sergio was going to the shop for 7 minutes, then he was going to the pharmacy for 5 minutes. It takes him 2 minutes less to get home than to get to the pharmacy. How much time did it take Sergio to go in total?",
+			"Expressions": [
+				"7+5+(5-2)"
+			],
+			"Answer": "15"
+			},
+		"1-B-3-2.7": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "It takes 20 km to get to town from the village. One needs to go 5 km taking the country road through the field, and 2 km more through the forest, and the rest along the highway.  How many kilometres does one need to go along the highway?",
+			"Expressions": [
+				"20-5-(5+2)",
+                "20-(5+(5+2))"
+			],
+			"Answer": "8"
+			},
+		"1-B-3-2.8": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Nancy needs to walk 17 km. She has gone 4 km in the first hour and 3 km in the second one. How many kilometres does Nancy have left to walk?",
+			"Expressions": [
+				"17-4-3",
+				 "17-(4+3)"
+			],
+			"Answer": "10"
+			},
+        "1-B-3-2.9": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Children have planted a garden. Apple trees have been planted at a distance of 3 km, pear trees at the distance of 4 km, and the rest have been planted with the cherry trees.  The total length of plantation is 14 km.  What distance have the cherry trees taken up?",
+			"Expressions": [
+				"14-(3+4)",
+                "14-3-4"
+			],
+			"Answer": "7"
+			},
+
+		
+		"1-B-4-1.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Tourists went 3 km on foot, then rode 3 km more on a boat, and rode on a bike the same distance as they had gone on foot and had ridden on a boat put together. What distance did the tourists cover?",
+			"Expressions": [
+				"3+(3+2)+(3+(3+2))"
+			],
+			"Answer": "16"
+			},
+        "1-B-4-1.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A group of tourists covered 20 km out of which 6 km they walked on foot, a distance 2 km longer they traveled on a boat and the rest of the way they biked. How much of the distance did the tourists bike? ",
+			"Expressions": [
+				"20-(6+(6-2))",
+				"20 - 6-(6-2)"
+			],
+			"Answer": "10"
+            },
+		"1-B-4-2.1": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A mouse ran 5 m to the table, then 2 m more to the chair, and it ran to the mouse hole the same distance as to the chair.  How many meters did the mouse run in total?",
+			"Expressions": [
+				"5+(5+2)+(5+2)"
+			],
+			"Answer": "19"
+			},
+		"1-B-4-2.2": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "км преодолели туристы",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A rabbit ran a total distance of 17 out of which 5 km he ran in the forest, a distance 2 km less he ran in a field and the rest of the way he ran in a garden. What distance did the rabbit run in the garden?",
+			"Expressions": [
+				"17-(5+(5+2))",
+				"17-5-(5+2)"
+			],
+			"Answer": "5"
+            },
+		"1-B-4-2.3": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A car went 6 km across town, and 2 km less on the highway, and it went on the country road the same distance as it had gone across town and on a highway put together.  How many kilometres did the car go in total?",
+			"Expressions": [
+				"6+(6-2)+6+(6-2)"
+			],
+			"Answer": "20"
+			},
+        "1-B-4-2.4": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A car went 4 km from point A to point B and 2 km more from point B to point C, then it returned to point A the same way. What distance did the car cover?",
+			"Expressions": [
+				"4+(4+2)+4+(4+2)"
+			],
+			"Answer": "20"
+			},
+        "1-B-4-2.5": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Tourists went 3 km on foot, then rode a boat 3 km more, and went by bike the same distance as they had gone on foot and ridden a boat put together. What distance did the tourists cover?",
+			"Expressions": [
+				"3+(3+2)+(3+(3+2))"
+			],
+			"Answer": "16"
+			},
+		"1-B-5-2.1": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A snail has crawled l m on the first day and m m more on the second day. How many meters has the snail crawled in 2 days?",
+			"Expressions": [
+				"l+(l+m)"
+			],
+			"Answer": ""
+			},
+		"1-B-5-2.2": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A turtle has crawled a m on the first day, b m on the second day, and on the third day, it crawled the same distance as on the first and the second day put together.  What distance has the turtle covered in 3 days?",
+			"Expressions": [
+				"a+b+(a+b)"
+			],
+			"Answer": ""
+			},
+		"1-B-5-2.3": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Goofy ran c km through the woods, and d km more across the swamp, and another k km through the meadow. What distance did Goofy run?",
+			"Expressions": [
+				"c+(c+d)+k"
+			],
+			"Answer": ""
+			},
+		"1-B-5-2.4": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A snail crawls m m up the tree per day and comes down n m overnight. What distance does the snail crawl during 24-hour period? (day + night?)",
+			"Expressions": [
+				"m+n"
+			],
+			"Answer": ""
+			},
+		"1-B-5-2.5": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "The Labrador Butch needs to run v km. He needs to run h km through the forest, s km across the swamp, and the rest through the meadow.  How many kilometres does Butch need to run through the meadow?",
+			"Expressions": [
+				"v-h-s",
+				 "v-(h+s)"
+			],
+			"Answer": ""
+			},
+		"1-B-5-2.6": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Tourists went m km on foot, then rode n km more on a boat, and rode on a bike the same distance as they had gone on foot and had ridden on a boat put together. What distance did the tourists cover?",
+			"Expressions": [
+				"m+(m+n)+(m+(m+n))"
+			],
+			"Answer": ""
+			},
+		"1-C-1-1.1": {
+			"Score": "50",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two ants are crawling toward each other from 2 ant hills. The speed of the first ant is 6 m/h, and the speed of the second one is 8 m/h. How many m/h are they coming closer toward each other?",
+			"Expressions": [
+				"6+8"
+			],
+			"Answer": "14"
+			},
+		"1-C-1-1.2": {
+			"Score": "50",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two baby bees are flying toward each other from 2 beehives. One baby bee has flown 8 m, and the second one - 7 m. How many meters have the baby bees come closer toward each other?",
+			"Expressions": [
+				"8+7"
+			],
+			"Answer": "15"
+			},
+		"1-C-1-2.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A cyclist and a motorcyclist are moving toward each other from point A to point B. The cyclist is moving at a speed of 8 km/h, and the motorcyclist is moving at a speed of 12 km/h. How many kilometres did the cyclist and the motorcyclist come closer toward each other per hour?",
+			"Expressions": [
+				"8+12"
+			],
+			"Answer": "20"
+			},
+		"1-C-1-2.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Cheburashka and Gena the Crocodile started walking toward each other. Cheburashka has walked 7 metres, and Gena has walked 6 metres. How many meters have the friends come closer toward each other?",
+			"Expressions": [
+				"7+6"
+			],
+			"Answer": "13"
+			},
+		"1-C-1-2.3": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two trains are moving toward each other from two cities. One train has gone 9 km, and the second one has gone 7 km. How many km have the trains come closer toward each other?",
+			"Expressions": [
+				"9+7"
+			],
+			"Answer": "16"
+			},
+		"1-C-1-2.4": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two moles decided to dig a tunnel between their holes. One mole is digging at a speed of 6 cm/h, and another one at a speed of 7 cm/h. How many centimetres are both moles going to dig in an hour?",
+			"Expressions": [
+				"6+7"
+			],
+			"Answer": "13"
+			},
+		"1-C-1-2.5": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "SpongeBob and Patrick started walking toward each other. The speed of SpongeBob is 5 km/h, and the speed of Patrick is 4 km/h. How many km will the distance between friends become less in an hour?",
+			"Expressions": [
+				"5+4"
+			],
+			"Answer": "9"
+			},
+		"1-C-1-2.6": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Kate is going to the shop, and her mum is walking toward her. Kate has walked 8 m, and her mum has walked 9 m. How many metres has the distance between Kate and her mum become less?",
+			"Expressions": [
+				"8+9"
+			],
+			"Answer": "17"
+			},
+		"1-C-1-2.7": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two hares are running toward each other to the cabbage patch. The speed of the first hare is 8 km/h, and the speed of another one is 10 km/h. How many km will the hares running closer toward each other in an hour?",
+			"Expressions": [
+				"8+10"
+			],
+			"Answer": "18"
+			},
+		"1-C-1-2.8": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two boats are sailing toward each other on a lake. The speed of each boat is 7 km/h. How many km will the boats sail closer toward each other in an hour?",
+			"Expressions": [
+				"7+7"
+			],
+			"Answer": "14"
+			},
+		"1-C-1-2.9": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two ants are crawling to the same ant hill from the opposite sides. The speed of the first ant is 4 m/min, and the speed of another one is 5 m/min. How many meters will the ants come closer toward each other in 1 minute?",
+			"Expressions": [
+				"4+5"
+			],
+			"Answer": "9"
+			},
+		"1-C-1-2.10": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Alex and Sergio went toward each other. Alex went 11 metres, and Sergio went 8 meters. How many meters did the distance between the boys become less?",
+			"Expressions": [
+				"11+8"
+			],
+			"Answer": "19"
+			},
+        "1-C-1-2.11": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two dogs are running towards each other at a speed of 7 mph. By how many miles will they get closer to each other?",
+			"Expressions": [
+				"7+7"
+			],
+			"Answer": "14"
+			},
+		"1-C-2-1.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Winnie the Pooh and Piglet went toward each other. The speed of Piglet is 8 m/min, and the speed of Winnie the Pooh is 2 m/min more. How many meters per minute are friends moving toward each other?",
+			"Expressions": [
+				"8+(8+2)"
+			],
+			"Answer": "18"
+			},
+		"1-C-2-1.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two friends went toward each other. One went 9 km, and the other went 2 km less. How many km did the friends become closer toward each other?",
+			"Expressions": [
+				"9+(9-2)"
+			],
+			"Answer": "16"
+			},
+		"1-C-2-2.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two fox cubs ran from their fox holes toward each other. The first fox cub is running at a speed of 4 m/min, and the second one at a speed of 1 m/min more. How many meters have the fox cubs run closer toward each other for the past minute?",
+			"Expressions": [
+				"4+(4+1)"
+			],
+			"Answer": "9"
+			},
+		"1-C-2-2.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Pinocchio and Papa Carlo are walking toward each other. Pinocchio has walked 8 m, and Papa Carlo 2 m less. How many metres has the distance between Pinocchio and Papa Carlo become less?",
+			"Expressions": [
+				"8+(8-2)"
+			],
+			"Answer": "14"
+			},
+		"1-C-2-2.3": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two launches are sailing toward each other. The speed of the first one is 10 km/h, and the speed of another one is 2 km/h less. How many m/h have they sailed closer toward each other for the past hour?",
+			"Expressions": [
+				"10+(10-2)"
+			],
+			"Answer": "18"
+			},
+		"1-C-2-2.4": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two commuter trains are moving toward each other from two cities. The first commuter train has gone 5 km, and another one has gone 4 km less. How many meters has the distance between the commuter trains become less?",
+			"Expressions": [
+				"12+(12-4)"
+			],
+			"Answer": "20"
+			},
+		"1-C-2-2.5": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two skiers are moving toward each other. The speed of the first skier is 7 km/h, and the speed of the second one is 3 km/h more. How many meters are the skiers coming closer toward each other per hour?",
+			"Expressions": [
+				"7+(7+3)"
+			],
+			"Answer": "17"
+			},
+		"1-C-2-2.6": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Father Frost and Snow Maiden are walking toward each other. Father Frost has walked 8 m, and Snow Maiden 3 m more. How much has the distance between the grandfather and the granddaughter become less?",
+			"Expressions": [
+				"8+(8+3)"
+			],
+			"Answer": "19"
+			},
+		"1-C-2-2.7": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two tadpoles are swimming toward each other. One tadpole is swimming at a speed of 8 m/min, and another one at a speed of 1 m/min more. How many km will the distance between tadpoles become less in 1 minute?",
+			"Expressions": [
+				"8+(8+2)"
+			],
+			"Answer": "18"
+			},
+		"1-C-2-2.8": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two bugs are crawling toward each other. One bug is crawling 2 dm/min faster than the other one, and another one is crawling at a speed of 9 dm/min. How many dm will the distance between bugs become less in 1 minute?",
+			"Expressions": [
+				"(2+9)+9"
+			],
+			"Answer": "20"
+			},
+		"1-C-2-2.9": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two excavators are digging a trench toward each other. The first excavator is digging 9 m per hour, and another one is digging 1 m less.  How many meters will the excavators come closer toward each other in an hour?",
+			"Expressions": [
+				"9+(9-1)"
+			],
+			"Answer": "17"
+			},
+		"1-C-2-2.10": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two groups of tourists are walking toward each other. The first group has walked 5 km, and another one has walked 3 km more. How many kilometres have the groups of tourists come closer toward each other?",
+			"Expressions": [
+				"5+(5+3)"
+			],
+			"Answer": "13"
+			},
+        "1-C-2-2.11": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two elephants are walking toward each other, the first elephant is walking at a speed of 3 km/h faster than the other one, and the second one is walking at a speed of 8 km/h. How many kilometres will the two elephants come closer toward each other in an hour?",
+			"Expressions": [
+				"(8+3)+8"
+			],
+			"Answer": "19"
+			},
+		"1-C-3-1.1": {
+			"Score": "150",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "The Tom Cat and Goofy went toward each other. The speed of Tom is 5 km/h, which is 2 km/h less than the speed of Goofy. How many km/h are the cat and the dog coming closer toward each other?",
+			"Expressions": [
+				"5+(5+2)"
+			],
+			"Answer": "12"
+			},
+		"1-C-3-1.2": {
+			"Score": "150",
+			"Animation": "1_c3_12_N.swf",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "The distance between the houses of Lillebror and Karlsson is 18 m. The friends are walking toward each other. Lillebror has already walked 5 m, and Karlsson has walked 7 m. What is the distance between friends?",
+			"Expressions": [
+				"18-(5+7)",
+				"18-5-7"
+			],
+			"Answer": "6"
+			},
+		"1-C-3-2.1": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two pedestrians are walking toward each other from two cities. The distance between the cities is 19 km. The first pedestrian has walked 6 km, and another one has walked 7 km. What is the distance between pedestrians?",
+			"Expressions": [
+				"19-(6+7)",
+				"19-6-7"
+			],
+			"Answer": "6"
+			},
+		"1-C-3-2.2": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Camron is going to the library at a speed of 5 km/h. Mary is moving toward him. She is walking 2 km/h slower. By how much will the distance between Camron and Mary decrease in an hour?",
+			"Expressions": [
+				"5+(5-2)"
+			],
+			"Answer": "8"
+			},
+		"1-C-3-2.3": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A cyclist is moving at a speed of 12 km/h from point A to point B. A pedestrian is walking from point B to point A. The speed of the pedestrian is 8 km/h less than the speed of the cyclist. How many kilometres will the cyclist and the pedestrian come closer toward each other in an hour?",
+			"Expressions": [
+				"12+(12-8)"
+			],
+			"Answer": "16"
+			},
+		"1-C-3-2.4": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two ants are crawling toward each other from the two ant hills. The distance between the ant hills is 17 m. Every ant has crawled 5 m. What distance is between the ants?",
+			"Expressions": [
+				"17-(5+5)",
+				"17-5-5"
+			],
+			"Answer": "7"
+			},
+		"1-C-3-2.5": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Tom Cat and Goofy went toward each other. The speed of Tom Cat is 5 km/h, which is 2 km/h less than the speed of Goofy. How many km/h are the cat and the dog coming closer toward each other?",
+			"Expressions": [
+				"5+(5+2)"
+			],
+			"Answer": "12"
+			},
+        "1-C-3-2.6": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Peter leaves school at the same time that his mother leaves the house to meet him. The distance between the school and the house is 7 km. The son walked 3 km and the mother walked 2 km. What is the distance left between them?",
+			"Expressions": [
+				"7-(3+2)",
+				"7-3-2"
+			],
+			"Answer": "2"
+			},
+		"1-C-3-2.7": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Bob and Peter are walking toward each other. The speed of Bob is 4 km/h, and the speed of Peter is 2 km/h faster. How many meters will the boys come closer toward each other in an hour?",
+			"Expressions": [
+				"4+(4+2)"
+			],
+			"Answer": "10"
+			},
+		"1-C-3-2.8": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A dog is returning from hunting in the forest at a speed of 6 km/h, and the postman is moving toward him on the forest road. How many kilometres will the distance between the dog and the postman become less in an hour?",
+			"Expressions": [
+				"6+(6-2)"
+			],
+			"Answer": "10"
+			},
+		"1-C-3-2.9": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two grass snakes are crawling toward each other from two trees. The distance between the trees is 19 m. The first grass snake has crawled 6 m, and the second one - 8 m. What is the distance between the grass snakes?",
+			"Expressions": [
+				"19-(6+8)",
+				"19-6-8"
+			],
+			"Answer": "5"
+			},
+		"1-C-3-2.10": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two butterflies are flying toward each other. The speed of the first butterfly is 4 m/min, and the speed of the second one is 2 m/min more. How many m/min are the butterflies flying closer toward each other?",
+			"Expressions": [
+				"4+(4+2)"
+			],
+			"Answer": "10"
+			},
+        "1-C-3-2.11": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A pedestrian is walking at a speed of 3 km/h from point A to point B. A cyclist is moving at a speed of 8 km/h from point B to point A. The distance between A and B is 19 km. What distance will be between the pedestrian and the cyclist in an hour?",
+			"Expressions": [
+				"19-(3+8)",
+				"19-3-8"
+			],
+			"Answer": "8"
+			},
+		"1-C-4-1.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Baby Roo and Christopher Robin live 15 km apart from each other. They agreed to meet and started walking toward each other. Christopher Robin has gone 4 km, and Baby Roo has gone 5 km more. What distance have the friends left to cover to meet each other?",
+			"Expressions": [
+				"15-(4+(4+5))",
+				"15-4-(4+5)"
+			],
+			"Answer": "2"
+			},
+		"1-C-4-1.2": {
+			"Score": "200",
+			"Animation": "1_c4_12_N.swf",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Dan and Victor went toward each other. Dan went at a speed of 3 km/h, and Victor - at 2 km/h. How many km will the friends come closer toward each other in 2 hours?",
+			"Expressions": [
+				"(3+2)+(3+2)"
+			],
+			"Answer": "10"
+			},
+		"1-C-4-2.1": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two buses are moving toward each other from two cities. The first bus has gone 5 km, and another one has gone 2 km less. What distance do buses need to cover before approaching each other if the distance between the cities is 16 km?",
+			"Expressions": [
+				"16-(7+(7-2))",
+				"16-7-(7-2)"
+			],
+			"Answer": "4"
+			},
+		"1-C-4-2.2": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Artemon and Malvina are walking toward each other. Artemon is walking at a speed of 6 km/h, and Malvina is walking 2 km/h slower. How many kilometres will they come closer toward each other in 2 hours?",
+			"Expressions": [
+				"(6+(6-2))+(6+(6-2))"
+			],
+			"Answer": "20"
+			},
+		"1-C-4-2.3": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two mice are running toward each other from their mouse holes. The first mouse has run 5 m, and another one 2 m less. The distance between the holes is 15 m. How many metres do mice still need to run before meeting up?",
+			"Expressions": [
+				"15-(5+(5-2)",
+				"15-5-(5-2)"
+			],
+			"Answer": "7"
+			},
+		"1-C-4-2.4": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two dogs are running toward each other from two villages. The speed of the first dog is 4 km/h, and the speed of another one is 1 km/h more. How many km will the dogs come closer toward each other in 2 hours?",
+			"Expressions": [
+				"(4+(4+1))+(4+(4+1))"
+			],
+			"Answer": "18"
+			},
+		"1-C-4-2.5": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two whales are swimming toward each other. The speed of the first whale is 3 m/min, and the speed of another one is 2 m/min. How many km will the whales swim closer toward each other in 3 minutes?",
+			"Expressions": [
+				"(3+2)+(3+2)+(3+2)"
+			],
+			"Answer": "15"
+			},
+		"1-C-4-2.6": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A balloon is flying toward a crow. The speed of the crow is 4 m/min, and the speed of the balloon is 3 m/min less. How many meters will the crow come closer toward the balloon in 3 minutes?",
+			"Expressions": [
+				"(4+(4-3))+(4+(4-3))+(4+(4-3))"
+			],
+			"Answer": "15"
+			},
+		"1-C-4-2.7": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "The distance between the quays is 18 km. Two motor boats are moving toward each other from these two quays. The first motor boat has moved 3 km, and another one has moved 2 km more. What is the distance between the motor boats?",
+			"Expressions": [
+				"18-(6+(6+2))",
+				"18-6-(6+2)"
+			],
+			"Answer": "4"
+			},
+		"1-C-4-2.8": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two lions are moving toward each other. The first lion is moving at a speed of 5 km/h, and another one is moving 2 km/h slower. How many meters are the lions coming closer toward each other per 2 hours?",
+			"Expressions": [
+				"(5+(5-1))+(5+(5-1))"
+			],
+			"Answer": "2"
+			},
+		"1-C-4-2.9": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Lily and Rosemary are walking toward each other. Lily has walked 4 m, and Rosemary has walked 3 m more. Initially, the distance between the friends has been 12 m. How many more metres will they need to walk before meeting up?",
+			"Expressions": [
+				"12-(4+(4+3))",
+				"12-4-(4+3)"
+			],
+			"Answer": "1"
+			},
+		"1-C-4-2.10": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two storks are flying toward each other from two nests. The distance between the nests is 15 km. The first stork has flown 3 km, and another one has flown 3 km more. How many more meters do storks need to fly before meeting up?",
+			"Expressions": [
+				"15-(3+(3+3))",
+				"15-3-(3+3)"			
+                ],
+			"Answer": "6"
+			},
+		"1-C-5-2.1": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two ants are crawling toward each other from 2 ant hills. The speed of the first ant is v m/h, and the speed of the second one is n m/h. How many m/h are they coming closer toward each other?",
+			"Expressions": [
+				"v+n"
+			],
+			"Answer": ""
+			},
+		"1-C-5-2.2": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two baby bees are flying toward each other from 2 beehives. One baby bee has flown a m, and the second one - b m. How many meters have the baby bees come closer toward each other?",
+			"Expressions": [
+				"a+b"
+			],
+			"Answer": ""
+			},
+		"1-C-5-2.3": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Winnie the Pooh and Piglet went toward each other. The speed of Piglet is x m/min, and the speed of Winnie the Pooh is y m/min more. How many meters per minute are friends moving toward each other?",
+			"Expressions": [
+				"x+(x+y)"
+			],
+			"Answer": ""
+			},
+		"1-C-5-2.4": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two friends went toward each other. One went a km, and the other went b km less. How many km did the friends become closer toward each other?",
+			"Expressions": [
+				"a+(a-b)"
+			],
+			"Answer": ""
+			},
+		"1-C-5-2.5": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "The Tom Cat and Goofy went toward each other. The speed of Tom is c km/h, which is d km/h less than the speed of Goofy. How many km/h are the cat and the dog coming closer toward each other?",
+			"Expressions": [
+				"c+(c+d)"
+			],
+			"Answer": ""
+			},
+		"1-C-5-2.6": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "The distance between the houses of Lillebror and Karlsson is v km. The friends are walking toward each other. Lillebror has already walked m km, and Karlsson has walked n km. What is the distance between friends? ",
+			"Expressions": [
+				"v-(m+n)",
+				"v-m-n"
+			],
+			"Answer": ""
+			},
+		"1-C-5-2.7": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Baby Roo and Christopher Robin live d km apart from each other. They agreed to meet and started walking toward each other. Christopher Robin has gone c km, and Baby Roo has gone b km more. What distance have the friends left to cover to meet each other?",
+			"Expressions": [
+				"d-(c+(c+b))",
+				"d-c-(c+b)"
+			],
+			"Answer": ""
+			},
+		"1-C-5-2.8": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dan and Victor went toward each other. Dan went at a speed of x km/h, and Victor - at y km/h. How many km will the friends come closer toward each other in 2 hours? ",
+			"Expressions": [
+				"(x+y)+(x+y)"
+			],
+			"Answer": ""
+			},
+		"1-E-1-1.1": {
+			"Score": "50",
+			"Animation": "1_e1_11_N.swf",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two hares, having been frightened by each other, are running away in opposite directions. The first hare is running at a speed of 3 km/h, and another one at 2 km/h. How many m/h are they running away from each other?",
+			"Expressions": [
+				"3+2"
+			],
+			"Answer": "5"
+			},
+		"1-E-1-1.2": {
+			"Score": "50",
+			"Animation": "1_e1_12_N.swf",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two hares, having been frightened by each other, are running away in opposite directions. One has run 3 km, and another one 2 km. What has the distance between the hares become?",
+			"Expressions": [
+				"3+2"
+			],
+			"Answer": "5"
+			},
+		"1-E-1-2.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two commuter trains have left one train station and are moving in opposite directions. The first commuter train has gone 5 km, and another one has gone 7 km. What has the distance between the commuter trains become?",
+			"Expressions": [
+				"5+7"
+			],
+			"Answer": "12"
+			},
+		"1-E-1-2.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Helen and Alyssa have left the library and started moving in opposite directions. Helen is walking at a speed of 3 km/h, and Alyssa is walking at a speed of 4 km/h. What has the distance between the girls become for the past hour?",
+			"Expressions": [
+				"3+4"
+			],
+			"Answer": "7"
+			},
+		"1-E-1-2.3": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two groups of skiers have left the base and started walking in opposite directions. One group has walked 8 km, and the second one has walked 11 km. What has the distance between the skiers become?",
+			"Expressions": [
+				"8+11"
+			],
+			"Answer": "19"
+			},
+		"1-E-1-2.4": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two tractors have left the village and started moving in opposite directions. The first tractor is moving at a speed of 8 km/h, and another one is moving at a speed of 9 km/h. What will the distance between the tractors become in an hour?",
+			"Expressions": [
+				"8+9"
+			],
+			"Answer": "17"
+			},
+		"1-E-1-2.5": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two snails are crawling along the leaf in opposite directions. The first snail is crawling 4 cm per hour, and another one 3 cm per hour. How many cm/h are the snails moving away from each other?",
+			"Expressions": [
+				"4+3"
+			],
+			"Answer": "7"
+			},
+		"1-E-1-2.6": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two aeroplanes have left the airport and are flying in opposite directions. The first plane has flown 11 km, and another one has flown 8 km. What is the distance between the aeroplanes now?",
+			"Expressions": [
+				"11+8"
+			],
+			"Answer": "19"
+			},
+		"1-E-1-2.7": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two swallows have left their nest and are flying in opposite directions. The first swallow is flying at a speed of 4 m/sec, and another one at a speed of 6 m/sec. What will the distance between the swallows become in a second?",
+			"Expressions": [
+				"4+6"
+			],
+			"Answer": "10"
+			},
+		"1-E-1-2.8": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Nick and Alex have left school and started walking in opposite directions. The speed of Nick is 5 km/h, and the speed of Alex is 4 km/h. How far are the boys moving away from each other per hour?",
+			"Expressions": [
+				"5+4"
+			],
+			"Answer": "9"
+			},
+		"1-E-1-2.9": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two boats have left the quay at the same time. One has sailed 8 km downstream, and another one has sailed 5 km against the tide. What has the distance between the boats become?",
+			"Expressions": [
+				"8+5"
+			],
+			"Answer": "13"
+			},
+		"1-E-1-2.10": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Helen and her mum left home. Helen went to school, and her mum went to work in opposite direction. The speed of Helen is 3 km/h, and the speed of her mum is 5 km/h. How far are Helen and her mum moving away from each other per hour?",
+			"Expressions": [
+				"3+5"
+			],
+			"Answer": "8"
+			},
+        "1-E-1-2.11": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "A ballast has been thrown off a balloon that is going up at a speed of 4 km/h. The ballast is falling down at a speed of 9 km/h. What distance will be between the balloon and the ballast in an hour?",
+			"Expressions": [
+				"4+9"
+			],
+			"Answer": "13"
+			},
+        "1-E-1-2.12": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two groups have left the tourist camp at the same time and started walking in opposite directions. The speed of both groups is the same and makes up 9 km/h. What will the distance between the groups become in an hour?",
+			"Expressions": [
+				"9+9"
+			],
+			"Answer": "18"
+			},
+        "1-E-1-2.13": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two groups of tourists left the hotel and started walking in opposite directions. One group walked 18 km, and the second one walked 17 km. What did the distance between the tourists become?",
+			"Expressions": [
+				"18+17"
+			],
+			"Answer": "35"
+			},
+		"1-E-2-1.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two fox cubs are running in opposite directions. The speed of the first one is 4 km/h, and the speed of another one is 2 km/h more. How many km/h are the fox cubs running away from each other?",
+			"Expressions": [
+				"4+(4+2)"
+			],
+			"Answer": "10"
+			},
+		"1-E-2-1.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two boys started running away from school in opposite directions. One of them has run 7 km, and another one 3 km less. What is the distance between the boys now?",
+			"Expressions": [
+				"7+(7-3)"
+			],
+			"Answer": "11"
+			},
+		"1-E-2-2.1": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Goofy and Tom Cat have left home. Goofy went towards the forest, and Tom went fishing in opposite direction. Goofy is walking at a speed of 6 km/h, and Tom is walking 2 km/h slower. How far are the cat and the dog moving away from each other per hour?",
+			"Expressions": [
+				"6+(6-2)"
+			],
+			"Answer": "10"
+			},
+		"1-E-2-2.2": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two lorries have left town and are moving in opposite directions. The first lorry has moved 8 km, and another one has moved 3 km more. What is the distance between the lorries now?",
+			"Expressions": [
+				"8+(8+3)"
+			],
+			"Answer": "19"
+			},
+		"1-E-2-2.3": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Father Frost and Snow Maiden are going to the New Year show in opposite directions. Snow Maiden has walked 7 km, and Father Frost has walked 3 km more. What is the distance between the grandfather and the granddaughter now?",
+			"Expressions": [
+				"7+(7+3)"
+			],
+			"Answer": "17"
+			},
+		"1-E-2-2.4": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two bears have left their dens and started walking in opposite directions. One bear is walking at a speed of 11 km/h, and another one is walking 4 km/h slower. How far are the bears moving away from each other per hour?",
+			"Expressions": [
+				"11+(11-4)"
+			],
+			"Answer": "18"
+			},
+		"1-E-2-2.5": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "During the game of hide-and-seek, Hannah and Rosemary have run in opposite directions. Hannah has run 6 m, and Rosemary has run 3 m more. At what distance have the girls hidden away from each other?",
+			"Expressions": [
+				"6+(6+3)"
+			],
+			"Answer": "15"
+			},
+		"1-E-2-2.6": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two cyclists have left the village and started riding in opposite directions. The first cyclist is riding at a speed of 9 km/h, and another one is riding 2 km/h faster. How far are the cyclists moving away from each other per hour?",
+			"Expressions": [
+				"9+(9+2)"
+			],
+			"Answer": "20"
+			},
+		"1-E-2-2.7": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two trains have left the train station at the same time in opposite directions.  The first train has moved 6 km, and another one has moved 5 km more. What is the distance between the trains now?",
+			"Expressions": [
+				"6+(6+5)"
+			],
+			"Answer": "17"
+			},
+		"1-E-2-2.8": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "A raft and a boat have left the landing stage at the same time. The raft has sailed 3 km downstream, and the boat has sailed against the tide 12 km more than the raft. What is the distance between the raft and the boat now?",
+			"Expressions": [
+				"3+(3+12)"
+			],
+			"Answer": "18"
+			},
+		"1-E-2-2.9": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Vintik and Shpuntik left home and started moving in opposite directions. Vintik is going by car at a speed of 12 km/h, and Shpuntik is going on foot at a speed of 8 km/h less. How many km/h are the friends moving away from each other?",
+			"Expressions": [
+				"12+(12-8)"
+			],
+			"Answer": "16"
+			},
+		"1-E-2-2.10": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Maria and the bear have left their house. Maria is going to pick berries at a speed of 4 km/h, and the bear is going to get honey in opposite direction. The bear is going 3 km/h faster than Maria. What distance will be between the girl and the bear in an hour?",
+			"Expressions": [
+				"4+(4+3)"
+			],
+			"Answer": "11"
+			},
+        "1-E-2-2.11": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Having heard the cat nearby, two mice started running in opposite directions. The speed of the first mouse is 3 m/sec, and the speed of the second one is 1 m/sec more. How many m/sec are the mice moving away from each other?",
+			"Expressions": [
+				"3+(3+1)"
+			],
+			"Answer": "7"
+			},
+        "1-E-2-2.12": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Nick and Albert have left school and started walking in opposite directions. The speed of Nick is 2 km/h slower than the speed of Albert. The speed of Albert is 3 km/h. How many km/h are the boys moving away from each other?",
+			"Expressions": [
+				"3+(3-2)"
+			],
+			"Answer": "4"
+			},
+        "1-E-2-2.13": {
+			"Score": "200",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dan and his mum left their flat. The mum started going up the stairs to the neighbour, and Dan started going down to meet his friends outside. The mum is going up at a speed of 3 floors per minute, and Dan is able to 1 floor more during the same amount of time. How many floors will be between Dan and his mum in 1 minute?",
+			"Expressions": [
+				"3+(3+1)"
+			],
+			"Answer": "7"
+			},
+		"1-E-3-1.1": {
+			"Score": "150",
+			"Animation": "1_e3_11_N.swf",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Bob and Peter, having left the cinema, are walking in opposite directions. Bob has walked 4 km. How many km has Peter walked if the distance between them is 7 km?",
+			"Expressions": [
+				"7-4"
+			],
+			"Answer": "3"
+			},
+		"1-E-3-1.2": {
+			"Score": "150",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "At a signal, 2 wolves started running from the stump in opposite directions. The speed of the first wolf is 6 km/h, which is 1 km/h faster than the speed of the second wolf. How many km/h are the wolves moving away from each other?",
+			"Expressions": [
+				"6+(6-1)"
+			],
+			"Answer": "11"
+			},
+		"1-E-3-2.1": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two cars have left town and started moving in opposite directions. The first car has gone 9 km. How many km has the second car gone if the distance between them is 17 km?",
+			"Expressions": [
+				"17-9"
+			],
+			"Answer": "8"
+			},
+		"1-E-3-2.2": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Dan and John, having left the shop, are walking in opposite directions. Dan walked 9 km. How many km did John walk if the distance between them is 17 km?",
+			"Expressions": [
+				"17-9"
+			],
+			"Answer": "8"
+			},
+        "1-E-3-2.3": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two sprinters are running in opposite directions. The speed of the first sprinter is 7 m/sec, which is 1 m/sec more than the speed of the second one. How many m/sec are the sprinters moving away from each other?",
+			"Expressions": [
+				"7+(7–1)"
+			],
+			"Answer": "13"
+			},
+		"1-E-3-2.4": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two aeroplanes have left the airport and started flying in opposite directions. The first aeroplane has flown 8 km; how many kilometres has the other aeroplane flown if the distance between them is 19 km?",
+			"Expressions": [
+				"19-8"
+			],
+			"Answer": "11"
+			},
+		"1-E-3-2.5": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two river buses have left the landing stage. One river bus has gone 5 km downstream. How many km has another river bus gone against the tide if the distance between the river buses is 12 km now?",
+			"Expressions": [
+				"12-5"
+			],
+			"Answer": "7"
+			},
+		"1-E-3-2.6": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two hens have fallen out with each other and started moving in opposite directions. The first hen has walked 6 m. How many metres has another hen walked if the distance between them is 15 m?",
+			"Expressions": [
+				"15-6"
+			],
+			"Answer": "9"
+			},
+		"1-E-3-2.7": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two squirrels have come out of the hollow. One squirrel got up to the top of the tree, having run 8 m. Another one got down to the ground. How many meters has another squirrel run if the height of the tree is 17 m?",
+			"Expressions": [
+				"17-8"
+			],
+			"Answer": "9"
+			},
+		"1-E-3-2.8": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Chipollino and Small Cherry have left Pumpkin's house and started walking in opposite directions. The distance between the boys is 8 km now. How many kilometres has Small Cherry walked if Chipollino has walked 5 kilometres?",
+			"Expressions": [
+				"8-5"
+			],
+			"Answer": "3"
+			},
+		"1-E-3-2.9": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two fire-engines are moving in opposite directions. The first fire-engine has gone 5 km. How many km has the other fire-engine gone if the distance between the sites of fire is 17 km?",
+			"Expressions": [
+				"17-5"
+			],
+			"Answer": "12"
+			},
+		"1-E-3-2.10": {
+			"Score": "300",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "The yellow petal of the rainbow flower flew westwards, and the red petal flew eastwards. The yellow petal is flying at a speed of 6 m/min, and the red one at a speed of 1 m/min more. What will the distance between the petals become in 1 minute?",
+			"Expressions": [
+				"6+(6+1)"
+			],
+			"Answer": "13"
+			},
+		"1-E-4-1.1": {
+			"Score": "200",
+			"Animation": "1_e4_11_N.swf",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Having left the shop, Kate and Helen started walking in opposite directions. Kate is walking at a speed of 3 km/h, and Helen - at 4 km/h. What will be the distance between the girls in 2 hours?",
+			"Expressions": [
+				"(3+4)+(3+4)"
+			],
+			"Answer": "14"
+			},
+		"1-E-4-1.2": {
+			"Score": "200",
+			"Animation": "1_e4_12_N.swf",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Oliver and Sergio have left their home and started walking in opposite directions. Oliver has walked 2 km, and Sergio has walked 3 km. How many km do the boys have left to go in order for the distance between them to become 9 km?",
+			"Expressions": [
+				"9-(2+3)",
+				"9-2-3"
+			],
+			"Answer": ""
+			},
+		"1-E-4-2.1": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two snails are crawling away from the flower in opposite directions. The first snail is crawling 3 m in 24 hours, and another one - 4 m. What will be the distance between the snails in 48 hours?",
+			"Expressions": [
+				"(3+4)+(3+4)"
+			],
+			"Answer": "14"
+			},
+		"1-E-4-2.2": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "The Wolf and Little Red Riding Hood have left granny's house and started walking in opposite directions. The Wolf is walking at a speed of 5 km/h, and Little Red Riding Hood is walking 2 km/h slower. What will be the distance between the girl and the Wolf in 2 hours?",
+			"Expressions": [
+				"(5+(5-2))+(5+(5-2))"
+			],
+			"Answer": "16"
+			},
+		"1-E-4-2.3": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two bears got into a beehive. Having been stung by bees, the bears started running in opposite directions. The first bear has run 4 km, and another one has run 3 km. How many km do the bears have left to run in order for the distance between them to become 13 km?",
+			"Expressions": [
+				"13-(4+3)",
+				"13-4-3"
+			],
+			"Answer": "6"
+			},
+		"1-E-4-2.4": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two buses have left the bus station and started moving in opposite directions. One bus has gone 5 km, and another one has gone 6 km. How many more km do the buses need to go in order for the distance between them to become 19 km?",
+			"Expressions": [
+				"19-(5+6)",
+				"19-5-6"
+			],
+			"Answer": "8"
+			},
+		"1-E-4-2.5": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two pedestrians have left point A and started walking in opposite directions. The speed of the first pedestrian is 3 km/h, and the speed of another one is 2 km/h more. What will be the distance between the pedestrians in 2 hours?",
+		"Expressions": [
+				"(3+(3+2))+(3+(3+2))"
+			],
+			"Answer": "16"
+			},
+		"1-E-4-2.6": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two moles are digging a hole in opposite directions. One mole can dig 5 dm per hour, and another one 1 dm less.  How many dm longer will the tunnel become in 2 hours?",
+			"Expressions": [
+				"5+(5-1)+5+(5-1)"
+			],
+			"Answer": "18"
+			},
+		"1-E-4-2.7": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Stanley and Eugene left the stadium after the football match and started walking in opposite directions at a speed of 3 km/h. What will be the distance between the boys in 3 hours?",
+			"Expressions": [
+				"(3+3)+(3+3)+(3+3)"
+			],
+			"Answer": "18"
+			},
+        "1-E-4-2.8": {
+			"Score": "400",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Both",
+			"Formula": "S = V*t",
+			"Objective": "Two butterflies, fluttering above a cornflower, started flying in opposite directions. The speed of the first butterfly is 2 m/sec, and the speed of another one is 3 m/sec. What will be the distance between the butterflies be in 2 seconds?",
+			"Expressions": [
+				"(2+3)+(2+3)"
+			],
+			"Answer": "10"
+			},    
+		"1-E-5-2.1": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two hares, having been frightened by each other, are running away in opposite directions. The first hare is running at a speed of x km/h, and another one at y km/h. How many m/h are they running away from each other?",
+			"Expressions": [
+				"x+y"
+			],
+			"Answer": ""
+			},
+		"1-E-5-2.2": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two hares, having been frightened by each other, are running away in opposite directions. One has run a km, and another one b km. What has the distance between the hares become?",
+			"Expressions": [
+				"a+b"
+			],
+			"Answer": ""
+			},
+		"1-E-5-2.3": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two fox cubs are running in opposite directions. The speed of the first one is c km/h, and the speed of another one is d km/h more. How many km/h are the fox cubs running away from each other?",
+			"Expressions": [
+				"c+(c+d)"
+			],
+			"Answer": ""
+			},
+		"1-E-5-2.4": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Two boys started running away from school in opposite directions. One of them has run n km, and another one m km less. What is the distance between the boys now?",
+			"Expressions": [
+				"n+(n-m)"
+			],
+			"Answer": ""
+			},
+		"1-E-5-2.5": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Bob and Peter, having left the cinema, are walking in opposite directions. Bob has walked k km. How many km has Peter walked if the distance between them is v km?",
+			"Expressions": [
+				"v-k"
+			],
+			"Answer": ""
+			},
+		"1-E-5-2.6": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "At a signal, 2 wolves started running from the stump in opposite directions. The speed of the first wolf is x km/h, which is y km/h faster than the speed of the second wolf. How many km/h are the wolves moving away from each other?",
+			"Expressions": [
+				"x+(x-y)"
+			],
+			"Answer": ""
+			},
+		"1-E-5-2.7": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Having left the shop, Kate and Helen started walking in opposite directions. Kate is walking at a speed of b km/h, and Helen - at c km/h. What will be the distance between the girls in 2 hours?",
+			"Expressions": [
+				"(b+c)+(b+c)"
+			],
+			"Answer": ""
+			},
+		"1-E-5-2.8": {
+			"Score": "500",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Oliver and Sergio have left their home and started walking in opposite directions. Oliver has walked l km, and Sergio has walked t km. How many km do the boys have left to go in order for the distance between them to become v km?",
+			"Expressions": [
+				"v-(l+t)",
+				"v-l-t"
+			],
+			"Answer": ""
+			},
+        "1-U-1-2.1": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "It took Maria 2 minutes to walk home from school and 2 minutes to get up in an elevator to reach her flat. How long did it take Maria to get home from school?",
+			"Expressions": [
+			    "2*2"
+			],
+			"Answer": "4"
+			},
+        "1-U-1-2.2": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "It took Maria 2 minutes to walk home from school and 4 minutes to get up in an elevator to reach her flat. How long did it take Maria to get home from school?",
+			"Expressions": [
+			    "4/2"
+			],
+			"Answer": "2"
+			},
+        "1-U-1-2.3": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "It took Maria 2 minutes to walk home from school and 2 minutes to get up in an elevator to reach her flat. How long did it take Maria to get home from school?",
+			"Expressions": [
+			    "(2*2)/2"
+			],
+			"Answer": "2"
+			},
+        "1-U-1-2.4": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "It took Maria 2 minutes to walk home from school and 2 minutes to get up in an elevator to reach her flat. How long did it take Maria to get home from school?",
+			"Expressions": [
+			    "2*2*2"
+			],
+			"Answer": "8"
+			},
+        "1-U-1-2.5": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "It took Maria 8 minutes to walk home from school and 2 minutes to get up in an elevator to reach her flat. How long did it take Maria to get home from school?",
+			"Expressions": [
+			    "8/2/2"
+			],
+			"Answer": "2"
+			},
+        "1-U-1-2.6": {
+			"Score": "50",
+			"Animation": "3-A-1-1.2",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Скорость космического корабля 7 км/ч. За какое время он пролетит 84 км?",
+			"Expressions": [
+				"84/7"
+			],
+			"Answer": "12"
+			},
+		"1-U-1-2.7": {
+			"Score": "50",
+			"Animation": "3-A-1-1.3",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Машина ехала 6 часов со скоростью 80 км/ч. Какое расстояние она проехала?",
+			"Expressions": [
+				"80*6"
+			],
+			"Answer": "480"
+			},
+        "1-U-1-2.8": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Путь от станции до места привала турист прошёл за 4 часа, а велосипедист проехал за 2 часа. Скорость велосипедиста 12км/ч. С какой скоростью шёл турист?",
+			"Expressions": [
+				"12*2/4"
+			],
+			"Answer": "6"
+			},
+		"1-U-1-2.9": {
+			"Score": "100",
+			"Animation": "",
+			"Hint": "",
+			"Solutions": "Expressions",
+			"Formula": "S = V*t",
+			"Objective": "Черепаха за 5 минут проползает 20 метров.  Сколько метров она проползет за12мин?",
+			"Expressions": [
+				"20/5*12"
+			],
+			"Answer": "48"
+			}
+		}
+}

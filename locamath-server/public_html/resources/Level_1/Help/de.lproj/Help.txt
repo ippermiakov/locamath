@@ -1,0 +1,469 @@
+{
+        "1-A-1": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Wir helfen dir in Losung der Aufgaben auszukennen!",
+                "boyPhrase": "In diesem Abschnitt sind einfache Aufgaben zu Objektbewegungen in einer Richtung!",
+                "board": "Objektbewegung in einer Richtung",            	
+                "exampleImages": [
+                    "scheme_1-A-1-Ex1.png",
+                    "scheme_1-A-1-Ex2.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "Wir wissen, wie viel Ameise vom Haus bis zur Blume und von der Blume bis zum Pilz gelaufen ist! Und wie viel ist sie INSGESAMT gelaufen?",
+                "boyPhrase": "Dafür müssen wir 7 und 12 addieren. Zähl mal selbst!",
+                "board": "Beispiel 1",
+                "animation": "1_a1_11_N.swf"
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "Wir wissen, wie viel Schnecke bis zum Pilz gekrochen ist und wie viel sie INSGESAMT kriechen muss! Und wie viel es vom Pilz bis zur Blume geblieben ist?",
+                "boyPhrase": "Um zu erfahren, wie viel die Schnecke noch kriechen muss, muss man von der GESAMMTEN Entfernung schon gekrochene Entfernung subtrahieren: 16-9. Zähl mal selbst!",
+                "board": "Beispiel 2",
+                "animation": "1_a1_13_N.swf"
+            }
+        ],
+        "1-A-2": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Setzen wir einfache Aufgaben für Bewegung in einer Richtung fort!",
+                "boyPhrase":  "In diesem Abschnitt wird es ein bisschen schwerer!",
+                "board": "Objektbewegungen in einer Richtung",
+                "exampleImages": [
+                    "scheme_1-A-2-Ex1.png",
+                    "scheme_1-A-2-Ex2.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase" : "Wir kennen die Geschwindigkeit, mit der Luisa läuft. Und Steffen läuft mit derselben Geschwindigkeit, aber 2 Stundenkilometer schneller. Welche Geschwindigkeit hat Steffen?",
+                "boyPhrase": "Dafür müssen wir 7 und 12 addieren. Zähl mal selbst!",
+                "board": "Beispiel 1",
+                "animation": "1_a2_11_N.swf"
+            },
+            {
+                "pageType": "static",
+                "girlPhrase" : "Wir wissen, dass der Hase 12 Stunden verfolgt wurde. Und der Fuchs wurde 3 Stunden weniger verfolgt. Wie viel Zeit wurde der Fuchs verfolgt?",
+                "boyPhrase": "Um zu erfahren, wie viel Zeit der Fuchs verfolgt wurde, muss man 3 von 12 subtrahieren: 12-3. Zähl mal selbst!",
+                "board": "Beispiel 2",
+                "exampleImages": [
+                "scheme_1-A-2-Ex2_INT.png"
+                ]
+            }
+        ],
+        "1-A-3": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! In diesem Abschnitt versuchen wir dich zu verwirren!",
+                "boyPhrase": "Hier sind dieselben Aufgaben, aber lies aufmerksam vor, weil Aufgabenstellung einen Hacken haben kann!",
+                "board": "Objektbewegung in einer Richtung",
+                "exampleImages": [
+                    "scheme_1-A-2-Ex1.png",
+                    "scheme_1-A-3-Ex2.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Wir kennen Marias Geschwindigkeit. Wir wissen, dass ihre Geschwindigkeit 2 Stundenkilometer weniger ist. Mit welcher Geschwindigkeit läuft Steffen?",
+                "boyPhrase": "Wenn Geschwindigkeit von Maria weniger als Steffens Geschwindigkeit ist, müssen wir zu Marias Geschwindigkeit die Zahl addieren, die zeigt, dass ihre Geschwindigkeit weniger ist. Das heißt: 6+2. Zähl mal selbst!",
+                "board": "Beispiel 1",
+                "exampleImages": [
+                    "scheme_1-A-3-Ex1_GER.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Wir wissen, dass die Touristen 8 Stunden zu Fuß gegangen sind, und 2 Stunden mehr mit dem Boot gefahren sind. Zuerst müssen wir finden, wie viel die Touristen mit dem Boot gefahren sind: 8+2",
+                "boyPhrase": "Jetzt können wir finde, wie viel Zeit die Touristen unterwegs waren. Dann addieren wir die Zeit, wenn sie zu Fuß gegangen sind, und die Zeit, wenn sie mit dem Boot gefahren sind: 8+8+2. Zähl mal selbst!",
+                "board": "Beispiel 2",
+                "exampleImages": [
+                    "scheme_1-A-3-Ex2_INT.png"
+                ]
+            }
+
+        ],
+        "1-A-4": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Du machst alles sehr gut! Fügen wir noch einen Streckenabschnitt hinzu!",
+                "boyPhrase": "Früher haben wir die Aufgaben mit zwei Streckenabschnitten gelöst. Und jetzt erschweren wir die Aufgabe und fügen noch einen Streckenabschnitt hinzu.",
+                "board": "Objektbewegung in einer Richtung",
+                "exampleImages": [
+                    "scheme_1-A-4-Ex1.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Wir wissen, wie viel Touristen insgesamt zurücklegen müssen, und wie viel sie in 2 Tagen zurückgelegt haben: im ersten und im zweiten Tag. Wie viel ist es ihnen geblieben?",
+                "boyPhrase": "Wir können diese Aufgabe auf zweierlei Art losen!",
+                "board": "Beispiel 1",
+                "exampleImages": [
+                    "scheme_1-A-4-Ex1_INT.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Die erste Art: wir können Entfernungen, die Touristen im ersten und im zweiten Tag zurückgelegt haben, addieren. Von der Entfernung, die sie INSGESAMT zurücklaufen müssen, muss man die Zahl, die wir bekommen haben, subtrahieren: 20-(7+5).",
+                "boyPhrase": "Die zweite Art: Wir können von der gesamten Entfernung, die sie zurücklegen müssen, die Entfernungen vom ersten und zweiten Tag subtrahieren: 20-7-5.",
+                "board": "Beispiel 1",
+                "exampleImages": [
+                    "scheme_1-A-4-Ex1_INT_2.png"
+                ]
+            }
+        ],
+        "1-A-5": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Jetzt ist es Zeit, sich zu prüfen!",
+                "boyPhrase": "Bei der Lösung der Testaufgaben kannst du dich prüfen, wie gut du dich in Aufgaben auskennst!",
+                "board": "Objektbewegung in einer Richtung",
+                "exampleImages": [
+                    "scheme_1-A-1-Ex1.png",
+                    "scheme_1-A-1-Ex2.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Wir haben Zahlen durch Buchstaben ersetzt! Du musst nichts zählen, aber du prüfst, wie gut du die Aufgabenstellung verstehst!",
+                "boyPhrase": "Viel Glück!",
+                "board": "Objektbewegung in einer Richtung",
+                "exampleImages": [
+                    "scheme_1-A-4-Ex1.png"
+                ]
+            }
+        ],
+        "1-B-1": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Hallo! Wir helfen dir in Lösung der Aufgaben auszukennen!",
+                        "boyPhrase": "In diesem Abschnitt gibt es die Aufgaben zu aufeinanderfolgende Objektbewegung in verschiedenen Streckenabschnitten!",
+                        "board": "Aufeinanderfogende Objektbewegung in verschiedenen Streckenabschnitten",
+                        "exampleImages": [
+                                          "scheme_1-B-1-Ex1.png",
+                                          "scheme_1-B-1-Ex2.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "animation",
+                        "girlPhrase": "Wir wissen, wie viel die Schnecke im ersten und wie viel mehr im zweiten Tag gekrochen ist. Und wie viel ist sie INSGESAMMT gekrochen?",
+                        "boyPhrase": "Dafür müssen wir zur Entfernung, die sie im ersten Tag gekrochen ist, Entfernung es zweiten Tages addieren: (7+3)+7. Zähl mal selbst!",
+                        "board": "Beispiel 1",
+                        "animation": "1_b1_11_N.swf"
+                    }
+                    ],
+        "1-B-2": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Hallo! Setzen wir die Aufgaben zu aufeinanderfolgende Objektbewegung in verschiedenen Streckenabschnitten fort!",
+                        "boyPhrase": "In diesem Abschnitt wird es ein bisschen schwerer! Wir haben noch einen Streckenabschnitt hinzugefügt!",
+                        "board": "Aufeinanderfolgende Objektbewegung in verschiedenen Streckenabschnitten",
+                        "exampleImages": [
+                                          "scheme_1-B-2-Ex1.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Wir wissen, wie viel Touristen im ersten und im zweiten Tag zurückgelegt haben. Wie viel sie INSGESAMT zurücklegen müssen, wenn sie im dritten Tag mit dem Hubschrauber dieselbe Entfernung geflogen sind, wie im ersten und im zweiten Tag insgesamt zurückgelegt haben?",
+                        "boyPhrase": "Dafür müssen wir Entfernungen der ersten zwei Tage zu Entfernung des dritten Tages addieren: 12+7+(12+7). Zähl mal selbst!",
+                        "board": "Beispiel 1",
+                        "exampleImages": [
+                                    "scheme_1-B-2-Ex1_INT.png"
+                                        ]   
+                    }
+                    ],
+        "1-B-3": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Hallo! Und in diesem Abschnitt versuchen wir dich zu verwirren!",
+                        "boyPhrase": "Hier sind dieselben Aufgaben, aber du musst aufmerksam vorlesen, weil die Aufgabenstellung einen Hacken haben kann!",
+                        "board": "Aufeinanderfolgende Objektbewegung in verschiedenen Streckenabschnitten",
+                        "exampleImages": [
+                                          "scheme_1-B-3-Ex1.png",
+                                          "scheme_1-B-3-Ex2.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "animation",
+                        "girlPhrase": "Wir wissen, wie viel Schnecke am Tag und in der Nacht gekrochen ist. Und wie viel ist sie INSGESAMT gekrochen?",
+                        "boyPhrase": "Um die ganze Entfernung zu finden, muss man Entfernungen des Tages und der Nacht addieren: 5+3. Zähl mal selbst!",
+                        "board": "Beispiel 1",
+                        "animation": "1_b3_11_N.swf"
+                    },
+                    {
+                        "pageType": "animation",
+                        "girlPhrase": "Wir wissen, wie viel die Schnecke am Tag nach oben gekrochen und wie viel sie hinuntergestiegen ist. Man muss finden, wie hoch von der Erde die Schnecke morgens wird sein.",
+                        "boyPhrase": "Um diese Entfernung zu finden, muss man von der Entfernug, die sie nach oben gekrochen ist, die Entfernung subtrahieren, die sie hinuntergestiegen st: 5-3. Zähl mal selbst!",
+                        "board": "Beispiel 2",
+                        "animation": "1_b3_12_N.swf"
+                    }
+                    ],
+        "1-B-4": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Hallo! Du machst alles sehr gut! Und Aufgaben werden noch schwerer!",
+                        "boyPhrase": "Man muss die Entfernung in einigen Streckenabschnitten finden, und nur dann die gesamte Entfernung!",
+                        "board": "Aufeinanderfolgende Objektbewegung in verschiedenen Streckenabschnitten",
+                        "exampleImages": [
+                                          "scheme_1-B-4-Ex1.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Im ersten Tag haben Touristen 3 Kilometer zurückgelegt, und in zweiten sind sie mit dem Boot an 2 Kilometer mehr weit. Das heißt, dass sie für den zweiten Tag 2+3 bewältigt haben.",
+                        "boyPhrase": "Für dritten Tag haben Touristen so viel, wie in ersten zwei Tagen zurückgelegt: 3+(3+2). Um alle Entfernungen, die sie zurückgekegt haben, zu finden, muss man alle drei Entfernungen addieren: 3+(3+2)+(3+(3+2)). Zähl mal selbst!",
+                        "board": "Bispiel 1",
+                        "exampleImages": [
+                                        "scheme_1-B-4-Ex1_INT.png"
+                                        ]
+                    }
+                    ],
+        "1-B-5": [
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Hallo! Jetzt ist es Zeit, sich zu prüfen!",
+                        "boyPhrase": "Bei der Lösung der Testaufgaben kannst du dich prüfen, wie gut du dich in Aufgaben auskennst!",
+                        "board": "Aufeinanderfolgende Objektbewegung in verschiedenen Streckenabschnitten",
+                        "exampleImages": [
+                                          "scheme_1-B-1-Ex1.png",
+                                          "scheme_1-B-1-Ex2.png"
+                                          ]
+                    },
+                    {
+                        "pageType": "static",
+                        "girlPhrase": "Wir haben Zahlen durch Buchstaben ersetzt! Du musst nichts zählen, aber du prüfst, wie gut du die Aufgabenstellung verstehst!",
+                        "boyPhrase": "Viel Glück!",
+                        "board": "Aufeinanderfolgende Objektbewegung in verschiedenen Streckenabschnitten",
+                        "exampleImages": [
+                                          "scheme_1-B-3-Ex1.png",
+                                          "scheme_1-B-2-Ex1.png"
+                                          ]
+                    }
+         ],
+         "1-C-1": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Wir helfen dir in Lösung der Aufgaben auszukennen!",
+                "boyPhrase": "In diesem Abschnitt sind die Aufgaben zu Annäherung zwei Objekten!",
+                "board": "Aufgaben zu Annäherung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-C-1-Ex1_GER.png",
+                    "scheme_1-C-1-Ex2_GER.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Erste Ameise läuft 6 Meter in einer Stunde, das heißt, dass sie in eine Stunde 6 Meter läuft. Zweite Ameise läuft 8 Meter in der Stunde!",
+                "boyPhrase": "Wenn wir die zwei Entfernungen, die beide Ameisen für 1 Stunde laufen, addieren, können wir erfahren, wie schnell sie einander in einer Stunde näherkommen: 6+8. Zähl mal selbst!",
+                "board": "Beispiel 1",
+                "exampleImages": [
+                    "scheme_1-C-1-Ex1_GER-1.png"
+                ]
+            }
+        ],
+        "1-C-2": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Setzen wir die Aufgaben in Annäherung zwei Objekten fort!",
+                "boyPhrase": "In diesem Abschnitt wird es ein bisschen schwerer!",
+                "board": "Aufgaben zu Annäherung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-C-2-Ex1_GER.png",
+                    "scheme_1-C-2-Ex2_GER.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Wir wissen, dass Ferkel 8 Meter in einer Minute läuft, und Winnie 2 Meter mehr als Ferkel. Welche Entfernung läuft Winnie in eine Minute: 8+2.",
+                "boyPhrase": "Dafür müssen wir die beiden Entfernungen addieren: 8+(8+2). Zähl mal selbst!",
+                "board": "Beispiel 1",
+                "exampleImages": [
+                    "scheme_1-C-2-Ex1_GER-1.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Wir wissen, dass zwei Freunde entgegen einander gehen. der erste Freund hat 9 Kilometer zurückgelegt, und der zweite 2 Kilometer weniger. Um wie viel mehr Kilometer haben sie sich genähert?",
+                "boyPhrase": "Zuerst finden wir die Entfernung, die der zweite Freund zurükgelegt hat: 9-2. Dann addieren wir die Entfernung, die sie insgesannt zurückgekegt haben: 9+(9-2). Zähl mal selbst!",
+                "board": "Beispiel 2",
+                "exampleImages": [
+                    "scheme_1-C-2-Ex2_GER-1.png"
+                ]
+            }
+        ],
+        "1-C-3": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! In diesem Abschnitt werden die Aufgaben schwerer!",
+                "boyPhrase": "Lies aufmerksam vor, weil Aufgabenstellung einen Hacken haben kann!",
+                "board": "Aufgaben zu Annäherung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-C-3-Ex1_GER.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "Wir wissen, dass Kleine 5 Kilometer und Karlsson 7 gelaufen sind. Die gesamte Entfernung zwischen ihnen umfasst 18 Kilometer.",
+                "boyPhrase": "Um zu finden, wie viel sie noch zu einander gehen müssen, muss man von der gesamten Entfernung das subtrahieren, was sie schon gelaufen sind: 18-(5+7). Zähl mal selbst!",
+                "board": "Beispiel 1",
+                "animation": "1_c3_12_N.swf"
+            }
+        ],
+        "1-C-4": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Du machst alles sehr gut! Und Aufgaben werden noch schwerer!",
+                "boyPhrase": "Man muss die Entfernung in einigen Streckenabschnitten finden, und nur dann die gesamte Entfernung!",
+                "board": "Aufgaben zu Annäherung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-C-4-Ex1_GER.png",
+                    "scheme_1-C-4-Ex2_GER.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Wir wissen, dass Kristopher 4 Kilometer zurückgelegt hat, und Ru 5 Kilometer mehr. Die gesamte Entfernung zwischen ihnen ist 15 Kilometer.",
+                "boyPhrase": "Um zu finden, wie viel sie noch zu einander gehen müssen, muss man von der gesamten Entfernung das subtrahieren, was sie schon gelaufen sind: 15-(4+(4+5)) Zähl mal selbst!",
+                "board": "Beispiel 1",
+                "exampleImages": [
+                    "scheme_1-C-4-Ex1_GER-1.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "Wir wissen, dass Steffen 3 und Emil 2 Kilometer in einer Stunde gelaufen sind. Wir müssen finden, wie viele Kilometer sie zusammen zurückgelegt haben.",
+                "boyPhrase": "Zählen wir, wie viel sie zusammen in einer Stunde, und dann wie viel in zwei Stunden zurückgelegt haben. Addieren wir die beiden Entfernungen: (3+2)+(3+2). Zähl mal selbst!",
+                "board": "Beispiel 2",
+                "animation":"1_c4_12_N.swf"
+            }
+        ],
+        "1-C-5": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Jetzt ist es Zeit, sich zu prüfen!",
+                "boyPhrase": "Bei der Lösung der Testaufgaben kannst du dich prüfen, wie gut du dich in Aufgaben auskennst!",
+                "board": "Aufgaben zu Annäherung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-C-1-Ex1_GER.png",
+                    "scheme_1-C-2-Ex2_GER.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Wir haben Zahlen durch Buchstaben ersetzt! Du musst nichts zählen, aber du prüfst, wie gut du die Aufgabenstellung verstehst!",
+                "boyPhrase": "Viel Glück!",
+                "board": "Aufgaben zu Annäherung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-C-3-Ex1_GER.png",
+                    "scheme_1-C-4-Ex2_GER.png"
+                ]
+            }
+        ],
+        "1-E-1": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Wir helfen dir in Lösung der Aufgaben auszukennen!",
+                "boyPhrase": "In diesem Abschnitt sind Aufgaben zu Entfernung zwei Objekten!",
+                "board": "Aufgaben zu Entfernung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-E-1-Ex1_GER.png",
+                    "scheme_1-E-1-Ex2_GER.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "Der erste Hase läuft 3 Stundenkilometer, das heißt, dass er in einer Stunde 3 Kilometer lauft. Der zweite Hase läuft 2 Stundenkilometer!",
+                "boyPhrase": "Wenn wir die zwei Entfernungen, die sie in einer Stunde laufen, addieren, dann erfahren wir, wie viel sie von einander in einer Stunde entfernen: 3+2. Zähl mal selbst!",
+                "board": "Beispiel 1",
+                "animation": "1_e1_11_N.swf"
+            }
+        ],
+        "1-E-2": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Setzen wir die Aufgaben zu Entfernung zwei Objekten fort!",
+                "boyPhrase": "In diesem Abschnitt wird es schwerer!",
+                "board": "Aufgaben zu Entfernung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-E-2-Ex1_GER.png",
+                    "scheme_1-E-2-Ex2_GER.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Wir wissen, dass der erste Fuchs 4 Stundenkilometer gelaufen ist, und der zweite 2 Kilometer schneller in einer Stunde als erster. Finden wir, welche Entfernung der zweite Fuchs in einer Stunde gelaufen ist: 4+2.",
+                "boyPhrase": "Um die Entfernung, die zeigt, wie viel sie voneinander entfernt haben, zu finden, muss man Entfernungen, die sie gelaufen sind, addieren: 4+(4+2). Zähl mal selbst!",
+                "board": "Beispiel 1",
+                "exampleImages": [
+                    "scheme_1-E-2-Ex1_GER-1.png"
+                ]
+            }
+        ],
+        "1-E-3": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! In diesem Abschnitt werden die Aufgaben schwerer!",
+                "boyPhrase": "Lies aufmerksam vor, weil Aufgabenstellung einen Hacken haben kann.",
+                "board": "Aufgaben zu Entfernung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-E-3-Ex1_GER.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "Wir wissen, dass Rene 4 Kilometer gelaufen ist, und gesamte Entfernung zwischen Jungen ist 7 Kilometer.",
+                "boyPhrase": "Um zu finden, wie viel Peter gelaufen ist, muss man von der GESAMMTEN Entfernung Renes Entfernung subtrahieren: 7-4. Zahl mal selbst!",
+                "board": "Beispiel 1",
+                "animation": "1_e3_11_N.swf"
+            }
+        ],
+        "1-E-4": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Du machst alles sehr gut! Und Aufgaben werden noch schwerer!",
+                "boyPhrase": "Man muss die Entfernung in einigen Streckenabschnitten finden, und nur dann die gesamte Entfernung!",
+                "board": "Aufgaben zu Entfernung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-E-4-Ex1_GER.png",
+                    "scheme_1-E-4-Ex2.png"
+                ]
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "Wir wissen, dass Luisa 3 und Helen 4 Kilometer in einer Stunde gelaufen sind. Man muss finden, wie viel sie zu zweit in 2 Stunde gelaufen sind.",
+                "boyPhrase": "Man muss finden, wie viel sie zu zweit in einer Stunde, und dann in zweiter Stunde gelaufen sind. Addieren wir die beiden Entfernungen: (3+4)+(3+4). Zähl mal selbst!",
+                "board": "Beispiel 1",
+                "animation": "1_e4_11_N.swf"
+            },
+            {
+                "pageType": "animation",
+                "girlPhrase": "Wir wissen, dass Gerd 2 und Rene 3 Kilometer gelaufen sind. INSGESAMT müssen sie voneinander an 9 Kilometer entfernen.",
+                "boyPhrase": "Um zu finden, wie viel sie noch laufen müssen, muss man von der gesamten Entfernung das subtrahieren, was sie schon zurückgelegt haben: 9-(2+3). Zähl mal selbst!",
+                "board": "Beispiel 2",
+                "animation": "1_e4_12_N.swf"
+            }
+        ],
+        "1-E-5": [
+            {
+                "pageType": "static",
+                "girlPhrase": "Hallo! Jetzt ist es Zeit, sich zu prüfen!",
+                "boyPhrase": "In Testaufgaben kannst du dich prüfen, wie gut du dich in Aufgaben auskennst!",
+                "board": "Aufgaben zu Entfernung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-E-1-Ex1_GER.png",
+                    "scheme_1-E-2-Ex1_GER.png"
+                ]
+            },
+            {
+                "pageType": "static",
+                "girlPhrase": "Wir haben Zahlen durch Buchstaben ersetzt! Du musst nichts zählen, aber du prüfst, wie gut du die Aufgabenstellung verstehst!",
+                "boyPhrase": "Viel Glück!",
+                "board": "Aufgaben zu Entfernung zwei Objekten",
+                "exampleImages": [
+                    "scheme_1-E-3-Ex1_GER.png",
+                    "scheme_1-E-4-Ex2.png"
+                ]
+            }
+        ]
+}
